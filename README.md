@@ -1,18 +1,8 @@
-# 📅 GitHub Daily Trending Report
+# 📅 GitHub 每日热门榜
 
 > 每日 GitHub 热门项目追踪，支持按日期切换查看
 
 **🌐 在线页面：** https://github.com/JinBoy23520/daily-github-trends
-
----
-
-## 💻 本地代码位置
-
-```
-/Users/jin/.qclaw/workspace/daily-github-trends
-```
-
-> 修改后记得 `git add . && git commit -m "your change" && git push` 推送到 GitHub
 
 ---
 
