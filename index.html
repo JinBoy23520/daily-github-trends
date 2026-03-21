@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub Daily Trending Report</title>
+<style>
+  :root {
+    --bg: #0d1117;
+    --card: #161b22;
+    --border: #30363d;
+    --text: #c9d1d9;
+    --muted: #8b949e;
+    --accent: #58a6ff;
+    --green: #3fb950;
+    --orange: #d29922;
+    --red: #f85149;
+    --purple: #bc8cff;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: var(--bg); color: var(--text); min-height: 100vh; padding: 2rem; }
+  .container { max-width: 1100px; margin: 0 auto; }
+
+  header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 2rem; flex-wrap: wrap; gap: 1rem; }
+  header h1 { font-size: 1.4rem; color: #fff; }
+  header a { color: var(--accent); text-decoration: none; font-size: 0.9rem; }
+
+  .date-nav { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-bottom: 2rem; }
+  .date-btn {
+    padding: 0.4rem 0.9rem;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--card);
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 0.85rem;
+    transition: all 0.2s;
+  }
+  .date-btn:hover { border-color: var(--accent); color: var(--accent); }
+  .date-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+
+  .report-meta { color: var(--muted); font-size: 0.85rem; margin-bottom: 1.5rem; }
+  .report-meta span { margin-right: 1rem; }
+
+  h2 { font-size: 1.1rem; color: #fff; margin: 1.8rem 0 0.8rem; padding-bottom: 0.4rem; border-bottom: 2px solid var(--border); display: flex; align-items: center; gap: 0.5rem; }
+  h2 .emoji { font-size: 1rem; }
+
+  table { width: 100%; border-collapse: collapse; font-size: 0.88rem; margin-bottom: 1rem; }
+  th { text-align: left; padding: 0.6rem 0.8rem; background: var(--card); color: var(--muted); border-bottom: 1px solid var(--border); font-weight: 600; font-size: 0.8rem; }
+  td { padding: 0.6rem 0.8rem; border-bottom: 1px solid var(--border); vertical-align: middle; }
+  tr:hover td { background: #1c2128; }
+  td a { color: var(--accent); text-decoration: none; }
+  td a:hover { text-decoration: underline; }
+  td.lang { color: var(--green); font-size: 0.8rem; }
+  td.stars { color: var(--orange); white-space: nowrap; }
+  td.rank { color: var(--muted); font-size: 0.8rem; width: 2.5rem; }
+  td.use { color: var(--muted); font-size: 0.82rem; max-width: 200px; }
+  td.repo a { font-weight: 600; }
+
+  .empty { color: var(--muted); padding: 2rem; text-align: center; }
+</style>
+</head>
+<body>
+<div class="container">
+
+  <header>
+    <h1>📅 GitHub Daily Trending</h1>
+    <a href="https://github.com/JinBoy23520/daily-github-trends" target="_blank">View on GitHub</a>
+  </header>
+
+  <div class="date-nav" id="dateNav"></div>
+  <div class="report-meta" id="meta"></div>
+  <div id="content"></div>
+
+</div>
+
+<script>
+// ── DATA START ──────────────────────────────────────────────────────────────
+const DATA = {"2026-03-21": {"daily":[{"repo":"Crosstalk-Solutions/project-nomad","desc":"Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr","stars":"+2,054","lang":"TypeScript","use":"离线生存模拟器"},{"repo":"jarrodwatts/claude-hud","desc":"A Claude Code plugin that shows what's happening - context usage, active tools, ","stars":"+957","lang":"JavaScript","use":"Claude Code插件"},{"repo":"opendataloader-project/opendataloader-pdf","desc":"PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.","stars":"+954","lang":"Java","use":"PDF转AI可用数据"},{"repo":"louis-e/arnis","desc":"Generate any location from the real world in Minecraft with a high level of deta","stars":"+680","lang":"Rust","use":"真实地图生成MC"},{"repo":"FujiwaraChoki/money-online","desc":"Automate the process of making money online.","stars":"+379","lang":"Python","use":"自动化赚钱爬虫"},{"repo":"vllm-project/vllm","desc":"A framework for efficient model inference with omni-modality models","stars":"+82","lang":"Python","use":"大模型推理框架"},{"repo":"systemd/systemd","desc":"The systemd System and Service Manager","stars":"+47","lang":"C","use":"Linux服务管理"},{"repo":"aquasecurity/trivy","desc":"Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes","stars":"+22","lang":"Go","use":"容器/K8s漏洞扫描"},{"repo":"protocolbuffers/protobuf","desc":"Protocol Buffers - Google's data interchange format","stars":"+7","lang":"C++","use":"跨语言数据序列化"}],"weekly":[{"repo":"666ghj/MiroFish","desc":"A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能","stars":"+16,022","lang":"Python","use":"群体智能引擎"},{"repo":"jarrodwatts/claude-hud","desc":"A Claude Code plugin that shows what's happening - context usage, active tools, ","stars":"+4,693","lang":"JavaScript","use":"Claude Code插件"},{"repo":"lightpanda-io/browser","desc":"Lightpanda: the headless browser designed for AI and automation","stars":"+8,189","lang":"Zig","use":"AI自动化浏览器"},{"repo":"obra/sponsors","desc":"An agentic skills framework & software development methodology that works.","stars":"+19,921","lang":"Shell","use":"Agent技能开发框架"},{"repo":"langchain-ai/deepagents","desc":"Agent harness built with LangChain and LangGraph. Equipped with a planning tool,","stars":"+5,187","lang":"Python","use":"LangChain Agent框架"},{"repo":"koala73/worldmonitor","desc":"Real-time global intelligence dashboard — AI-powered news aggregation, geopoliti","stars":"+33,076","lang":"TypeScript","use":"AI新闻舆情看板"},{"repo":"shadps4-emu/shadPS4","desc":"PlayStation 4 emulator for Windows, Linux and macOS written in C++","stars":"+1,658","lang":"C++","use":"PS4模拟器"}],"monthly":[{"repo":"666ghj/MiroFish","desc":"A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能","stars":"+32,574","lang":"Python","use":"群体智能引擎"},{"repo":"ruvnet/RuView","desc":"π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose ","stars":"+31,688","lang":"Rust","use":"WiFi人体姿态识别"},{"repo":"koala73/worldmonitor","desc":"Real-time global intelligence dashboard — AI-powered news aggregation, geopoliti","stars":"+33,076","lang":"TypeScript","use":"AI新闻舆情看板"},{"repo":"shadraisshan/claude-code-best-practice","desc":"practice made claude perfect","stars":"+16,574","lang":"HTML","use":"Claude Code最佳实践"},{"repo":"bytedance/deer-flow","desc":"An open-source SuperAgent harness that researches, codes, and creates. With the ","stars":"+12,170","lang":"Python","use":"超级Agent研究助手"},{"repo":"moeru-ai/airi","desc":"💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l","stars":"+17,554","lang":"TypeScript","use":"开源Grok陪伴AI"},{"repo":"volcengine/OpenViking","desc":"OpenViking is an open-source context database designed specifically for AI Agent","stars":"+13,725","lang":"Python","use":"AI Agent上下文数据库"},{"repo":"shareAI-lab/learn-claude-code","desc":"Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ","stars":"+17,374","lang":"TypeScript","use":"轻量Claude Code套件"},{"repo":"huggingface/skills","desc":"Give your agents the power of the Hugging Face ecosystem","stars":"+8,233","lang":"Python","use":"HuggingFace Agent工具包"},{"repo":"obra/sponsors","desc":"An agentic skills framework & software development methodology that works.","stars":"+45,528","lang":"Shell","use":"Agent技能开发框架"}]}};
+const DATES = Object.keys(DATA).sort();
+
+function render(d) {
+  const sections = [
+    {key:'daily', emoji:'🕐', title:'今日热榜', starLabel:'⭐ 今日'},
+    {key:'weekly', emoji:'📆', title:'本周热榜', starLabel:'⭐ 本周'},
+    {key:'monthly', emoji:'📆', title:'本月热榜', starLabel:'⭐ 本月'},
+  ];
+  let html = '';
+  sections.forEach(s => {
+    const list = d[s.key];
+    if (!list || list.length === 0) return;
+    html += `<h2><span class="emoji">${s.emoji}</span> ${s.title}</h2>
+    <table>
+      <thead><tr><th>#</th><th>仓库</th><th>${s.starLabel}</th><th>语言</th><th>用途</th></tr></thead>
+      <tbody>`;
+    list.forEach((r, i) => {
+      html += `<tr>
+        <td class="rank">${i+1}</td>
+        <td class="repo"><a href="https://github.com/${r.repo}" target="_blank">${r.repo}</a></td>
+        <td class="stars">${r.stars}</td>
+        <td class="lang">${r.lang}</td>
+        <td class="use">${r.use}</td>
+      </tr>`;
+    });
+    html += '</tbody></table>';
+  });
+  document.getElementById('content').innerHTML = html;
+}
+
+// Build date nav
+const nav = document.getElementById('dateNav');
+let activeDate = DATES[DATES.length - 1];
+DATES.slice().reverse().forEach(date => {
+  const btn = document.createElement('button');
+  btn.className = 'date-btn' + (date === activeDate ? ' active' : '');
+  btn.textContent = date;
+  btn.onclick = () => {
+    document.querySelectorAll('.date-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    render(DATA[date]);
+  };
+  nav.appendChild(btn);
+});
+
+// Render latest
+render(DATA[activeDate]);
+</script>
+
+</body>
+</html>
