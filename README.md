@@ -2,65 +2,37 @@
 
 > 每日 GitHub 热门项目追踪，支持按日期切换查看
 
----
-
-## 📆 日期选择
-
-<script>
-function loadDate(date) {
-  document.getElementById('date-title').textContent = date;
-  fetch('data/' + date + '.json')
-    .then(r => r.json())
-    .then(data => render(data))
-    .catch(() => renderEmpty());
-}
-
-function render(data) {
-  let html = '';
-  ['daily','weekly','monthly'].forEach(key => {
-    const label = {daily:'🕐 今日热榜', weekly:'📆 本周热榜', monthly:'📆 本月热榜'}[key];
-    const starLabel = {daily:'⭐ 今日', weekly:'⭐ 本周', monthly:'⭐ 本月'}[key];
-    if(!data[key]) return;
-    html += `<h3>${label}</h3>
-    <table>
-    <thead><tr><th>#</th><th>仓库</th><th>${starLabel}</th><th>语言</th><th>描述</th></tr></thead>
-    <tbody>`;
-    data[key].forEach((r,i) => {
-      html += `<tr>
-        <td>${i+1}</td>
-        <td><a href="https://github.com/${r.repo}" target="_blank">${r.repo}</a></td>
-        <td>${r.stars}</td>
-        <td>${r.lang}</td>
-        <td>${r.use}</td>
-      </tr>`;
-    });
-    html += '</tbody></table>';
-  });
-  document.getElementById('content').innerHTML = html;
-}
-
-function renderEmpty() {
-  document.getElementById('content').innerHTML = '<p>暂无数据</p>';
-}
-</script>
-
-<div id="date-picker"></div>
-<h2 id="date-title">选择日期</h2>
-<div id="content"><p>请从上方选择日期</p></div>
-
-<script>
-// Build date picker
-const picker = document.getElementById('date-picker');
-const dates = DATA_LIST || [];
-dates.slice(-14).reverse().forEach(d => {
-  const btn = document.createElement('button');
-  btn.textContent = d;
-  btn.onclick = () => loadDate(d);
-  picker.appendChild(btn);
-});
-if(dates.length) loadDate(dates[dates.length-1]);
-</script>
+**🌐 在线页面：** https://JinBoy23520.github.io/daily-github-trends
 
 ---
 
-*由 QClaw 自动生成推送*
+## 📌 使用说明
+
+打开上方链接，点击顶部日期按钮即可切换查看不同日期的热门榜单。
+
+每日数据存档位于 `data/` 目录，格式为 `YYYY-MM-DD.json`。
+
+---
+
+## 📊 数据格式
+
+每条记录包含以下字段：
+
+| 字段 | 说明 |
+|------|------|
+| `repo` | 仓库全名（owner/name） |
+| `desc` | 原始英文描述 |
+| `stars` | 周期内累计 Stars |
+| `lang` | 编程语言 |
+| `use` | 中文用途说明 |
+
+---
+
+## ⚙️ 自动更新
+
+- **QClaw 推送**：每天 08:00（北京时区）推送到 Web 聊天
+- **GitHub Actions**：每天 00:00 UTC 自动抓取数据并提交到 `data/` 目录
+
+---
+
+*由 QClaw 自动生成与维护*
