@@ -1,0 +1,331 @@
+{
+  "date": "2026-03-23",
+  "daily": [
+    {
+      "repo": "sponsors/FujiwaraChoki",
+      "desc": "Automate the process of making money online.",
+      "stars": "1,787",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "1,051",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "vxcontrol/pentagi",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration test",
+      "stars": "1,069",
+      "lang": "Go",
+      "use": ""
+    },
+    {
+      "repo": "jamwithai/production-agentic-rag-course",
+      "desc": "",
+      "stars": "237",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "sponsors/affaan-m",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
+      "stars": "3,724",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "jarrodwatts/claude-hud",
+      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, ",
+      "stars": "834",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr",
+      "stars": "2,300",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "systemd/systemd",
+      "desc": "The systemd System and Service Manager",
+      "stars": "313",
+      "lang": "C",
+      "use": ""
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "desc": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "stars": "428",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "HKUDS/LightRAG",
+      "desc": "[EMNLP2025] \"LightRAG: Simple and Fast Retrieval-Augmented Generation\"",
+      "stars": "220",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "hsliuping/TradingAgents-CN",
+      "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "stars": "230",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "louis-e/arnis",
+      "desc": "Generate any location from the real world in Minecraft with a high level of deta",
+      "stars": "582",
+      "lang": "Rust",
+      "use": ""
+    },
+    {
+      "repo": "aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes",
+      "stars": "251",
+      "lang": "Go",
+      "use": ""
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the ",
+      "stars": "1,690",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "stars": "189",
+      "lang": "Python",
+      "use": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "jarrodwatts/claude-hud",
+      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, ",
+      "stars": "6,411",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
+      "stars": "13,473",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "sponsors/obra",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars": "20,036",
+      "lang": "Shell",
+      "use": ""
+    },
+    {
+      "repo": "langchain-ai/deepagents",
+      "desc": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool,",
+      "stars": "5,498",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "sponsors/affaan-m",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
+      "stars": "19,975",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "sponsors/FujiwaraChoki",
+      "desc": "Automate the process of making money online.",
+      "stars": "3,659",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "desc": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": "5,947",
+      "lang": "Zig",
+      "use": ""
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
+      "stars": "8,331",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "voidzero-dev/vite-plus",
+      "desc": "Vite+ is the unified toolchain and entry point for web development. It manages y",
+      "stars": "1,805",
+      "lang": "Rust",
+      "use": ""
+    },
+    {
+      "repo": "sponsors/unslothai",
+      "desc": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss",
+      "stars": "3,564",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "volcengine/OpenViking",
+      "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
+      "stars": "6,297",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "3,979",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "shadps4-emu/shadPS4",
+      "desc": "PlayStation 4 emulator for Windows, Linux and macOS written in C++",
+      "stars": "1,757",
+      "lang": "C++",
+      "use": ""
+    },
+    {
+      "repo": "andrewyng/context-hub",
+      "desc": "",
+      "stars": "5,361",
+      "lang": "JavaScript",
+      "use": ""
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
+      "stars": "34,968",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "desc": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose ",
+      "stars": "32,068",
+      "lang": "Rust",
+      "use": ""
+    },
+    {
+      "repo": "sponsors/abhigyanpatwari",
+      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k",
+      "stars": "17,495",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "desc": "Real-time global intelligence dashboard — AI-powered news aggregation, geopoliti",
+      "stars": "33,661",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the ",
+      "stars": "14,099",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "shanraisshan/claude-code-best-practice",
+      "desc": "practice made claude perfect",
+      "stars": "17,268",
+      "lang": "HTML",
+      "use": ""
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l",
+      "stars": "17,811",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
+      "stars": "18,518",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "volcengine/OpenViking",
+      "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
+      "stars": "14,548",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "sponsors/obra",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars": "47,508",
+      "lang": "Shell",
+      "use": ""
+    },
+    {
+      "repo": "sponsors/affaan-m",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
+      "stars": "47,448",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "alibaba/OpenSandbox",
+      "desc": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering ",
+      "stars": "7,923",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "huggingface/skills",
+      "desc": "Give your agents the power of the Hugging Face ecosystem",
+      "stars": "7,771",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "desc": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": "11,766",
+      "lang": "Zig",
+      "use": ""
+    },
+    {
+      "repo": "alirezarezvani/claude-skills",
+      "desc": "+192 Claude Code skills &amp; agent plugins for Claude Code, Codex, Gemini CLI, ",
+      "stars": "4,387",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "clockworklabs/SpacetimeDB",
+      "desc": "Development at the speed of light",
+      "stars": "4,891",
+      "lang": "Rust",
+      "use": ""
+    },
+    {
+      "repo": "langchain-ai/open-swe",
+      "desc": "An Open-Source Asynchronous Coding Agent",
+      "stars": "2,771",
+      "lang": "Python",
+      "use": ""
+    }
+  ]
+}
