@@ -5,61 +5,99 @@
       "repo": "pascalorg/editor",
       "desc": "Create and share 3D architectural projects.",
       "stars": "1,449",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "bytedance/deer-flow",
       "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the ",
       "stars": "4,346",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "supermemoryai/supermemory",
       "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the A",
       "stars": "344",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "sponsors/FujiwaraChoki",
       "desc": "Automate the process of making money online.",
       "stars": "3,006",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "harry0703/MoneyPrinterTurbo",
       "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "stars": "728",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "Crosstalk-Solutions/project-nomad",
       "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr",
       "stars": "2,513",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "TauricResearch/TradingAgents",
       "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "stars": "1,760",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "mvanhorn/last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
       "stars": "209",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "ruvnet/ruflo",
       "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-",
       "stars": "1,397",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
       "stars": "1,278",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "sponsors/hesreallyhim",
+      "desc": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap",
+      "stars": "995",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "hsliuping/TradingAgents-CN",
+      "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "stars": "557",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "aquasecurity/trivy",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes",
+      "stars": "104",
+      "lang": "Go",
+      "use": ""
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "desc": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose ",
+      "stars": "861",
+      "lang": "Rust",
+      "use": ""
     }
   ],
   "weekly": [
@@ -67,61 +105,71 @@
       "repo": "sponsors/FujiwaraChoki",
       "desc": "Automate the process of making money online.",
       "stars": "9,287",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "Crosstalk-Solutions/project-nomad",
       "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr",
       "stars": "12,165",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "jarrodwatts/claude-hud",
       "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, ",
       "stars": "7,304",
-      "lang": "JavaScript"
+      "lang": "JavaScript",
+      "use": ""
     },
     {
       "repo": "TauricResearch/TradingAgents",
       "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "stars": "7,784",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "sponsors/affaan-m",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
       "stars": "21,932",
-      "lang": "JavaScript"
+      "lang": "JavaScript",
+      "use": ""
     },
     {
       "repo": "sponsors/obra",
       "desc": "An agentic skills framework &amp; software development methodology that works.",
       "stars": "19,373",
-      "lang": "Shell"
+      "lang": "Shell",
+      "use": ""
     },
     {
       "repo": "666ghj/MiroFish",
       "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
       "stars": "9,935",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "sponsors/unslothai",
       "desc": "Unsloth Studio is a web UI for training and running open models like Qwen, DeepS",
       "stars": "3,905",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "bytedance/deer-flow",
       "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the ",
       "stars": "10,273",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "harry0703/MoneyPrinterTurbo",
       "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "stars": "2,147",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     }
   ],
   "monthly": [
@@ -129,61 +177,106 @@
       "repo": "ruvnet/RuView",
       "desc": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose ",
       "stars": "33,822",
-      "lang": "Rust"
+      "lang": "Rust",
+      "use": ""
     },
     {
       "repo": "666ghj/MiroFish",
       "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
       "stars": "37,311",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "sponsors/abhigyanpatwari",
       "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k",
       "stars": "17,090",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "bytedance/deer-flow",
       "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the ",
       "stars": "21,598",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "moeru-ai/airi",
       "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l",
       "stars": "18,061",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "koala73/worldmonitor",
       "desc": "Real-time global intelligence dashboard — AI-powered news aggregation, geopoliti",
       "stars": "30,441",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "shanraisshan/claude-code-best-practice",
       "desc": "practice made claude perfect",
       "stars": "16,943",
-      "lang": "HTML"
+      "lang": "HTML",
+      "use": ""
     },
     {
       "repo": "shareAI-lab/learn-claude-code",
       "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
       "stars": "20,342",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "volcengine/OpenViking",
       "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
       "stars": "15,109",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "sponsors/affaan-m",
       "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
       "stars": "53,207",
-      "lang": "JavaScript"
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "sponsors/obra",
+      "desc": "An agentic skills framework &amp; software development methodology that works.",
+      "stars": "50,214",
+      "lang": "Shell",
+      "use": ""
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "desc": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": "12,583",
+      "lang": "Zig",
+      "use": ""
+    },
+    {
+      "repo": "alirezarezvani/claude-skills",
+      "desc": "+192 Claude Code skills &amp; agent plugins for Claude Code, Codex, Gemini CLI, ",
+      "stars": "4,730",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "langchain-ai/open-swe",
+      "desc": "An Open-Source Asynchronous Coding Agent",
+      "stars": "2,992",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "clockworklabs/SpacetimeDB",
+      "desc": "Development at the speed of light",
+      "stars": "4,978",
+      "lang": "Rust",
+      "use": ""
     }
   ]
 }
