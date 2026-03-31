@@ -2,20 +2,6 @@
   "date": "2026-03-30",
   "daily": [
     {
-      "repo": "sponsors/luongnv89",
-      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced ",
-      "stars": "1,165",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/Yeachan-Heo",
-      "desc": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": "835",
-      "lang": "TypeScript",
-      "use": ""
-    },
-    {
       "repo": "microsoft/VibeVoice",
       "desc": "Open-Source Frontier Voice AI",
       "stars": "1,056",
@@ -26,34 +12,6 @@
       "repo": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
       "stars": "917",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/OpenBB-finance",
-      "desc": "Financial data platform for analysts, quants and AI agents.",
-      "stars": "137",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "2,230",
-      "lang": "Shell",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/thedotmack",
-      "desc": "A Claude Code plugin that automatically captures everything Claude does during y",
-      "stars": "373",
-      "lang": "TypeScript",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/hacksider",
-      "desc": "real time face swap and one-click video deepfake with only a single image",
-      "stars": "1,132",
       "lang": "Python",
       "use": ""
     },
@@ -109,13 +67,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/FujiwaraChoki",
-      "desc": "Automate the process of making money online.",
-      "stars": "8,460",
-      "lang": "Python",
-      "use": ""
-    },
-    {
       "repo": "Crosstalk-Solutions/project-nomad",
       "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr",
       "stars": "11,503",
@@ -130,24 +81,10 @@
       "use": ""
     },
     {
-      "repo": "sponsors/hacksider",
-      "desc": "real time face swap and one-click video deepfake with only a single image",
-      "stars": "4,805",
-      "lang": "Python",
-      "use": ""
-    },
-    {
       "repo": "supermemoryai/supermemory",
       "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the A",
       "stars": "3,010",
       "lang": "TypeScript",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "19,877",
-      "lang": "JavaScript",
       "use": ""
     },
     {
@@ -189,20 +126,6 @@
       "repo": "jingyaogong/minimind",
       "desc": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!",
       "stars": "2,607",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "18,047",
-      "lang": "Shell",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/hesreallyhim",
-      "desc": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap",
-      "stars": "3,862",
       "lang": "Python",
       "use": ""
     },
@@ -265,13 +188,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "62,608",
-      "lang": "JavaScript",
-      "use": ""
-    },
-    {
       "repo": "shanraisshan/claude-code-best-practice",
       "desc": "practice made claude perfect",
       "stars": "18,638",
@@ -290,20 +206,6 @@
       "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
       "stars": "15,740",
       "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "58,420",
-      "lang": "Shell",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/abhigyanpatwari",
-      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k",
-      "stars": "14,721",
-      "lang": "TypeScript",
       "use": ""
     },
     {
