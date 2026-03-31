@@ -23,13 +23,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/FujiwaraChoki",
-      "desc": "Automate the process of making money online.",
-      "stars": "3,006",
-      "lang": "Python",
-      "use": ""
-    },
-    {
       "repo": "harry0703/MoneyPrinterTurbo",
       "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "stars": "728",
@@ -72,13 +65,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/hesreallyhim",
-      "desc": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap",
-      "stars": "995",
-      "lang": "Python",
-      "use": ""
-    },
-    {
       "repo": "hsliuping/TradingAgents-CN",
       "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "stars": "557",
@@ -102,13 +88,6 @@
   ],
   "weekly": [
     {
-      "repo": "sponsors/FujiwaraChoki",
-      "desc": "Automate the process of making money online.",
-      "stars": "9,287",
-      "lang": "Python",
-      "use": ""
-    },
-    {
       "repo": "Crosstalk-Solutions/project-nomad",
       "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr",
       "stars": "12,165",
@@ -130,30 +109,9 @@
       "use": ""
     },
     {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "21,932",
-      "lang": "JavaScript",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "19,373",
-      "lang": "Shell",
-      "use": ""
-    },
-    {
       "repo": "666ghj/MiroFish",
       "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
       "stars": "9,935",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/unslothai",
-      "desc": "Unsloth Studio is a web UI for training and running open models like Qwen, DeepS",
-      "stars": "3,905",
       "lang": "Python",
       "use": ""
     },
@@ -185,13 +143,6 @@
       "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
       "stars": "37,311",
       "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/abhigyanpatwari",
-      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k",
-      "stars": "17,090",
-      "lang": "TypeScript",
       "use": ""
     },
     {
@@ -234,20 +185,6 @@
       "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
       "stars": "15,109",
       "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "53,207",
-      "lang": "JavaScript",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "50,214",
-      "lang": "Shell",
       "use": ""
     },
     {
