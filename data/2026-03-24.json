@@ -2,13 +2,6 @@
   "date": "2026-03-24",
   "daily": [
     {
-      "repo": "sponsors/FujiwaraChoki",
-      "desc": "Automate the process of making money online.",
-      "stars": "2,880",
-      "lang": "Python",
-      "use": ""
-    },
-    {
       "repo": "bytedance/deer-flow",
       "desc": "An open-source SuperAgent harness that researches, codes, and creates. With the ",
       "stars": "3,546",
@@ -44,20 +37,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/tinygrad",
-      "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
-      "stars": "56",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "4,458",
-      "lang": "JavaScript",
-      "use": ""
-    },
-    {
       "repo": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
       "stars": "919",
@@ -79,31 +58,10 @@
       "use": ""
     },
     {
-      "repo": "sponsors/kepano",
-      "desc": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas,",
-      "stars": "354",
-      "lang": "",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/czlonkowski",
-      "desc": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow",
-      "stars": "146",
-      "lang": "TypeScript",
-      "use": ""
-    },
-    {
       "repo": "iptv-org/iptv",
       "desc": "Collection of publicly available IPTV channels from all over the world",
       "stars": "106",
       "lang": "TypeScript",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/hesreallyhim",
-      "desc": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap",
-      "stars": "429",
-      "lang": "Python",
       "use": ""
     }
   ],
@@ -123,31 +81,10 @@
       "use": ""
     },
     {
-      "repo": "sponsors/FujiwaraChoki",
-      "desc": "Automate the process of making money online.",
-      "stars": "6,512",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "19,621",
-      "lang": "Shell",
-      "use": ""
-    },
-    {
       "repo": "666ghj/MiroFish",
       "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
       "stars": "11,768",
       "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "21,490",
-      "lang": "JavaScript",
       "use": ""
     },
     {
@@ -161,13 +98,6 @@
       "repo": "langchain-ai/deepagents",
       "desc": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool,",
       "stars": "4,831",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/unslothai",
-      "desc": "Unsloth Studio is a web UI for training and running open models like Qwen, DeepS",
-      "stars": "3,719",
       "lang": "Python",
       "use": ""
     },
@@ -205,20 +135,6 @@
       "repo": "666ghj/MiroFish",
       "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
       "stars": "36,337",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/abhigyanpatwari",
-      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k",
-      "stars": "17,357",
-      "lang": "TypeScript",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/D4Vinci",
-      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single requ",
-      "stars": "22,321",
       "lang": "Python",
       "use": ""
     },
@@ -262,20 +178,6 @@
       "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
       "stars": "14,893",
       "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "48,620",
-      "lang": "Shell",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "51,128",
-      "lang": "JavaScript",
       "use": ""
     },
     {
