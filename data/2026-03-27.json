@@ -9,13 +9,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/Yeachan-Heo",
-      "desc": "Teams-first Multi-agent orchestration for Claude Code",
-      "stars": "598",
-      "lang": "TypeScript",
-      "use": ""
-    },
-    {
       "repo": "virattt/dexter",
       "desc": "An autonomous agent for deep financial research",
       "stars": "210",
@@ -67,13 +60,6 @@
   ],
   "weekly": [
     {
-      "repo": "sponsors/FujiwaraChoki",
-      "desc": "Automate the process of making money online.",
-      "stars": "10,352",
-      "lang": "Python",
-      "use": ""
-    },
-    {
       "repo": "Crosstalk-Solutions/project-nomad",
       "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr",
       "stars": "14,631",
@@ -92,13 +78,6 @@
       "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creat",
       "stars": "16,126",
       "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "22,821",
-      "lang": "JavaScript",
       "use": ""
     },
     {
@@ -151,13 +130,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "17,041",
-      "lang": "Shell",
-      "use": ""
-    },
-    {
       "repo": "hsliuping/TradingAgents-CN",
       "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "stars": "2,826",
@@ -202,13 +174,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/abhigyanpatwari",
-      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k",
-      "stars": "15,342",
-      "lang": "TypeScript",
-      "use": ""
-    },
-    {
       "repo": "shanraisshan/claude-code-best-practice",
       "desc": "practice made claude perfect",
       "stars": "17,346",
@@ -237,30 +202,9 @@
       "use": ""
     },
     {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "57,064",
-      "lang": "JavaScript",
-      "use": ""
-    },
-    {
       "repo": "volcengine/OpenViking",
       "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
       "stars": "15,319",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "52,806",
-      "lang": "Shell",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/D4Vinci",
-      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single requ",
-      "stars": "16,750",
       "lang": "Python",
       "use": ""
     },
