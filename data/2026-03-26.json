@@ -16,13 +16,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/BerriAI",
-      "desc": "Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native",
-      "stars": "301",
-      "lang": "Python",
-      "use": ""
-    },
-    {
       "repo": "pascalorg/editor",
       "desc": "Create and share 3D architectural projects.",
       "stars": "2,353",
@@ -65,13 +58,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/FujiwaraChoki",
-      "desc": "Automate the process of making money online.",
-      "stars": "1,065",
-      "lang": "Python",
-      "use": ""
-    },
-    {
       "repo": "usestrix/strix",
       "desc": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
       "stars": "102",
@@ -87,13 +73,6 @@
     }
   ],
   "weekly": [
-    {
-      "repo": "sponsors/FujiwaraChoki",
-      "desc": "Automate the process of making money online.",
-      "stars": "9,873",
-      "lang": "Python",
-      "use": ""
-    },
     {
       "repo": "Crosstalk-Solutions/project-nomad",
       "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr",
@@ -134,20 +113,6 @@
       "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creat",
       "stars": "13,951",
       "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "22,442",
-      "lang": "JavaScript",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "17,540",
-      "lang": "Shell",
       "use": ""
     },
     {
@@ -195,13 +160,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/abhigyanpatwari",
-      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k",
-      "stars": "16,463",
-      "lang": "TypeScript",
-      "use": ""
-    },
-    {
       "repo": "moeru-ai/airi",
       "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l",
       "stars": "18,188",
@@ -241,20 +199,6 @@
       "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
       "stars": "15,198",
       "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "55,418",
-      "lang": "JavaScript",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "51,370",
-      "lang": "Shell",
       "use": ""
     },
     {
