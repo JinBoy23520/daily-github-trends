@@ -9,38 +9,10 @@
       "use": ""
     },
     {
-      "repo": "sponsors/luongnv89",
-      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced ",
-      "stars": "4,232",
-      "lang": "Python",
-      "use": ""
-    },
-    {
       "repo": "shanraisshan/claude-code-best-practice",
       "desc": "practice made claude perfect",
       "stars": "1,108",
       "lang": "HTML",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/hacksider",
-      "desc": "real time face swap and one-click video deepfake with only a single image",
-      "stars": "1,136",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/OpenBB-finance",
-      "desc": "Financial data platform for analysts, quants and AI agents.",
-      "stars": "502",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/freeCodeCamp",
-      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,",
-      "stars": "368",
-      "lang": "TypeScript",
       "use": ""
     },
     {
@@ -95,24 +67,10 @@
       "use": ""
     },
     {
-      "repo": "sponsors/hacksider",
-      "desc": "real time face swap and one-click video deepfake with only a single image",
-      "stars": "5,826",
-      "lang": "Python",
-      "use": ""
-    },
-    {
       "repo": "Crosstalk-Solutions/project-nomad",
       "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr",
       "stars": "8,038",
       "lang": "TypeScript",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/FujiwaraChoki",
-      "desc": "Automate the process of making money online.",
-      "stars": "5,910",
-      "lang": "Python",
       "use": ""
     },
     {
@@ -165,20 +123,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "17,901",
-      "lang": "JavaScript",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "18,199",
-      "lang": "Shell",
-      "use": ""
-    },
-    {
       "repo": "hsliuping/TradingAgents-CN",
       "desc": "基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
       "stars": "2,087",
@@ -189,13 +133,6 @@
       "repo": "jingyaogong/minimind",
       "desc": "🚀🚀 「大模型」2小时完全从0训练64M的小参数GPT！🌏 Train a 64M-parameter GPT from scratch in just 2h!",
       "stars": "2,416",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/hesreallyhim",
-      "desc": "A curated list of awesome skills, hooks, slash-commands, agent orchestrators, ap",
-      "stars": "3,873",
       "lang": "Python",
       "use": ""
     }
@@ -244,13 +181,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/affaan-m",
-      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se",
-      "stars": "65,098",
-      "lang": "JavaScript",
-      "use": ""
-    },
-    {
       "repo": "moeru-ai/airi",
       "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l",
       "stars": "18,952",
@@ -279,13 +209,6 @@
       "use": ""
     },
     {
-      "repo": "sponsors/obra",
-      "desc": "An agentic skills framework &amp; software development methodology that works.",
-      "stars": "61,346",
-      "lang": "Shell",
-      "use": ""
-    },
-    {
       "repo": "mvanhorn/last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
       "stars": "13,120",
@@ -311,13 +234,6 @@
       "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "stars": "13,731",
       "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "sponsors/abhigyanpatwari",
-      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k",
-      "stars": "14,894",
-      "lang": "TypeScript",
       "use": ""
     },
     {
