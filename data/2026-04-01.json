@@ -5,31 +5,36 @@
       "repo": "anthropics/claude-code",
       "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands y",
       "stars": "3,905",
-      "lang": "Shell"
+      "lang": "Shell",
+      "use": ""
     },
     {
       "repo": "microsoft/VibeVoice",
       "desc": "Open-Source Frontier Voice AI",
       "stars": "1,704",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "shanraisshan/claude-code-best-practice",
       "desc": "practice made claude perfect",
       "stars": "2,488",
-      "lang": "HTML"
+      "lang": "HTML",
+      "use": ""
     },
     {
       "repo": "google-research/timesfm",
       "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo",
       "stars": "495",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "openai/codex",
       "desc": "Lightweight coding agent that runs in your terminal",
       "stars": "2,345",
-      "lang": "Rust"
+      "lang": "Rust",
+      "use": ""
     }
   ],
   "weekly": [
@@ -37,37 +42,43 @@
       "repo": "microsoft/VibeVoice",
       "desc": "Open-Source Frontier Voice AI",
       "stars": "8,327",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "mvanhorn/last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
       "stars": "11,933",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "SakanaAI/AI-Scientist-v2",
       "desc": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T",
       "stars": "1,814",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "bytedance/deer-flow",
       "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creat",
       "stars": "13,560",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
       "stars": "7,539",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "pascalorg/editor",
       "desc": "Create and share 3D architectural projects.",
       "stars": "4,584",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     }
   ],
   "monthly": [
@@ -75,97 +86,113 @@
       "repo": "666ghj/MiroFish",
       "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
       "stars": "42,611",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "NousResearch/hermes-agent",
       "desc": "The agent that grows with you",
       "stars": "18,592",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "bytedance/deer-flow",
       "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creat",
       "stars": "32,826",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "shareAI-lab/learn-claude-code",
       "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
       "stars": "25,450",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "lightpanda-io/browser",
       "desc": "Lightpanda: the headless browser designed for AI and automation",
       "stars": "14,445",
-      "lang": "Zig"
+      "lang": "Zig",
+      "use": ""
     },
     {
       "repo": "shanraisshan/claude-code-best-practice",
       "desc": "practice made claude perfect",
       "stars": "21,602",
-      "lang": "HTML"
+      "lang": "HTML",
+      "use": ""
     },
     {
       "repo": "mvanhorn/last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
       "stars": "13,598",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "alirezarezvani/claude-skills",
       "desc": "220+ Claude Code skills &amp; agent plugins for Claude Code, Codex, Gemini CLI, ",
       "stars": "6,308",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "volcengine/OpenViking",
       "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
       "stars": "16,068",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "jarrodwatts/claude-hud",
       "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, ",
       "stars": "11,834",
-      "lang": "JavaScript"
+      "lang": "JavaScript",
+      "use": ""
     },
     {
       "repo": "langchain-ai/open-swe",
       "desc": "An Open-Source Asynchronous Coding Agent",
       "stars": "3,682",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "moeru-ai/airi",
       "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l",
       "stars": "18,075",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "TauricResearch/TradingAgents",
       "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "stars": "14,198",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "promptfoo/promptfoo",
       "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni",
       "stars": "8,233",
-      "lang": "TypeScript"
+      "lang": "TypeScript",
+      "use": ""
     },
     {
       "repo": "microsoft/BitNet",
       "desc": "Official inference framework for 1-bit LLMs",
       "stars": "8,421",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     },
     {
       "repo": "langchain-ai/deepagents",
       "desc": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool,",
       "stars": "8,745",
-      "lang": "Python"
+      "lang": "Python",
+      "use": ""
     }
   ]
 }
