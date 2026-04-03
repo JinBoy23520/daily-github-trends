@@ -1,0 +1,177 @@
+{
+  "date": "2026-04-03",
+  "daily": [
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "2,573",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "stars": "827",
+      "lang": "Python",
+      "use": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "stars": "11,071",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
+      "stars": "8,598",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "SakanaAI/AI-Scientist-v2",
+      "desc": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T",
+      "stars": "1,982",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "8,798",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "5,954",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creat",
+      "stars": "9,043",
+      "lang": "Python",
+      "use": ""
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
+      "stars": "43,906",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "20,854",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creat",
+      "stars": "33,514",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "desc": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": "14,856",
+      "lang": "Zig",
+      "use": ""
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
+      "stars": "27,113",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "jarrodwatts/claude-hud",
+      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, ",
+      "stars": "12,421",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
+      "stars": "14,367",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "shanraisshan/claude-code-best-practice",
+      "desc": "practice made claude perfect",
+      "stars": "24,591",
+      "lang": "HTML",
+      "use": ""
+    },
+    {
+      "repo": "volcengine/OpenViking",
+      "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
+      "stars": "16,239",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "langchain-ai/open-swe",
+      "desc": "An Open-Source Asynchronous Coding Agent",
+      "stars": "3,797",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "alirezarezvani/claude-skills",
+      "desc": "220+ Claude Code skills &amp; agent plugins for Claude Code, Codex, Gemini CLI, ",
+      "stars": "6,694",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "15,149",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands y",
+      "stars": "34,063",
+      "lang": "Shell",
+      "use": ""
+    },
+    {
+      "repo": "promptfoo/promptfoo",
+      "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni",
+      "stars": "8,419",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "microsoft/BitNet",
+      "desc": "Official inference framework for 1-bit LLMs",
+      "stars": "8,533",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "langchain-ai/deepagents",
+      "desc": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool,",
+      "stars": "9,055",
+      "lang": "Python",
+      "use": ""
+    }
+  ]
+}
