@@ -1,0 +1,191 @@
+{
+  "date": "2026-04-05",
+  "daily": [
+    {
+      "repo": "onyx-dot-app/onyx",
+      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every L",
+      "stars": "1,197",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "1,591",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "telegramdesktop/tdesktop",
+      "desc": "Telegram Desktop messaging app",
+      "stars": "249",
+      "lang": "C++",
+      "use": ""
+    },
+    {
+      "repo": "block/goose",
+      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install,",
+      "stars": "935",
+      "lang": "Rust",
+      "use": ""
+    },
+    {
+      "repo": "microsoft/agent-framework",
+      "desc": "A framework for building, orchestrating and deploying AI agents and multi-agent ",
+      "stars": "72",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "stars": "994",
+      "lang": "Python",
+      "use": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "stars": "11,141",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "9,913",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo",
+      "stars": "4,315",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "9,566",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "onyx-dot-app/onyx",
+      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every L",
+      "stars": "4,306",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "SakanaAI/AI-Scientist-v2",
+      "desc": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T",
+      "stars": "1,658",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "stars": "4,835",
+      "lang": "Python",
+      "use": ""
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
+      "stars": "45,023",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "22,900",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creat",
+      "stars": "33,651",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "desc": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": "15,218",
+      "lang": "Zig",
+      "use": ""
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
+      "stars": "27,301",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "jarrodwatts/claude-hud",
+      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, ",
+      "stars": "12,859",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
+      "stars": "14,994",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "langchain-ai/open-swe",
+      "desc": "An Open-Source Asynchronous Coding Agent",
+      "stars": "3,908",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "15,924",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "volcengine/OpenViking",
+      "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
+      "stars": "16,417",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "microsoft/BitNet",
+      "desc": "Official inference framework for 1-bit LLMs",
+      "stars": "8,657",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "promptfoo/promptfoo",
+      "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni",
+      "stars": "8,622",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "langchain-ai/deepagents",
+      "desc": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool,",
+      "stars": "9,288",
+      "lang": "Python",
+      "use": ""
+    }
+  ]
+}
