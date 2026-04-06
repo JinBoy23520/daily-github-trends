@@ -4,59 +4,101 @@
     {
       "repo": "google-ai-edge/gallery",
       "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a",
-      "stars": "389",
+      "stars": "1,109",
       "lang": "Kotlin",
-      "use": ""
-    },
-    {
-      "repo": "siddharthvaddem/openscreen",
-      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
-      "stars": "2,749",
-      "lang": "TypeScript",
       "use": ""
     },
     {
       "repo": "block/goose",
       "desc": "an open source, extensible AI agent that goes beyond code suggestions - install,",
-      "stars": "882",
+      "stars": "1,514",
       "lang": "Rust",
-      "use": ""
-    },
-    {
-      "repo": "onyx-dot-app/onyx",
-      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every L",
-      "stars": "998",
-      "lang": "Python",
       "use": ""
     },
     {
       "repo": "google-ai-edge/LiteRT-LM",
       "desc": "",
-      "stars": "124",
+      "stars": "487",
       "lang": "C++",
       "use": ""
     },
     {
-      "repo": "telegramdesktop/tdesktop",
-      "desc": "Telegram Desktop messaging app",
-      "stars": "287",
-      "lang": "C++",
+      "repo": "immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "stars": "155",
+      "lang": "TypeScript",
       "use": ""
-    }
-  ],
-  "weekly": [
+    },
     {
-      "repo": "microsoft/VibeVoice",
-      "desc": "Open-Source Frontier Voice AI",
-      "stars": "10,543",
+      "repo": "KeygraphHQ/shannon",
+      "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and A",
+      "stars": "703",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "1,251",
       "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "tobi/qmd",
+      "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. ",
+      "stars": "298",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "TelegramMessenger/Telegram-iOS",
+      "desc": "Telegram-iOS",
+      "stars": "14",
+      "lang": "Swift",
+      "use": ""
+    },
+    {
+      "repo": "ollama/ollama",
+      "desc": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm",
+      "stars": "164",
+      "lang": "Go",
+      "use": ""
+    },
+    {
+      "repo": "ggml-org/llama.cpp",
+      "desc": "LLM inference in C/C++",
+      "stars": "244",
+      "lang": "C++",
       "use": ""
     },
     {
       "repo": "siddharthvaddem/openscreen",
       "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "1,823",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "NVIDIA/personaplex",
+      "desc": "PersonaPlex code.",
+      "stars": "295",
+      "lang": "Python",
+      "use": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
       "stars": "12,682",
       "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "stars": "10,543",
+      "lang": "Python",
       "use": ""
     },
     {
@@ -81,23 +123,16 @@
       "use": ""
     },
     {
+      "repo": "google-ai-edge/gallery",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a",
+      "stars": "1,286",
+      "lang": "Kotlin",
+      "use": ""
+    },
+    {
       "repo": "sherlock-project/sherlock",
       "desc": "Hunt down social media accounts by username across social networks",
       "stars": "5,633",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "SakanaAI/AI-Scientist-v2",
-      "desc": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic T",
-      "stars": "1,201",
-      "lang": "Python",
-      "use": ""
-    },
-    {
-      "repo": "roboflow/supervision",
-      "desc": "We write your reusable computer vision tools. 💜",
-      "stars": "898",
       "lang": "Python",
       "use": ""
     }
@@ -125,10 +160,24 @@
       "use": ""
     },
     {
+      "repo": "alibaba/page-agent",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": "14,717",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
       "repo": "lightpanda-io/browser",
       "desc": "Lightpanda: the headless browser designed for AI and automation",
       "stars": "15,361",
       "lang": "Zig",
+      "use": ""
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars": "15,660",
+      "lang": "JavaScript",
       "use": ""
     },
     {
@@ -139,17 +188,17 @@
       "use": ""
     },
     {
-      "repo": "shareAI-lab/learn-claude-code",
-      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
-      "stars": "27,309",
-      "lang": "TypeScript",
-      "use": ""
-    },
-    {
       "repo": "mvanhorn/last30days-skill",
       "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
       "stars": "15,180",
       "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
+      "stars": "27,309",
+      "lang": "TypeScript",
       "use": ""
     },
     {
@@ -167,6 +216,13 @@
       "use": ""
     },
     {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "14,130",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
       "repo": "volcengine/OpenViking",
       "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
       "stars": "16,523",
@@ -181,13 +237,6 @@
       "use": ""
     },
     {
-      "repo": "siddharthvaddem/openscreen",
-      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
-      "stars": "14,130",
-      "lang": "TypeScript",
-      "use": ""
-    },
-    {
       "repo": "promptfoo/promptfoo",
       "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni",
       "stars": "8,723",
@@ -195,16 +244,16 @@
       "use": ""
     },
     {
-      "repo": "microsoft/BitNet",
-      "desc": "Official inference framework for 1-bit LLMs",
-      "stars": "8,697",
+      "repo": "langchain-ai/deepagents",
+      "desc": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool,",
+      "stars": "9,451",
       "lang": "Python",
       "use": ""
     },
     {
-      "repo": "langchain-ai/deepagents",
-      "desc": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool,",
-      "stars": "9,451",
+      "repo": "microsoft/BitNet",
+      "desc": "Official inference framework for 1-bit LLMs",
+      "stars": "8,697",
       "lang": "Python",
       "use": ""
     }
