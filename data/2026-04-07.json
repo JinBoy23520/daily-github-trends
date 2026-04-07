@@ -1,0 +1,219 @@
+{
+  "date": "2026-04-07",
+  "daily": [
+    {
+      "repo": "google-ai-edge/gallery",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a",
+      "stars": "1,107",
+      "lang": "Kotlin"
+    },
+    {
+      "repo": "aaif-goose/goose",
+      "desc": "an open source, extensible AI agent that goes beyond code suggestions - install,",
+      "stars": "1,523",
+      "lang": "Rust"
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "desc": "",
+      "stars": "483",
+      "lang": "C++"
+    },
+    {
+      "repo": "immich-app/immich",
+      "desc": "High performance self-hosted photo and video management solution.",
+      "stars": "152",
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "KeygraphHQ/shannon",
+      "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and A",
+      "stars": "733",
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "1,574",
+      "lang": "Python"
+    },
+    {
+      "repo": "tobi/qmd",
+      "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. ",
+      "stars": "394",
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "TelegramMessenger/Telegram-iOS",
+      "desc": "Telegram-iOS",
+      "stars": "25",
+      "lang": "Swift"
+    },
+    {
+      "repo": "ollama/ollama",
+      "desc": "Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemm",
+      "stars": "196",
+      "lang": "Go"
+    },
+    {
+      "repo": "ggml-org/llama.cpp",
+      "desc": "LLM inference in C/C++",
+      "stars": "267",
+      "lang": "C++"
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "1,838",
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "NVIDIA/personaplex",
+      "desc": "PersonaPlex code.",
+      "stars": "295",
+      "lang": "Python"
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "14,396",
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "stars": "8,392",
+      "lang": "Python"
+    },
+    {
+      "repo": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo",
+      "stars": "4,241",
+      "lang": "Python"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "9,662",
+      "lang": "Python"
+    },
+    {
+      "repo": "onyx-dot-app/onyx",
+      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every L",
+      "stars": "5,240",
+      "lang": "Python"
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a",
+      "stars": "2,008",
+      "lang": "Kotlin"
+    },
+    {
+      "repo": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "stars": "5,811",
+      "lang": "Python"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
+      "stars": "45,905",
+      "lang": "Python"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "25,584",
+      "lang": "Python"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creat",
+      "stars": "33,924",
+      "lang": "Python"
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": "14,790",
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "desc": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": "15,474",
+      "lang": "Zig"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars": "15,725",
+      "lang": "JavaScript"
+    },
+    {
+      "repo": "jarrodwatts/claude-hud",
+      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, ",
+      "stars": "13,172",
+      "lang": "JavaScript"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
+      "stars": "15,405",
+      "lang": "Python"
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
+      "stars": "27,231",
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "16,606",
+      "lang": "Python"
+    },
+    {
+      "repo": "langchain-ai/open-swe",
+      "desc": "An Open-Source Asynchronous Coding Agent",
+      "stars": "4,011",
+      "lang": "Python"
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "15,791",
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "volcengine/OpenViking",
+      "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
+      "stars": "16,565",
+      "lang": "Python"
+    },
+    {
+      "repo": "promptfoo/promptfoo",
+      "desc": "Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanni",
+      "stars": "8,823",
+      "lang": "TypeScript"
+    },
+    {
+      "repo": "langchain-ai/deepagents",
+      "desc": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool,",
+      "stars": "9,595",
+      "lang": "Python"
+    },
+    {
+      "repo": "microsoft/BitNet",
+      "desc": "Official inference framework for 1-bit LLMs",
+      "stars": "8,740",
+      "lang": "Python"
+    }
+  ]
+}
