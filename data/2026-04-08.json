@@ -1,0 +1,240 @@
+{
+  "date": "2026-04-08",
+  "daily": [
+    {
+      "repo": "google-ai-edge/gallery",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a",
+      "stars": "897",
+      "lang": "Kotlin",
+      "use": ""
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "desc": "",
+      "stars": "528",
+      "lang": "C++",
+      "use": ""
+    },
+    {
+      "repo": "NVIDIA/personaplex",
+      "desc": "PersonaPlex code.",
+      "stars": "662",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "tobi/qmd",
+      "desc": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. ",
+      "stars": "859",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "desc": "",
+      "stars": "51",
+      "lang": "",
+      "use": ""
+    },
+    {
+      "repo": "elebumm/RedditVideoMakerBot",
+      "desc": "Create Reddit Videos with just✨ one command ✨",
+      "stars": "636",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": "168",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "TheCraigHewitt/seomachine",
+      "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog c",
+      "stars": "215",
+      "lang": "Python",
+      "use": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "15,921",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo",
+      "stars": "4,137",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a",
+      "stars": "2,934",
+      "lang": "Kotlin",
+      "use": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "10,487",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "stars": "5,025",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "onyx-dot-app/onyx",
+      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every L",
+      "stars": "5,449",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "sherlock-project/sherlock",
+      "desc": "Hunt down social media accounts by username across social networks",
+      "stars": "5,167",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "desc": "",
+      "stars": "1,336",
+      "lang": "C++",
+      "use": ""
+    },
+    {
+      "repo": "antinomyhq/forgecode",
+      "desc": "AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and",
+      "stars": "794",
+      "lang": "Rust",
+      "use": ""
+    },
+    {
+      "repo": "telegramdesktop/tdesktop",
+      "desc": "Telegram Desktop messaging app",
+      "stars": "906",
+      "lang": "C++",
+      "use": ""
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "28,243",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
+      "stars": "46,170",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creat",
+      "stars": "34,062",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "desc": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": "15,619",
+      "lang": "Zig",
+      "use": ""
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": "15,218",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "jarrodwatts/claude-hud",
+      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, ",
+      "stars": "13,406",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
+      "stars": "15,760",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
+      "stars": "26,932",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "16,964",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "17,294",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "langchain-ai/open-swe",
+      "desc": "An Open-Source Asynchronous Coding Agent",
+      "stars": "4,065",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars": "15,868",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "volcengine/OpenViking",
+      "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
+      "stars": "16,653",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "microsoft/BitNet",
+      "desc": "Official inference framework for 1-bit LLMs",
+      "stars": "8,886",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "langchain-ai/deepagents",
+      "desc": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool,",
+      "stars": "9,788",
+      "lang": "Python",
+      "use": ""
+    }
+  ]
+}
