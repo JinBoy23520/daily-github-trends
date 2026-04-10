@@ -1,0 +1,233 @@
+{
+  "date": "2026-04-10",
+  "daily": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "6,485",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar",
+      "stars": "1,364",
+      "lang": "",
+      "use": ""
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": "1,310",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D",
+      "stars": "496",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "opendataloader-project/opendataloader-pdf",
+      "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "stars": "1,124",
+      "lang": "Java",
+      "use": ""
+    },
+    {
+      "repo": "TheCraigHewitt/seomachine",
+      "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog c",
+      "stars": "725",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "coleam00/Archon",
+      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministi",
+      "stars": "185",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": "245",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "YishenTu/claudian",
+      "desc": "An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault",
+      "stars": "200",
+      "lang": "TypeScript",
+      "use": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "google-ai-edge/gallery",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a",
+      "stars": "4,326",
+      "lang": "Kotlin",
+      "use": ""
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "12,278",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "19,765",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "desc": "",
+      "stars": "2,157",
+      "lang": "C++",
+      "use": ""
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": "3,233",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "onyx-dot-app/onyx",
+      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every L",
+      "stars": "5,556",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo",
+      "stars": "3,095",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "NVIDIA/personaplex",
+      "desc": "PersonaPlex code.",
+      "stars": "2,745",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar",
+      "stars": "2,230",
+      "lang": "",
+      "use": ""
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "39,332",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
+      "stars": "44,278",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creat",
+      "stars": "33,722",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "lightpanda-io/browser",
+      "desc": "Lightpanda: the headless browser designed for AI and automation",
+      "stars": "16,038",
+      "lang": "Zig",
+      "use": ""
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "19,016",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "jarrodwatts/claude-hud",
+      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, ",
+      "stars": "13,776",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
+      "stars": "26,755",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
+      "stars": "16,184",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "17,495",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "langchain-ai/open-swe",
+      "desc": "An Open-Source Asynchronous Coding Agent",
+      "stars": "4,137",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "stars": "14,476",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "stars": "15,226",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a",
+      "stars": "4,561",
+      "lang": "Kotlin",
+      "use": ""
+    },
+    {
+      "repo": "volcengine/OpenViking",
+      "desc": "OpenViking is an open-source context database designed specifically for AI Agent",
+      "stars": "16,698",
+      "lang": "Python",
+      "use": ""
+    }
+  ]
+}
