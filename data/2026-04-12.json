@@ -1,0 +1,247 @@
+{
+  "date": "2026-04-12",
+  "daily": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "6,438",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "stars": "595",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar",
+      "stars": "1,066",
+      "lang": "",
+      "use": ""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "stars": "3,086",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "multica-ai/multica",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates ",
+      "stars": "1,948",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "coleam00/Archon",
+      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministi",
+      "stars": "1,346",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "shanraisshan/claude-code-best-practice",
+      "desc": "practice made claude perfect",
+      "stars": "1,475",
+      "lang": "HTML",
+      "use": ""
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D",
+      "stars": "1,084",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "rustfs/rustfs",
+      "desc": "🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-co",
+      "stars": "271",
+      "lang": "Rust",
+      "use": ""
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "desc": "An AI Hedge Fund Team",
+      "stars": "696",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "snarktank/ralph",
+      "desc": "Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items ar",
+      "stars": "112",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "TapXWorld/ChinaTextbook",
+      "desc": "所有小初高、大学PDF教材。",
+      "stars": "361",
+      "lang": "Roff",
+      "use": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "32,572",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar",
+      "stars": "4,969",
+      "lang": "",
+      "use": ""
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "stars": "5,560",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "multica-ai/multica",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates ",
+      "stars": "5,362",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a",
+      "stars": "4,369",
+      "lang": "Kotlin",
+      "use": ""
+    },
+    {
+      "repo": "coleam00/Archon",
+      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministi",
+      "stars": "2,410",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "desc": "Python tool for converting files and office documents to Markdown.",
+      "stars": "8,202",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "desc": "",
+      "stars": "2,196",
+      "lang": "C++",
+      "use": ""
+    },
+    {
+      "repo": "NVIDIA/personaplex",
+      "desc": "PersonaPlex code.",
+      "stars": "2,905",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "TheCraigHewitt/seomachine",
+      "desc": "A specialized Claude Code workspace for creating long-form, SEO-optimized blog c",
+      "stars": "2,698",
+      "lang": "Python",
+      "use": ""
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "desc": "The agent that grows with you",
+      "stars": "52,020",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "desc": "An open-source long-horizon SuperAgent harness that researches, codes, and creat",
+      "stars": "31,738",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an",
+      "stars": "20,242",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "jarrodwatts/claude-hud",
+      "desc": "A Claude Code plugin that shows what's happening - context usage, active tools, ",
+      "stars": "14,133",
+      "lang": "JavaScript",
+      "use": ""
+    },
+    {
+      "repo": "666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能",
+      "stars": "37,910",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark",
+      "stars": "16,729",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "stars": "17,986",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a",
+      "stars": "5,115",
+      "lang": "Kotlin",
+      "use": ""
+    },
+    {
+      "repo": "shareAI-lab/learn-claude-code",
+      "desc": "Bash is all you need - A nano claude code–like 「agent harness」, built from 0 to ",
+      "stars": "26,934",
+      "lang": "TypeScript",
+      "use": ""
+    },
+    {
+      "repo": "onyx-dot-app/onyx",
+      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every L",
+      "stars": "8,840",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "desc": "Open-Source Frontier Voice AI",
+      "stars": "15,215",
+      "lang": "Python",
+      "use": ""
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "desc": "",
+      "stars": "2,492",
+      "lang": "C++",
+      "use": ""
+    }
+  ]
+}
