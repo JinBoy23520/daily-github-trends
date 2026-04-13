@@ -1,0 +1,91 @@
+{
+  "date": "2026-04-13",
+  "daily": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "7,454",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "1,985",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "2,369",
+      "lang": "",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "2,513",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "1,609",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "612",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "shanraisshan/claude-code-best-practice",
+      "stars": "1,548",
+      "lang": "HTML",
+      "desc": ""
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "stars": "1,278",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "stars": "753",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "ahujasid/blender-mcp",
+      "stars": "215",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "rustfs/rustfs",
+      "stars": "182",
+      "lang": "Rust",
+      "desc": ""
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "stars": "663",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "snarktank/ralph",
+      "stars": "463",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "TapXWorld/ChinaTextbook",
+      "stars": "454",
+      "lang": "Roff",
+      "desc": ""
+    }
+  ],
+  "weekly": [],
+  "monthly": []
+}
