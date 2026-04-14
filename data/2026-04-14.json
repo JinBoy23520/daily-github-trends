@@ -2,255 +2,266 @@
   "date": "2026-04-14",
   "daily": [
     {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "5,733",
+      "lang": "",
+      "desc": ""
+    },
+    {
       "repo": "NousResearch/hermes-agent",
-      "stars": "7,454",
+      "stars": "11,289",
       "lang": "Python",
       "desc": ""
     },
     {
       "repo": "shiyu-coder/Kronos",
-      "stars": "1,985",
-      "lang": "Python",
-      "desc": ""
-    },
-    {
-      "repo": "forrestchang/andrej-karpathy-skills",
-      "stars": "2,369",
-      "lang": "",
-      "desc": ""
-    },
-    {
-      "repo": "microsoft/markitdown",
-      "stars": "2,513",
-      "lang": "Python",
-      "desc": ""
-    },
-    {
-      "repo": "multica-ai/multica",
-      "stars": "1,609",
-      "lang": "TypeScript",
-      "desc": ""
-    },
-    {
-      "repo": "coleam00/Archon",
-      "stars": "612",
-      "lang": "TypeScript",
-      "desc": ""
-    },
-    {
-      "repo": "shanraisshan/claude-code-best-practice",
-      "stars": "1,548",
-      "lang": "HTML",
-      "desc": ""
-    },
-    {
-      "repo": "OpenBMB/VoxCPM",
-      "stars": "1,278",
+      "stars": "1,554",
       "lang": "Python",
       "desc": ""
     },
     {
       "repo": "thedotmack/claude-mem",
-      "stars": "753",
+      "stars": "3,175",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "2,808",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "1,715",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "677",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "snarktank/ralph",
+      "stars": "691",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "stars": "783",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "stars": "1,012",
+      "lang": "Jupyter Notebook",
+      "desc": ""
+    },
+    {
+      "repo": "shanraisshan/claude-code-best-practice",
+      "stars": "2,461",
+      "lang": "HTML",
+      "desc": ""
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "stars": "512",
       "lang": "TypeScript",
       "desc": ""
     },
     {
       "repo": "ahujasid/blender-mcp",
-      "stars": "215",
+      "stars": "339",
       "lang": "Python",
       "desc": ""
     },
     {
-      "repo": "rustfs/rustfs",
-      "stars": "182",
-      "lang": "Rust",
-      "desc": ""
-    },
-    {
-      "repo": "virattt/ai-hedge-fund",
-      "stars": "663",
+      "repo": "hacksider/Deep-Live-Cam",
+      "stars": "217",
       "lang": "Python",
       "desc": ""
     },
     {
-      "repo": "snarktank/ralph",
-      "stars": "463",
-      "lang": "TypeScript",
+      "repo": "gsd-build/get-shit-done",
+      "stars": "655",
+      "lang": "JavaScript",
       "desc": ""
     },
     {
       "repo": "TapXWorld/ChinaTextbook",
-      "stars": "454",
+      "stars": "703",
       "lang": "Roff",
       "desc": ""
     }
   ],
   "weekly": [
     {
-      "repo": "NousResearch/hermes-agent",
-      "stars": "38,426",
-      "lang": "Python",
-      "desc": ""
-    },
-    {
       "repo": "forrestchang/andrej-karpathy-skills",
-      "stars": "7,319",
+      "stars": "14,317",
       "lang": "",
       "desc": ""
     },
     {
-      "repo": "HKUDS/DeepTutor",
-      "stars": "5,873",
+      "repo": "NousResearch/hermes-agent",
+      "stars": "48,286",
       "lang": "Python",
       "desc": ""
     },
     {
       "repo": "multica-ai/multica",
-      "stars": "6,846",
+      "stars": "8,580",
       "lang": "TypeScript",
       "desc": ""
     },
     {
-      "repo": "google-ai-edge/gallery",
-      "stars": "4,148",
-      "lang": "Kotlin",
+      "repo": "HKUDS/DeepTutor",
+      "stars": "6,210",
+      "lang": "Python",
       "desc": ""
     },
     {
       "repo": "coleam00/Archon",
-      "stars": "2,962",
+      "stars": "3,647",
       "lang": "TypeScript",
       "desc": ""
     },
     {
       "repo": "microsoft/markitdown",
-      "stars": "10,592",
+      "stars": "13,336",
       "lang": "Python",
       "desc": ""
     },
     {
+      "repo": "google-ai-edge/gallery",
+      "stars": "3,273",
+      "lang": "Kotlin",
+      "desc": ""
+    },
+    {
       "repo": "google-ai-edge/LiteRT-LM",
-      "stars": "2,164",
+      "stars": "1,779",
       "lang": "C++",
       "desc": ""
     },
     {
       "repo": "NVIDIA/personaplex",
-      "stars": "2,331",
+      "stars": "2,110",
       "lang": "Python",
       "desc": ""
     },
     {
       "repo": "TheCraigHewitt/seomachine",
-      "stars": "2,815",
+      "stars": "2,548",
       "lang": "Python",
-      "desc": ""
-    },
-    {
-      "repo": "nvim-treesitter/nvim-treesitter",
-      "stars": "146",
-      "lang": "Tree-sitter Query",
       "desc": ""
     }
   ],
   "monthly": [
     {
       "repo": "NousResearch/hermes-agent",
-      "stars": "57,410",
+      "stars": "69,018",
       "lang": "Python",
       "desc": ""
     },
     {
       "repo": "mattpocock/skills",
-      "stars": "13,290",
+      "stars": "13,661",
       "lang": "Shell",
       "desc": ""
     },
     {
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "stars": "23,203",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
       "repo": "FujiwaraChoki/MoneyPrinterV2",
-      "stars": "14,458",
+      "stars": "14,609",
       "lang": "Python",
       "desc": ""
     },
     {
       "repo": "bytedance/deer-flow",
-      "stars": "31,459",
+      "stars": "31,379",
       "lang": "Python",
       "desc": ""
     },
     {
       "repo": "siddharthvaddem/openscreen",
-      "stars": "20,857",
+      "stars": "21,485",
       "lang": "TypeScript",
       "desc": ""
     },
     {
       "repo": "jarrodwatts/claude-hud",
-      "stars": "14,293",
+      "stars": "14,495",
       "lang": "JavaScript",
-      "desc": ""
-    },
-    {
-      "repo": "affaan-m/everything-claude-code",
-      "stars": "80,400",
-      "lang": "JavaScript",
-      "desc": ""
-    },
-    {
-      "repo": "666ghj/MiroFish",
-      "stars": "36,731",
-      "lang": "Python",
       "desc": ""
     },
     {
       "repo": "mvanhorn/last30days-skill",
-      "stars": "16,903",
+      "stars": "17,477",
       "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "affaan-m/everything-claude-code",
+      "stars": "80,744",
+      "lang": "JavaScript",
       "desc": ""
     },
     {
       "repo": "TauricResearch/TradingAgents",
-      "stars": "18,178",
+      "stars": "18,422",
       "lang": "Python",
-      "desc": ""
-    },
-    {
-      "repo": "obra/superpowers",
-      "stars": "69,862",
-      "lang": "Shell",
       "desc": ""
     },
     {
       "repo": "google-ai-edge/gallery",
-      "stars": "5,316",
+      "stars": "5,586",
       "lang": "Kotlin",
       "desc": ""
     },
     {
-      "repo": "shareAI-lab/learn-claude-code",
-      "stars": "27,066",
-      "lang": "TypeScript",
+      "repo": "obra/superpowers",
+      "stars": "69,612",
+      "lang": "Shell",
       "desc": ""
     },
     {
-      "repo": "onyx-dot-app/onyx",
-      "stars": "8,985",
+      "repo": "666ghj/MiroFish",
+      "stars": "34,012",
       "lang": "Python",
       "desc": ""
     },
     {
+      "repo": "shareAI-lab/learn-claude-code",
+      "stars": "27,226",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
       "repo": "microsoft/VibeVoice",
-      "stars": "15,464",
+      "stars": "15,781",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "onyx-dot-app/onyx",
+      "stars": "9,163",
       "lang": "Python",
       "desc": ""
     },
     {
       "repo": "google-ai-edge/LiteRT-LM",
-      "stars": "2,596",
+      "stars": "2,720",
       "lang": "C++",
       "desc": ""
     }
-  ],
-  "note": "Using 2026-04-13 data as fallback (GitHub trending fetch failed)"
+  ]
 }
