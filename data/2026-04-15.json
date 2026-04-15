@@ -1,6 +1,79 @@
 {
   "date": "2026-04-15",
-  "daily": [],
+  "daily": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "9,263",
+      "lang": "",
+      "desc": ""
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "stars": "2,997",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "stars": "1,162",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "pascalorg/editor",
+      "stars": "820",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "1,675",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "obra/superpowers",
+      "stars": "1,919",
+      "lang": "Shell",
+      "desc": ""
+    },
+    {
+      "repo": "chrislgarry/Apollo-11",
+      "stars": "472",
+      "lang": "Assembly",
+      "desc": ""
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "stars": "1,007",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "963",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "8,301",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "stars": "931",
+      "lang": "Jupyter Notebook",
+      "desc": ""
+    },
+    {
+      "repo": "shanraisshan/claude-code-best-practice",
+      "stars": "2,583",
+      "lang": "HTML",
+      "desc": ""
+    }
+  ],
   "weekly": [
     {
       "repo": "forrestchang/andrej-karpathy-skills",
