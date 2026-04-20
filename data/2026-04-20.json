@@ -1,0 +1,273 @@
+{
+  "date": "2026-04-20",
+  "daily": [
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "1,254",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "thunderbird/thunderbolt",
+      "stars": "695",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "tractorjuice/arc-kit",
+      "stars": "263",
+      "lang": "HTML",
+      "desc": ""
+    },
+    {
+      "repo": "openai/openai-agents-python",
+      "stars": "752",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "stars": "109",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "paperless-ngx/paperless-ngx",
+      "stars": "393",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "stars": "149",
+      "lang": "Rust",
+      "desc": ""
+    },
+    {
+      "repo": "EvoMap/evolver",
+      "stars": "527",
+      "lang": "JavaScript",
+      "desc": ""
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "stars": "685",
+      "lang": "Dart",
+      "desc": ""
+    },
+    {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "stars": "704",
+      "lang": "Shell",
+      "desc": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "45,381",
+      "lang": "",
+      "desc": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "38,194",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "stars": "14,556",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "EvoMap/evolver",
+      "stars": "3,434",
+      "lang": "JavaScript",
+      "desc": ""
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "3,512",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "4,455",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "7,831",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "stars": "4,458",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "9,018",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "stars": "5,497",
+      "lang": "Jupyter Notebook",
+      "desc": ""
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "stars": "5,724",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "stars": "4,136",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "SimoneAvogadro/android-reverse-engineering-skill",
+      "stars": "1,921",
+      "lang": "Shell",
+      "desc": ""
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "4,607",
+      "lang": "Shell",
+      "desc": ""
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "stars": "2,896",
+      "lang": "Dart",
+      "desc": ""
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "92,374",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "52,578",
+      "lang": "",
+      "desc": ""
+    },
+    {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "stars": "12,923",
+      "lang": "Shell",
+      "desc": ""
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "stars": "31,326",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "stars": "22,878",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "stars": "6,231",
+      "lang": "Kotlin",
+      "desc": ""
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "stars": "18,459",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "8,354",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "21,858",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "stars": "8,645",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "5,230",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "affaan-m/everything-claude-code",
+      "stars": "75,324",
+      "lang": "JavaScript",
+      "desc": ""
+    },
+    {
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "stars": "21,973",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "stars": "16,777",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "stars": "9,299",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "FujiwaraChoki/MoneyPrinterV2",
+      "stars": "14,606",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "obra/superpowers",
+      "stars": "62,747",
+      "lang": "Shell",
+      "desc": ""
+    },
+    {
+      "repo": "onyx-dot-app/onyx",
+      "stars": "9,827",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "stars": "2,991",
+      "lang": "C++",
+      "desc": ""
+    }
+  ]
+}
