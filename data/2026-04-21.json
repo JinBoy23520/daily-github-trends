@@ -62,6 +62,218 @@
       "desc": ""
     }
   ],
-  "weekly": [],
-  "monthly": []
+  "weekly": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "44,394",
+      "lang": "",
+      "desc": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "30,630",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "stars": "12,472",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "3,914",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "EvoMap/evolver",
+      "stars": "4,032",
+      "lang": "JavaScript",
+      "desc": ""
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "stars": "5,703",
+      "lang": "Jupyter Notebook",
+      "desc": ""
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "stars": "3,950",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "7,009",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "stars": "5,936",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "3,227",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "SimoneAvogadro/android-reverse-engineering-skill",
+      "stars": "2,299",
+      "lang": "Shell",
+      "desc": ""
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "stars": "3,634",
+      "lang": "Dart",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "7,084",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "chrislgarry/Apollo-11",
+      "stars": "1,901",
+      "lang": "Assembly",
+      "desc": ""
+    },
+    {
+      "repo": "warproxxx/poly_data",
+      "stars": "487",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "stars": "3,189",
+      "lang": "Python",
+      "desc": ""
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "95,651",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "57,640",
+      "lang": "",
+      "desc": ""
+    },
+    {
+      "repo": "pascalorg/editor",
+      "stars": "13,494",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "stars": "14,210",
+      "lang": "Shell",
+      "desc": ""
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "stars": "23,107",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "stars": "6,317",
+      "lang": "Kotlin",
+      "desc": ""
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "8,635",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "stars": "18,684",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "stars": "31,390",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "stars": "8,975",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "5,389",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "stars": "16,883",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "22,626",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "stars": "9,732",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "affaan-m/everything-claude-code",
+      "stars": "73,574",
+      "lang": "JavaScript",
+      "desc": ""
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "stars": "3,061",
+      "lang": "C++",
+      "desc": ""
+    },
+    {
+      "repo": "onyx-dot-app/onyx",
+      "stars": "9,938",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "hacksider/Deep-Live-Cam",
+      "stars": "11,503",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "obra/superpowers",
+      "stars": "61,407",
+      "lang": "Shell",
+      "desc": ""
+    }
+  ]
 }
