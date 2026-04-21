@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-21",
+  "daily": [
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "3,109",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "stars": "713",
+      "lang": "Rust",
+      "desc": ""
+    },
+    {
+      "repo": "thunderbird/thunderbolt",
+      "stars": "675",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "paperless-ngx/paperless-ngx",
+      "stars": "606",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "tractorjuice/arc-kit",
+      "stars": "329",
+      "lang": "HTML",
+      "desc": ""
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "stars": "316",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "openai/openai-agents-python",
+      "stars": "905",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "deepseek-ai/DeepGEMM",
+      "stars": "109",
+      "lang": "Cuda",
+      "desc": ""
+    },
+    {
+      "repo": "pi-hole/pi-hole",
+      "stars": "196",
+      "lang": "Shell",
+      "desc": ""
+    },
+    {
+      "repo": "XTLS/Xray-core",
+      "stars": "78",
+      "lang": "Go",
+      "desc": ""
+    }
+  ],
+  "weekly": [],
+  "monthly": []
+}
