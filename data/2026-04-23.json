@@ -1,0 +1,273 @@
+{
+  "date": "2026-04-23",
+  "daily": [
+    {
+      "repo": "zilliztech/claude-context",
+      "stars": "871",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "1,772",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "stars": "424",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "langfuse/langfuse",
+      "stars": "149",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "KeygraphHQ/shannon",
+      "stars": "372",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "open-metadata/OpenMetadata",
+      "stars": "521",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "stars": "565",
+      "lang": "Rust",
+      "desc": ""
+    },
+    {
+      "repo": "HKUDS/RAG-Anything",
+      "stars": "786",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "sansan0/TrendRadar",
+      "stars": "969",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "308",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "518",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "vercel-labs/skills",
+      "stars": "333",
+      "lang": "TypeScript",
+      "desc": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "35,349",
+      "lang": "",
+      "desc": ""
+    },
+    {
+      "repo": "EvoMap/evolver",
+      "stars": "4,364",
+      "lang": "JavaScript",
+      "desc": ""
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "4,216",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "22,083",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "stars": "8,739",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "openai/openai-agents-python",
+      "stars": "3,802",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "stars": "4,550",
+      "lang": "Jupyter Notebook",
+      "desc": ""
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "stars": "4,495",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "6,015",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "vercel-labs/open-agents",
+      "stars": "1,684",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "Tracer-Cloud/opensre",
+      "stars": "1,508",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "stars": "3,624",
+      "lang": "Dart",
+      "desc": ""
+    },
+    {
+      "repo": "z-lab/dflash",
+      "stars": "859",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "steipete/wacli",
+      "stars": "789",
+      "lang": "Go",
+      "desc": ""
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "stars": "2,282",
+      "lang": "Python",
+      "desc": ""
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "100,638",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "67,820",
+      "lang": "",
+      "desc": ""
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "stars": "23,580",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "9,037",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "stars": "9,478",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "stars": "6,483",
+      "lang": "Kotlin",
+      "desc": ""
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "stars": "10,276",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "5,672",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "stars": "17,032",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "23,540",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "stars": "19,158",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "9,926",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "stars": "13,770",
+      "lang": "Shell",
+      "desc": ""
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "stars": "3,223",
+      "lang": "C++",
+      "desc": ""
+    },
+    {
+      "repo": "hacksider/Deep-Live-Cam",
+      "stars": "11,891",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "onyx-dot-app/onyx",
+      "stars": "10,189",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "affaan-m/everything-claude-code",
+      "stars": "69,085",
+      "lang": "JavaScript",
+      "desc": ""
+    }
+  ]
+}
