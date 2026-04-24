@@ -1,0 +1,188 @@
+{
+  "date": "2026-04-24",
+  "daily": [
+    {
+      "repo": "huggingface/ml-intern",
+      "stars": "720",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "zilliztech/claude-context",
+      "stars": "1,011",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "HKUDS/RAG-Anything",
+      "stars": "590",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "1,383",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "stars": "429",
+      "lang": "Rust",
+      "desc": ""
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "stars": "316",
+      "lang": "JavaScript",
+      "desc": ""
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "1,962",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "open-metadata/OpenMetadata",
+      "stars": "776",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "stars": "208",
+      "lang": "Jupyter Notebook",
+      "desc": ""
+    },
+    {
+      "repo": "PowerShell/PowerShell",
+      "stars": "67",
+      "lang": "C#",
+      "desc": ""
+    },
+    {
+      "repo": "cline/cline",
+      "stars": "123",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/onnxruntime",
+      "stars": "49",
+      "lang": "C++",
+      "desc": ""
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "stars": "238",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "stars": "285",
+      "lang": "JavaScript",
+      "desc": ""
+    },
+    {
+      "repo": "chiphuyen/aie-book",
+      "stars": "215",
+      "lang": "Jupyter Notebook",
+      "desc": ""
+    },
+    {
+      "repo": "VoltAgent/awesome-agent-skills",
+      "stars": "228",
+      "lang": "",
+      "desc": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "32,115",
+      "lang": "",
+      "desc": ""
+    },
+    {
+      "repo": "SimoneAvogadro/android-reverse-engineering-skill",
+      "stars": "2,702",
+      "lang": "Shell",
+      "desc": ""
+    },
+    {
+      "repo": "EvoMap/evolver",
+      "stars": "3,759",
+      "lang": "JavaScript",
+      "desc": ""
+    },
+    {
+      "repo": "openai/openai-agents-python",
+      "stars": "3,842",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "stars": "3,969",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "stars": "7,562",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "20,316",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "5,741",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "stars": "3,561",
+      "lang": "Jupyter Notebook",
+      "desc": ""
+    },
+    {
+      "repo": "Tracer-Cloud/opensre",
+      "stars": "1,614",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "BasedHardware/omi",
+      "stars": "3,373",
+      "lang": "Dart",
+      "desc": ""
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "stars": "1,797",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "zilliztech/claude-context",
+      "stars": "2,183",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "5,758",
+      "lang": "Python",
+      "desc": ""
+    }
+  ],
+  "monthly": []
+}
