@@ -184,5 +184,120 @@
       "desc": ""
     }
   ],
-  "monthly": []
+  "monthly": [
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "102,133",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "72,106",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "stars": "23,805",
+      "lang": "TypeScript",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "9,544",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "stars": "9,655",
+      "lang": "Python",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "stars": "10,475",
+      "lang": "Python",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "stars": "6,534",
+      "lang": "Kotlin",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a"
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "5,810",
+      "lang": "TypeScript",
+      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministi"
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "stars": "17,134",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "10,943",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analyti"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "24,309",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "stars": "3,265",
+      "lang": "C++",
+      "desc": ""
+    },
+    {
+      "repo": "Donchitos/Claude-Code-Game-Studios",
+      "stars": "12,736",
+      "lang": "Shell",
+      "desc": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills,"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "stars": "19,220",
+      "lang": "Python",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark"
+    },
+    {
+      "repo": "hacksider/Deep-Live-Cam",
+      "stars": "12,195",
+      "lang": "Python",
+      "desc": "real time face swap and one-click video deepfake with only a single image"
+    },
+    {
+      "repo": "onyx-dot-app/onyx",
+      "stars": "10,377",
+      "lang": "Python",
+      "desc": "Open Source AI Platform - AI Chat with advanced features that works with every L"
+    },
+    {
+      "repo": "google-research/timesfm",
+      "stars": "8,358",
+      "lang": "Python",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "stars": "4,913",
+      "lang": "Python",
+      "desc": "AI generates natively editable PPTX from any document — real PowerPoint shapes, "
+    },
+    {
+      "repo": "rtk-ai/rtk",
+      "stars": "21,069",
+      "lang": "Rust",
+      "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S"
+    }
+  ]
 }
