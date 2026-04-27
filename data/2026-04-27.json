@@ -1,0 +1,200 @@
+{
+  "date": "2026-04-27",
+  "daily": [],
+  "weekly": [
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "10,335",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like o"
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "10,070",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analyti"
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "29,944",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "zilliztech/claude-context",
+      "stars": "3,537",
+      "lang": "TypeScript",
+      "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding"
+    },
+    {
+      "repo": "thunderbird/thunderbolt",
+      "stars": "2,244",
+      "lang": "TypeScript",
+      "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in."
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "6,488",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "2,936",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "SimoneAvogadro/android-reverse-engineering-skill",
+      "stars": "1,685",
+      "lang": "Shell",
+      "desc": "Claude Code skill to support Android app's reverse engineering"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "5,013",
+      "lang": "Shell",
+      "desc": "Agent Skills for real engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "Tracer-Cloud/opensre",
+      "stars": "1,511",
+      "lang": "Python",
+      "desc": "Build your own AI SRE agents. The open source toolkit for the AI era ✨"
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "stars": "3,448",
+      "lang": "JavaScript",
+      "desc": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Opena"
+    },
+    {
+      "repo": "HKUDS/RAG-Anything",
+      "stars": "2,639",
+      "lang": "Python",
+      "desc": "\"RAG-Anything: All-in-One RAG Framework\""
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "4,882",
+      "lang": "TypeScript",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates "
+    },
+    {
+      "repo": "deepseek-ai/DeepGEMM",
+      "stars": "438",
+      "lang": "Cuda",
+      "desc": "DeepGEMM: clean and efficient FP8 GEMM kernels with fine-grained scaling"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "82,118",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "104,773",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "repo": "Yeachan-Heo/oh-my-codex",
+      "stars": "23,592",
+      "lang": "TypeScript",
+      "desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so"
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "stars": "27,992",
+      "lang": "Python",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced "
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "10,363",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "stars": "24,172",
+      "lang": "TypeScript",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an"
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "12,424",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analyti"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "stars": "11,213",
+      "lang": "Python",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "6,105",
+      "lang": "TypeScript",
+      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministi"
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "stars": "6,710",
+      "lang": "Kotlin",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "25,187",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "11,242",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like o"
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "stars": "17,850",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "stars": "3,386",
+      "lang": "C++",
+      "desc": ""
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "6,534",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "stars": "5,275",
+      "lang": "Python",
+      "desc": "AI generates natively editable PPTX from any document — real PowerPoint shapes, "
+    },
+    {
+      "repo": "rtk-ai/rtk",
+      "stars": "22,248",
+      "lang": "Rust",
+      "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S"
+    },
+    {
+      "repo": "google-research/timesfm",
+      "stars": "8,574",
+      "lang": "Python",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo"
+    }
+  ]
+}
