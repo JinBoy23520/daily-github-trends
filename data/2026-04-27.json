@@ -1,6 +1,85 @@
 {
   "date": "2026-04-27",
-  "daily": [],
+  "daily": [
+    {
+      "repo": "mattpocock/skills",
+      "stars": "2,519",
+      "lang": "Shell",
+      "desc": "Agent Skills for real engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "1,701",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like o"
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "1,720",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "abhigyanpatwari/GitNexus",
+      "stars": "700",
+      "lang": "TypeScript",
+      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k"
+    },
+    {
+      "repo": "PostHog/posthog",
+      "stars": "337",
+      "lang": "Python",
+      "desc": "🦔 PostHog is an all-in-one developer platform for building successful products. "
+    },
+    {
+      "repo": "microsoft/typescript-go",
+      "stars": "23",
+      "lang": "Go",
+      "desc": "Staging repo for development of native port of TypeScript"
+    },
+    {
+      "repo": "trycua/cua",
+      "stars": "182",
+      "lang": "HTML",
+      "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma"
+    },
+    {
+      "repo": "gastownhall/beads",
+      "stars": "152",
+      "lang": "Go",
+      "desc": "Beads - A memory upgrade for your coding agent"
+    },
+    {
+      "repo": "curl/curl",
+      "stars": "30",
+      "lang": "C",
+      "desc": "A command line tool and library for transferring data with URL syntax, supportin"
+    },
+    {
+      "repo": "home-assistant/core",
+      "stars": "73",
+      "lang": "Python",
+      "desc": "🏡 Open source home automation that puts local control and privacy first."
+    },
+    {
+      "repo": "codecrafters-io/build-your-own-x",
+      "stars": "1,075",
+      "lang": "Markdown",
+      "desc": "Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "repo": "openclaw/openclaw",
+      "stars": "627",
+      "lang": "TypeScript",
+      "desc": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞"
+    },
+    {
+      "repo": "ComposioHQ/awesome-codex-skills",
+      "stars": "517",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Cod"
+    }
+  ],
   "weekly": [
     {
       "repo": "Alishahryar1/free-claude-code",
