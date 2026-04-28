@@ -1,0 +1,206 @@
+{
+  "date": "2026-04-28",
+  "daily": [
+    {
+      "repo": "mattpocock/skills",
+      "stars": "5,645",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "abhigyanpatwari/GitNexus",
+      "stars": "1,102",
+      "lang": "TypeScript",
+      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k"
+    },
+    {
+      "repo": "ComposioHQ/awesome-codex-skills",
+      "stars": "638",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Cod"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "2,949",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like o"
+    },
+    {
+      "repo": "gastownhall/beads",
+      "stars": "498",
+      "lang": "Go",
+      "desc": "Beads - A memory upgrade for your coding agent"
+    },
+    {
+      "repo": "penpot/penpot",
+      "stars": "166",
+      "lang": "Clojure",
+      "desc": "Penpot: The open-source design tool for design and code collaboration"
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "stars": "154",
+      "lang": "Python",
+      "desc": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "stars": "757",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "1,830",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "stars": "248",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "repo": "CJackHwang/ds2api",
+      "stars": "138",
+      "lang": "Go",
+      "desc": "Deepseek to API: A lightweight, high-performance full-stack middleware convertin"
+    },
+    {
+      "repo": "deepseek-ai/DeepSeek-V3",
+      "stars": "81",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "donnemartin/system-design-primer",
+      "stars": "372",
+      "lang": "Python",
+      "desc": "Learn how to design large-scale systems. Prep for the system design interview. I"
+    }
+  ],
+  "weekly": [],
+  "monthly": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "85,629",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "106,290",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "repo": "Yeachan-Heo/oh-my-codex",
+      "stars": "23,773",
+      "lang": "TypeScript",
+      "desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "10,523",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "13,159",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analyti"
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "stars": "27,117",
+      "lang": "Python",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced "
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "stars": "24,316",
+      "lang": "TypeScript",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "stars": "11,444",
+      "lang": "Python",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "6,196",
+      "lang": "TypeScript",
+      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministi"
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "stars": "6,756",
+      "lang": "Kotlin",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "14,253",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like o"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "25,592",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "stars": "3,437",
+      "lang": "C++",
+      "desc": ""
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "6,876",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "stars": "18,317",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "stars": "5,540",
+      "lang": "Python",
+      "desc": "AI generates natively editable PPTX from any document — real PowerPoint shapes, "
+    },
+    {
+      "repo": "rtk-ai/rtk",
+      "stars": "22,504",
+      "lang": "Rust",
+      "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S"
+    },
+    {
+      "repo": "google-research/timesfm",
+      "stars": "8,665",
+      "lang": "Python",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation mo"
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "stars": "27,414",
+      "lang": "TypeScript",
+      "desc": "A Claude Code plugin that automatically captures everything Claude does during y"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "16,974",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    }
+  ]
+}
