@@ -80,7 +80,92 @@
       "desc": "Learn how to design large-scale systems. Prep for the system design interview. I"
     }
   ],
-  "weekly": [],
+  "weekly": [
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "13,415",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like o"
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "7,513",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analyti"
+    },
+    {
+      "repo": "zilliztech/claude-context",
+      "stars": "3,725",
+      "lang": "TypeScript",
+      "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding"
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "28,522",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "10,757",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "8,378",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "2,832",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "stars": "2,346",
+      "lang": "TypeScript",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output, 98% red"
+    },
+    {
+      "repo": "thunderbird/thunderbolt",
+      "stars": "1,675",
+      "lang": "TypeScript",
+      "desc": "AI You Control: Choose your models. Own your data. Eliminate vendor lock-in."
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "stars": "3,862",
+      "lang": "JavaScript",
+      "desc": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Opena"
+    },
+    {
+      "repo": "Tracer-Cloud/opensre",
+      "stars": "1,677",
+      "lang": "Python",
+      "desc": "Build your own AI SRE agents. The open source toolkit for the AI era ✨"
+    },
+    {
+      "repo": "HKUDS/RAG-Anything",
+      "stars": "2,622",
+      "lang": "Python",
+      "desc": "\"RAG-Anything: All-in-One RAG Framework\""
+    },
+    {
+      "repo": "GyulyVGC/sniffnet",
+      "stars": "1,959",
+      "lang": "Rust",
+      "desc": "Comfortably monitor your Internet traffic 🕵️‍♂️"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "6,256",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    }
+  ],
   "monthly": [
     {
       "repo": "forrestchang/andrej-karpathy-skills",
