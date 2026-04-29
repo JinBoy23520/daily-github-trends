@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-29",
+  "daily": [
+    {
+      "repo": "mattpocock/skills",
+      "stars": "7,321",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "abhigyanpatwari/GitNexus",
+      "stars": "1,607",
+      "lang": "TypeScript",
+      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k"
+    },
+    {
+      "repo": "ComposioHQ/awesome-codex-skills",
+      "stars": "953",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Cod"
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "stars": "1,483",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "stars": "346",
+      "lang": "Python",
+      "desc": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "repo": "HunxByts/GhostTrack",
+      "stars": "967",
+      "lang": "Python",
+      "desc": "Useful tool to track location or mobile number"
+    },
+    {
+      "repo": "fspecii/ace-step-ui",
+      "stars": "162",
+      "lang": "JavaScript",
+      "desc": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 A"
+    },
+    {
+      "repo": "public-apis/public-apis",
+      "stars": "644",
+      "lang": "Python",
+      "desc": "A collective list of free APIs"
+    },
+    {
+      "repo": "CJackHwang/ds2api",
+      "stars": "417",
+      "lang": "Go",
+      "desc": "Deepseek to API: A lightweight, high-performance full-stack middleware convertin"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "1,741",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like o"
+    },
+    {
+      "repo": "donnemartin/system-design-primer",
+      "stars": "744",
+      "lang": "Python",
+      "desc": "Learn how to design large-scale systems. Prep for the system design interview. I"
+    },
+    {
+      "repo": "EbookFoundation/free-programming-books",
+      "stars": "147",
+      "lang": "Python",
+      "desc": "📚 Freely available programming books"
+    },
+    {
+      "repo": "iamgio/quarkdown",
+      "stars": "699",
+      "lang": "Kotlin",
+      "desc": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, book"
+    }
+  ],
+  "weekly": [],
+  "monthly": []
+}
