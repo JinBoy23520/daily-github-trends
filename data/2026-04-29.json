@@ -80,6 +80,206 @@
       "desc": "🪐 Markdown with superpowers: from ideas to papers, presentations, websites, book"
     }
   ],
-  "weekly": [],
-  "monthly": []
+  "weekly": [
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "15,110",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like o"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "18,218",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "9,252",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "25,836",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "zilliztech/claude-context",
+      "stars": "3,767",
+      "lang": "TypeScript",
+      "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding"
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "5,926",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analyti"
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "2,330",
+      "lang": "Python",
+      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "stars": "4,071",
+      "lang": "JavaScript",
+      "desc": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Opena"
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "2,620",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "HKUDS/RAG-Anything",
+      "stars": "2,645",
+      "lang": "Python",
+      "desc": "\"RAG-Anything: All-in-One RAG Framework\""
+    },
+    {
+      "repo": "Tracer-Cloud/opensre",
+      "stars": "1,681",
+      "lang": "Python",
+      "desc": "Build your own AI SRE agents. The open source toolkit for the AI era ✨"
+    },
+    {
+      "repo": "CJackHwang/ds2api",
+      "stars": "997",
+      "lang": "Go",
+      "desc": "Deepseek to API: A lightweight, high-performance full-stack middleware convertin"
+    },
+    {
+      "repo": "GyulyVGC/sniffnet",
+      "stars": "1,719",
+      "lang": "Rust",
+      "desc": "Comfortably monitor your Internet traffic 🕵️‍♂️"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "6,179",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "88,829",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "107,890",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "repo": "Yeachan-Heo/oh-my-codex",
+      "stars": "23,981",
+      "lang": "TypeScript",
+      "desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "15,944",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or via discord like o"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "10,628",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "stars": "11,653",
+      "lang": "Python",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "14,039",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analyti"
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "stars": "24,564",
+      "lang": "TypeScript",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an"
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "stars": "6,809",
+      "lang": "Kotlin",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a"
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "6,309",
+      "lang": "TypeScript",
+      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministi"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "25,993",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "stars": "26,211",
+      "lang": "Python",
+      "desc": "A visual, example-driven guide to Claude Code — from basic concepts to advanced "
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "7,182",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "24,449",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "stars": "3,481",
+      "lang": "C++",
+      "desc": ""
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "12,549",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "stars": "5,881",
+      "lang": "Python",
+      "desc": "AI generates natively editable PPTX from any document — real PowerPoint shapes, "
+    },
+    {
+      "repo": "rtk-ai/rtk",
+      "stars": "23,044",
+      "lang": "Rust",
+      "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S"
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "stars": "27,718",
+      "lang": "TypeScript",
+      "desc": "A Claude Code plugin that automatically captures everything Claude does during y"
+    }
+  ]
 }
