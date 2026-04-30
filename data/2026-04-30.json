@@ -1,0 +1,279 @@
+{
+  "date": "2026-04-30",
+  "daily": [
+    {
+      "repo": "warpdotdev/warp",
+      "stars": "12,822",
+      "lang": "Rust",
+      "desc": "Warp is an agentic development environment, born out of the terminal."
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "7,280",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "HunxByts/GhostTrack",
+      "stars": "1,033",
+      "lang": "Python",
+      "desc": "Useful tool to track location or mobile number"
+    },
+    {
+      "repo": "ComposioHQ/awesome-codex-skills",
+      "stars": "1,177",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Cod"
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "stars": "411",
+      "lang": "Rust",
+      "desc": "Coding Agent Harness"
+    },
+    {
+      "repo": "abhigyanpatwari/GitNexus",
+      "stars": "774",
+      "lang": "TypeScript",
+      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k"
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "stars": "1,690",
+      "lang": "Python",
+      "desc": "Open-Source Frontier Voice AI"
+    },
+    {
+      "repo": "CJackHwang/ds2api",
+      "stars": "465",
+      "lang": "Go",
+      "desc": "Deepseek to API: A lightweight, high-performance full-stack middleware convertin"
+    },
+    {
+      "repo": "obra/superpowers",
+      "stars": "1,653",
+      "lang": "Shell",
+      "desc": "An agentic skills framework &amp; software development methodology that works."
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "stars": "294",
+      "lang": "Python",
+      "desc": "LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered sto"
+    },
+    {
+      "repo": "lukilabs/craft-agents-oss",
+      "stars": "393",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "EbookFoundation/free-programming-books",
+      "stars": "604",
+      "lang": "Python",
+      "desc": "📚 Freely available programming books"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "stars": "79",
+      "lang": "Python",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "repo": "iv-org/invidious",
+      "stars": "269",
+      "lang": "Crystal",
+      "desc": "Invidious is an alternative front-end to YouTube"
+    },
+    {
+      "repo": "gorhill/uBlock",
+      "stars": "391",
+      "lang": "JavaScript",
+      "desc": "uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean."
+    },
+    {
+      "repo": "microsoft/PowerToys",
+      "stars": "102",
+      "lang": "C#",
+      "desc": "Microsoft PowerToys is a collection of utilities that supercharge productivity a"
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "16,154",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like openc"
+    },
+    {
+      "repo": "huggingface/ml-intern",
+      "stars": "6,388",
+      "lang": "Python",
+      "desc": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "24,702",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "9,428",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "24,129",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "zilliztech/claude-context",
+      "stars": "3,151",
+      "lang": "TypeScript",
+      "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding"
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "5,117",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analyti"
+    },
+    {
+      "repo": "CJackHwang/ds2api",
+      "stars": "1,415",
+      "lang": "Go",
+      "desc": "Deepseek to API: A lightweight, high-performance full-stack middleware convertin"
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "2,445",
+      "lang": "Python",
+      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "stars": "3,823",
+      "lang": "JavaScript",
+      "desc": "Uncensored, open-source alternative to Higgsfield AI, Freepik AI, Krea AI, Opena"
+    },
+    {
+      "repo": "trycua/cua",
+      "stars": "1,615",
+      "lang": "HTML",
+      "desc": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchma"
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "2,365",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "stars": "2,215",
+      "lang": "TypeScript",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output, 98% red"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "91,463",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "109,206",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "17,106",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like openc"
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "14,863",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analyti"
+    },
+    {
+      "repo": "Yeachan-Heo/oh-my-codex",
+      "stars": "24,145",
+      "lang": "TypeScript",
+      "desc": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "stars": "11,789",
+      "lang": "Python",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "10,729",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "stars": "6,868",
+      "lang": "Kotlin",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a"
+    },
+    {
+      "repo": "siddharthvaddem/openscreen",
+      "stars": "24,784",
+      "lang": "TypeScript",
+      "desc": "Create stunning demos for free. Open-source, no subscriptions, no watermarks, an"
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "6,446",
+      "lang": "TypeScript",
+      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministi"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "26,298",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "31,265",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "7,409",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "google-ai-edge/LiteRT-LM",
+      "stars": "3,526",
+      "lang": "C++",
+      "desc": ""
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "12,830",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "stars": "6,239",
+      "lang": "Python",
+      "desc": "AI generates natively editable PPTX from any document — real PowerPoint shapes, "
+    }
+  ]
+}
