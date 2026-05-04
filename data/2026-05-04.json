@@ -1,0 +1,273 @@
+{
+  "date": "2026-05-04",
+  "daily": [
+    {
+      "repo": "ruvnet/ruflo",
+      "stars": "2,594",
+      "lang": "TypeScript",
+      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "stars": "2,181",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "repo": "browserbase/skills",
+      "stars": "320",
+      "lang": "JavaScript",
+      "desc": "Claude Agent SDK with a web browsing tool"
+    },
+    {
+      "repo": "Hmbown/DeepSeek-TUI",
+      "stars": "1,277",
+      "lang": "Rust",
+      "desc": "Coding agent for DeepSeek models that runs in your terminal"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "stars": "1,116",
+      "lang": "Python",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "repo": "qbittorrent/qBittorrent",
+      "stars": "68",
+      "lang": "C++",
+      "desc": "qBittorrent BitTorrent client"
+    },
+    {
+      "repo": "czlonkowski/n8n-mcp",
+      "stars": "497",
+      "lang": "TypeScript",
+      "desc": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflow"
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "stars": "545",
+      "lang": "Rust",
+      "desc": "Coding Agent Harness"
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "stars": "828",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit commun"
+    },
+    {
+      "repo": "virattt/dexter",
+      "stars": "418",
+      "lang": "TypeScript",
+      "desc": "An autonomous agent for deep financial research"
+    },
+    {
+      "repo": "Flowseal/zapret-discord-youtube",
+      "stars": "106",
+      "lang": "Batchfile",
+      "desc": ""
+    },
+    {
+      "repo": "fspecii/ace-step-ui",
+      "stars": "222",
+      "lang": "JavaScript",
+      "desc": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 A"
+    },
+    {
+      "repo": "jellyfin/jellyfin",
+      "stars": "35",
+      "lang": "C#",
+      "desc": "The Free Software Media System - Server Backend &amp; API"
+    },
+    {
+      "repo": "cocoindex-io/cocoindex",
+      "stars": "163",
+      "lang": "Python",
+      "desc": "Incremental engine for long horizon agents 🌟 Star if you like it!"
+    },
+    {
+      "repo": "docusealco/docuseal",
+      "stars": "316",
+      "lang": "Ruby",
+      "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️"
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "mattpocock/skills",
+      "stars": "34,848",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "stars": "11,252",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "stars": "3,729",
+      "lang": "Python",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "repo": "ComposioHQ/awesome-codex-skills",
+      "stars": "4,279",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Cod"
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "stars": "4,321",
+      "lang": "TypeScript",
+      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "8,276",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenC"
+    },
+    {
+      "repo": "CJackHwang/ds2api",
+      "stars": "1,660",
+      "lang": "Go",
+      "desc": "DeepSeek-Compatible Middleware Interface: A technical exploration project in Go,"
+    },
+    {
+      "repo": "refactoringhq/tolaria",
+      "stars": "3,337",
+      "lang": "TypeScript",
+      "desc": "Desktop app to manage markdown knowledge bases"
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "2,659",
+      "lang": "Python",
+      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "6,104",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "abhigyanpatwari/GitNexus",
+      "stars": "5,423",
+      "lang": "TypeScript",
+      "desc": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side k"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "100,680",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "108,122",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "22,247",
+      "lang": "TypeScript",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates "
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "27,216",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "44,958",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "19,210",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenC"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "11,254",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "6,874",
+      "lang": "TypeScript",
+      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministi"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "stars": "12,226",
+      "lang": "Python",
+      "desc": "\"DeepTutor: Agent-Native Personalized Learning Assistant\""
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "27,046",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "8,093",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "stars": "27,043",
+      "lang": "TypeScript",
+      "desc": "A Claude Code plugin that automatically captures everything Claude does during y"
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "13,349",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "ComposioHQ/awesome-codex-skills",
+      "stars": "5,445",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Cod"
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "6,210",
+      "lang": "Python",
+      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "repo": "google-ai-edge/gallery",
+      "stars": "6,881",
+      "lang": "Kotlin",
+      "desc": "A gallery that showcases on-device ML/GenAI use cases and allows people to try a"
+    },
+    {
+      "repo": "rtk-ai/rtk",
+      "stars": "23,674",
+      "lang": "Rust",
+      "desc": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. S"
+    },
+    {
+      "repo": "SimoneAvogadro/android-reverse-engineering-skill",
+      "stars": "4,049",
+      "lang": "Shell",
+      "desc": "Claude Code skill to support Android app's reverse engineering"
+    }
+  ]
+}
