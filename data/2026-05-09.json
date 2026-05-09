@@ -1,0 +1,279 @@
+{
+  "date": "2026-05-09",
+  "daily": [
+    {
+      "repo": "anthropics/financial-services",
+      "stars": "3,660",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "1,893",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "Hmbown/DeepSeek-TUI",
+      "stars": "3,731",
+      "lang": "Rust",
+      "desc": "Coding agent for DeepSeek models that runs in your terminal"
+    },
+    {
+      "repo": "z-lab/dflash",
+      "stars": "379",
+      "lang": "Python",
+      "desc": "DFlash: Block Diffusion for Flash Speculative Decoding"
+    },
+    {
+      "repo": "decolua/9router",
+      "stars": "1,052",
+      "lang": "JavaScript",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An"
+    },
+    {
+      "repo": "CloakHQ/CloakBrowser",
+      "stars": "526",
+      "lang": "Python",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replac"
+    },
+    {
+      "repo": "awslabs/aidlc-workflows",
+      "stars": "58",
+      "lang": "Python",
+      "desc": "AI-Driven Life Cycle (AI-DLC) adaptive workflow steering rules for AI coding age"
+    },
+    {
+      "repo": "HKUDS/AI-Trader",
+      "stars": "202",
+      "lang": "Python",
+      "desc": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\""
+    },
+    {
+      "repo": "LearningCircuit/local-deep-research",
+      "stars": "559",
+      "lang": "Python",
+      "desc": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs"
+    },
+    {
+      "repo": "lobehub/lobehub",
+      "stars": "125",
+      "lang": "TypeScript",
+      "desc": "The ultimate space for work and life — to find, build, and collaborate with agen"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "stars": "667",
+      "lang": "Python",
+      "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    },
+    {
+      "repo": "flutter/skills",
+      "stars": "118",
+      "lang": "Dart",
+      "desc": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "ruvnet/ruflo",
+      "stars": "12,226",
+      "lang": "TypeScript",
+      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-"
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "stars": "5,848",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "stars": "12,981",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "repo": "virattt/dexter",
+      "stars": "3,278",
+      "lang": "TypeScript",
+      "desc": "An autonomous agent for deep financial research"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "stars": "5,398",
+      "lang": "Python",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "repo": "browserbase/skills",
+      "stars": "1,621",
+      "lang": "JavaScript",
+      "desc": "Claude Agent SDK with a web browsing tool"
+    },
+    {
+      "repo": "docusealco/docuseal",
+      "stars": "4,069",
+      "lang": "Ruby",
+      "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️"
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "stars": "2,925",
+      "lang": "Rust",
+      "desc": "Coding Agent Harness"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "14,928",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "5,136",
+      "lang": "Python",
+      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "repo": "cocoindex-io/cocoindex",
+      "stars": "1,909",
+      "lang": "Python",
+      "desc": "Incremental engine for long horizon agents 🌟 Star if you like it!"
+    },
+    {
+      "repo": "warpdotdev/warp",
+      "stars": "6,136",
+      "lang": "Rust",
+      "desc": "Warp is an agentic development environment, born out of the terminal."
+    },
+    {
+      "repo": "openai/symphony",
+      "stars": "2,335",
+      "lang": "Elixir",
+      "desc": "Symphony turns project work into isolated, autonomous implementation runs, allow"
+    },
+    {
+      "repo": "fspecii/ace-step-ui",
+      "stars": "1,122",
+      "lang": "JavaScript",
+      "desc": "🎵 The Ultimate Open Source Suno Alternative - Professional UI for ACE-Step 1.5 A"
+    },
+    {
+      "repo": "decolua/9router",
+      "stars": "1,781",
+      "lang": "JavaScript",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "112,013",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "104,052",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "53,203",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "20,993",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenC"
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "23,942",
+      "lang": "TypeScript",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates "
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "12,092",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "25,346",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "8,855",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "10,269",
+      "lang": "Python",
+      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "stars": "11,007",
+      "lang": "Python",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D"
+    },
+    {
+      "repo": "coleam00/Archon",
+      "stars": "7,274",
+      "lang": "TypeScript",
+      "desc": "The first open-source harness builder for AI coding. Make AI coding deterministi"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "28,653",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "15,265",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "ComposioHQ/awesome-codex-skills",
+      "stars": "6,940",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Cod"
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "stars": "27,861",
+      "lang": "TypeScript",
+      "desc": "A Claude Code plugin that automatically captures everything Claude does during y"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "stars": "9,337",
+      "lang": "Python",
+      "desc": "AI generates natively editable PPTX from any document — real PowerPoint shapes w"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "stars": "7,182",
+      "lang": "Python",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "stars": "23,486",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    }
+  ]
+}
