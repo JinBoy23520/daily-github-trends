@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-11",
+  "daily": [],
+  "weekly": [
+    {
+      "repo": "Hmbown/DeepSeek-TUI",
+      "stars": "22,034",
+      "lang": "Rust",
+      "desc": "Coding agent for DeepSeek models that runs in your terminal"
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "stars": "10,272",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "stars": "10,779",
+      "lang": "TypeScript",
+      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-"
+    },
+    {
+      "repo": "docusealco/docuseal",
+      "stars": "4,020",
+      "lang": "Ruby",
+      "desc": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "stars": "8,872",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "repo": "LearningCircuit/local-deep-research",
+      "stars": "2,483",
+      "lang": "Python",
+      "desc": "~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all local and cloud LLMs"
+    },
+    {
+      "repo": "virattt/dexter",
+      "stars": "2,741",
+      "lang": "TypeScript",
+      "desc": "An autonomous agent for deep financial research"
+    },
+    {
+      "repo": "decolua/9router",
+      "stars": "3,318",
+      "lang": "JavaScript",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An"
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "stars": "2,328",
+      "lang": "Rust",
+      "desc": "Coding Agent Harness"
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "5,038",
+      "lang": "Python",
+      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "repo": "cocoindex-io/cocoindex",
+      "stars": "1,831",
+      "lang": "Python",
+      "desc": "Incremental engine for long horizon agents 🌟 Star if you like it!"
+    },
+    {
+      "repo": "browserbase/skills",
+      "stars": "1,403",
+      "lang": "JavaScript",
+      "desc": "Browserbase's official collection of agent skills to access the web."
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "12,722",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "bytedance/UI-TARS-desktop",
+      "stars": "2,191",
+      "lang": "TypeScript",
+      "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and"
+    },
+    {
+      "repo": "withastro/flue",
+      "stars": "1,014",
+      "lang": "TypeScript",
+      "desc": "The sandbox agent framework."
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "10,738",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "InsForge/InsForge",
+      "stars": "1,377",
+      "lang": "TypeScript",
+      "desc": "The all-in-one, open-source backend platform for agentic coding. InsForge gives "
+    },
+    {
+      "repo": "openai/symphony",
+      "stars": "2,204",
+      "lang": "Elixir",
+      "desc": "Symphony turns project work into isolated, autonomous implementation runs, allow"
+    },
+    {
+      "repo": "VectifyAI/PageIndex",
+      "stars": "4,328",
+      "lang": "Python",
+      "desc": "📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "stars": "112,371",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "55,276",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "21,766",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenC"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "92,870",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "9,574",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "21,605",
+      "lang": "TypeScript",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates "
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "11,017",
+      "lang": "Python",
+      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "26,792",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "15,661",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "ComposioHQ/awesome-codex-skills",
+      "stars": "7,228",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Cod"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "stars": "11,475",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "stars": "27,652",
+      "lang": "TypeScript",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your ag"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "stars": "10,059",
+      "lang": "Python",
+      "desc": "AI generates natively editable PPTX from any document — real PowerPoint shapes w"
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "stars": "8,591",
+      "lang": "JavaScript",
+      "desc": "Unrestricted, open-source alternative to AI video platforms — Free, unrestricted"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "stars": "7,958",
+      "lang": "Python",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "stars": "24,174",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    }
+  ]
+}
