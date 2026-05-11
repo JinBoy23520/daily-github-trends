@@ -1,6 +1,79 @@
 {
   "date": "2026-05-11",
-  "daily": [],
+  "daily": [
+    {
+      "repo": "bytedance/UI-TARS-desktop",
+      "stars": "669",
+      "lang": "TypeScript",
+      "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and"
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "stars": "1,449",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "1,065",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "CloakHQ/CloakBrowser",
+      "stars": "496",
+      "lang": "Python",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replac"
+    },
+    {
+      "repo": "HKUDS/AI-Trader",
+      "stars": "163",
+      "lang": "Python",
+      "desc": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\""
+    },
+    {
+      "repo": "jundot/omlx",
+      "stars": "185",
+      "lang": "Python",
+      "desc": "LLM inference server with continuous batching &amp; SSD caching for Apple Silico"
+    },
+    {
+      "repo": "datawhalechina/easy-vibe",
+      "stars": "635",
+      "lang": "JavaScript",
+      "desc": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste"
+    },
+    {
+      "repo": "playcanvas/supersplat",
+      "stars": "579",
+      "lang": "TypeScript",
+      "desc": "3D Gaussian Splat Editor"
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "stars": "174",
+      "lang": "Python",
+      "desc": "Self-evolving agent: grows skill tree from 3.3K-line seed, achieving full system"
+    },
+    {
+      "repo": "decolua/9router",
+      "stars": "803",
+      "lang": "JavaScript",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An"
+    },
+    {
+      "repo": "affaan-m/everything-claude-code",
+      "stars": "1,081",
+      "lang": "JavaScript",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se"
+    },
+    {
+      "repo": "datawhalechina/hello-agents",
+      "stars": "748",
+      "lang": "Python",
+      "desc": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程"
+    }
+  ],
   "weekly": [
     {
       "repo": "Hmbown/DeepSeek-TUI",
