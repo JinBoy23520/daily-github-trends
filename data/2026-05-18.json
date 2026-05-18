@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-18",
+  "daily": [],
+  "weekly": [
+    {
+      "repo": "CloakHQ/CloakBrowser",
+      "stars": "9,007",
+      "lang": "Python",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replac"
+    },
+    {
+      "repo": "rohitg00/agentmemory",
+      "stars": "7,103",
+      "lang": "TypeScript",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "repo": "yikart/AiToEarn",
+      "stars": "4,687",
+      "lang": "TypeScript",
+      "desc": "Let's use AI to Earn!"
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "stars": "5,977",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "oven-sh/bun",
+      "stars": "2,098",
+      "lang": "Rust",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – "
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "stars": "3,624",
+      "lang": "Python",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → f"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "19,679",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "stars": "6,733",
+      "lang": "Rust",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital"
+    },
+    {
+      "repo": "bytedance/UI-TARS-desktop",
+      "stars": "2,563",
+      "lang": "TypeScript",
+      "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and"
+    },
+    {
+      "repo": "apernet/hysteria",
+      "stars": "1,124",
+      "lang": "Go",
+      "desc": "Hysteria is a powerful, lightning fast and censorship resistant proxy."
+    },
+    {
+      "repo": "decolua/9router",
+      "stars": "4,458",
+      "lang": "JavaScript",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An"
+    },
+    {
+      "repo": "HKUDS/AI-Trader",
+      "stars": "2,499",
+      "lang": "Python",
+      "desc": "\"AI-Trader: 100% Fully-Automated Agent-Native Trading\""
+    },
+    {
+      "repo": "millionco/react-doctor",
+      "stars": "2,430",
+      "lang": "TypeScript",
+      "desc": "Your agent writes bad React. This catches it"
+    },
+    {
+      "repo": "Hmbown/DeepSeek-TUI",
+      "stars": "7,444",
+      "lang": "Rust",
+      "desc": "Coding agent for DeepSeek models that runs in your terminal"
+    },
+    {
+      "repo": "facebook/pyrefly",
+      "stars": "394",
+      "lang": "Rust",
+      "desc": "A fast type checker and language server for Python"
+    },
+    {
+      "repo": "obra/superpowers",
+      "stars": "10,094",
+      "lang": "Shell",
+      "desc": "An agentic skills framework &amp; software development methodology that works."
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "mattpocock/skills",
+      "stars": "72,549",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "23,360",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenC"
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "stars": "80,814",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "18,300",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analyti"
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "13,649",
+      "lang": "Python",
+      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "repo": "heygen-com/hyperframes",
+      "stars": "17,005",
+      "lang": "TypeScript",
+      "desc": "Write HTML. Render video. Built for agents."
+    },
+    {
+      "repo": "ComposioHQ/awesome-codex-skills",
+      "stars": "9,458",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Cod"
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "stars": "16,660",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "17,238",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "stars": "9,724",
+      "lang": "Python",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "26,146",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "stars": "25,690",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "repo": "CloakHQ/CloakBrowser",
+      "stars": "11,968",
+      "lang": "Python",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replac"
+    },
+    {
+      "repo": "rohitg00/agentmemory",
+      "stars": "9,195",
+      "lang": "TypeScript",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "stars": "9,874",
+      "lang": "JavaScript",
+      "desc": "Open-source alternative to AI video platforms — Free AI image &amp; video genera"
+    },
+    {
+      "repo": "zilliztech/claude-context",
+      "stars": "5,370",
+      "lang": "TypeScript",
+      "desc": "Code search MCP for Claude Code. Make entire codebase the context for any coding"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "59,362",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "repo": "decolua/9router",
+      "stars": "8,852",
+      "lang": "JavaScript",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An"
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "stars": "20,419",
+      "lang": "TypeScript",
+      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-"
+    }
+  ]
+}
