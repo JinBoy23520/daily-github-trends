@@ -1,6 +1,115 @@
 {
   "date": "2026-05-18",
-  "daily": [],
+  "daily": [
+    {
+      "repo": "tinyhumansai/openhuman",
+      "stars": "1,690",
+      "lang": "Rust",
+      "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "stars": "238",
+      "lang": "Python",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything"
+    },
+    {
+      "repo": "calcom/cal.diy",
+      "stars": "433",
+      "lang": "TypeScript",
+      "desc": "Scheduling infrastructure for absolutely everyone."
+    },
+    {
+      "repo": "oven-sh/bun",
+      "stars": "910",
+      "lang": "Rust",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – "
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "stars": "703",
+      "lang": "JavaScript",
+      "desc": "Open-source alternative to AI video platforms — Free AI image &amp; video genera"
+    },
+    {
+      "repo": "BigBodyCobain/Shadowbroker",
+      "stars": "333",
+      "lang": "Python",
+      "desc": "Open-source intelligence for the global theater. Track everything from the corpo"
+    },
+    {
+      "repo": "tech-leads-club/agent-skills",
+      "stars": "225",
+      "lang": "TypeScript",
+      "desc": "The secure, validated skill registry for professional AI coding agents. Extend A"
+    },
+    {
+      "repo": "NirDiamant/agents-towards-production",
+      "stars": "172",
+      "lang": "Jupyter Notebook",
+      "desc": "End-to-end, code-first tutorials for building production-grade GenAI agents. Fro"
+    },
+    {
+      "repo": "dograh-hq/dograh",
+      "stars": "223",
+      "lang": "Python",
+      "desc": "Open Source Voice Agent Platform"
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "stars": "762",
+      "lang": "Python",
+      "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis,"
+    },
+    {
+      "repo": "Light-Heart-Labs/DreamServer",
+      "stars": "112",
+      "lang": "Python",
+      "desc": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflo"
+    },
+    {
+      "repo": "KeygraphHQ/shannon",
+      "stars": "200",
+      "lang": "TypeScript",
+      "desc": "Shannon Lite is an autonomous, white-box AI pentester for web applications and A"
+    },
+    {
+      "repo": "TryGhost/Ghost",
+      "stars": "231",
+      "lang": "JavaScript",
+      "desc": "Independent technology for modern publishing, memberships, subscriptions and new"
+    },
+    {
+      "repo": "medusajs/medusa",
+      "stars": "211",
+      "lang": "TypeScript",
+      "desc": "The world's most flexible commerce platform."
+    },
+    {
+      "repo": "knadh/listmonk",
+      "stars": "242",
+      "lang": "Go",
+      "desc": "High performance, self-hosted, newsletter and mailing list manager with a modern"
+    },
+    {
+      "repo": "plausible/analytics",
+      "stars": "186",
+      "lang": "Elixir",
+      "desc": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analyt"
+    },
+    {
+      "repo": "colbymchenry/codegraph",
+      "stars": "857",
+      "lang": "TypeScript",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — "
+    },
+    {
+      "repo": "microsoft/ai-agents-for-beginners",
+      "stars": "485",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Lessons to Get Started Building AI Agents"
+    }
+  ],
   "weekly": [
     {
       "repo": "CloakHQ/CloakBrowser",
