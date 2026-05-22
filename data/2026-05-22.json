@@ -1,0 +1,309 @@
+{
+  "date": "2026-05-22",
+  "daily": [
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "stars": "682",
+      "lang": "Python",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "repo": "colbymchenry/codegraph",
+      "stars": "4,294",
+      "lang": "TypeScript",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — "
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "stars": "2,614",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "dotnet/skills",
+      "stars": "129",
+      "lang": "C#",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#"
+    },
+    {
+      "repo": "obra/superpowers",
+      "stars": "1,576",
+      "lang": "Shell",
+      "desc": "An agentic skills framework &amp; software development methodology that works."
+    },
+    {
+      "repo": "HKUDS/CLI-Anything",
+      "stars": "656",
+      "lang": "Python",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything"
+    },
+    {
+      "repo": "rmyndharis/OpenWA",
+      "stars": "730",
+      "lang": "TypeScript",
+      "desc": "Free, Open Source, Self-Hosted WhatsApp API Gateway"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": "151",
+      "lang": "TypeScript",
+      "desc": "Chrome DevTools for coding agents"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "stars": "1,333",
+      "lang": "Python",
+      "desc": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "repo": "teng-lin/notebooklm-py",
+      "stars": "186",
+      "lang": "Python",
+      "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic"
+    },
+    {
+      "repo": "can1357/oh-my-pi",
+      "stars": "500",
+      "lang": "TypeScript",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness"
+    },
+    {
+      "repo": "antoinezambelli/forge",
+      "stars": "398",
+      "lang": "Python",
+      "desc": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workf"
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "534",
+      "lang": "Go",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates "
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "stars": "2,579",
+      "lang": "Python",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → f"
+    },
+    {
+      "repo": "trimstray/the-book-of-secret-knowledge",
+      "stars": "756",
+      "lang": "",
+      "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,"
+    },
+    {
+      "repo": "truelockmc/streambert",
+      "stars": "1,094",
+      "lang": "JavaScript",
+      "desc": "A cross-platform Electron Desktop App to stream and download any Movie, TV Serie"
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "stars": "1,018",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit commun"
+    },
+    {
+      "repo": "alireza0/s-ui",
+      "stars": "27",
+      "lang": "Go",
+      "desc": "An advanced Web Panel • Built for SagerNet/Sing-Box"
+    },
+    {
+      "repo": "Lum1104/Understand-Anything",
+      "stars": "666",
+      "lang": "TypeScript",
+      "desc": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive kn"
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "tinyhumansai/openhuman",
+      "stars": "17,399",
+      "lang": "Rust",
+      "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "repo": "colbymchenry/codegraph",
+      "stars": "10,749",
+      "lang": "TypeScript",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — "
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "stars": "10,737",
+      "lang": "Python",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → f"
+    },
+    {
+      "repo": "supertone-inc/supertonic",
+      "stars": "4,120",
+      "lang": "Swift",
+      "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX."
+    },
+    {
+      "repo": "rohitg00/agentmemory",
+      "stars": "7,000",
+      "lang": "TypeScript",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "repo": "CloakHQ/CloakBrowser",
+      "stars": "7,769",
+      "lang": "Python",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replac"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "stars": "7,636",
+      "lang": "Rust",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital"
+    },
+    {
+      "repo": "oven-sh/bun",
+      "stars": "2,377",
+      "lang": "Rust",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – "
+    },
+    {
+      "repo": "humanlayer/12-factor-agents",
+      "stars": "1,729",
+      "lang": "TypeScript",
+      "desc": "What are the principles we can use to build LLM-powered software that is actuall"
+    },
+    {
+      "repo": "datawhalechina/easy-vibe",
+      "stars": "2,979",
+      "lang": "JavaScript",
+      "desc": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste"
+    },
+    {
+      "repo": "facebook/pyrefly",
+      "stars": "572",
+      "lang": "Rust",
+      "desc": "A fast type checker and language server for Python"
+    },
+    {
+      "repo": "obra/superpowers",
+      "stars": "10,688",
+      "lang": "Shell",
+      "desc": "An agentic skills framework &amp; software development methodology that works."
+    },
+    {
+      "repo": "HKUDS/ViMax",
+      "stars": "2,495",
+      "lang": "Python",
+      "desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Ge"
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "17,535",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "mattpocock/skills",
+      "stars": "81,739",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "25,325",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenC"
+    },
+    {
+      "repo": "CloakHQ/CloakBrowser",
+      "stars": "16,687",
+      "lang": "Python",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replac"
+    },
+    {
+      "repo": "rohitg00/agentmemory",
+      "stars": "13,721",
+      "lang": "TypeScript",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "stars": "18,821",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "huggingface/ml-intern",
+      "stars": "9,693",
+      "lang": "Python",
+      "desc": "🤗 ml-intern: an open-source ML engineer that reads papers, trains models, and sh"
+    },
+    {
+      "repo": "colbymchenry/codegraph",
+      "stars": "11,378",
+      "lang": "TypeScript",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — "
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "stars": "73,297",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "14,121",
+      "lang": "Python",
+      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "stars": "10,311",
+      "lang": "Python",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "stars": "14,440",
+      "lang": "Python",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → f"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "stars": "26,428",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "17,698",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "decolua/9router",
+      "stars": "10,342",
+      "lang": "JavaScript",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "25,904",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "stars": "21,570",
+      "lang": "TypeScript",
+      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-"
+    },
+    {
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "stars": "10,989",
+      "lang": "JavaScript",
+      "desc": "Open-source alternative to AI video platforms — Free AI image &amp; video genera"
+    }
+  ]
+}
