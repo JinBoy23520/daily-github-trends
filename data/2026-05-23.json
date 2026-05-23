@@ -1,6 +1,103 @@
 {
   "date": "2026-05-23",
-  "daily": [],
+  "daily": [
+    {
+      "repo": "Lum1104/Understand-Anything",
+      "stars": "1,393",
+      "lang": "TypeScript",
+      "desc": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive kn"
+    },
+    {
+      "repo": "anthropics/claude-plugins-official",
+      "stars": "2,549",
+      "lang": "Python",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins."
+    },
+    {
+      "repo": "colbymchenry/codegraph",
+      "stars": "3,684",
+      "lang": "TypeScript",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "stars": "988",
+      "lang": "Python",
+      "desc": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "repo": "Fincept-Corporation/FinceptTerminal",
+      "stars": "367",
+      "lang": "Python",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analyti"
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "stars": "3,152",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "dotnet/skills",
+      "stars": "389",
+      "lang": "C#",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#"
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": "501",
+      "lang": "TypeScript",
+      "desc": "Chrome DevTools for coding agents"
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "stars": "238",
+      "lang": "Python",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR"
+    },
+    {
+      "repo": "presenton/presenton",
+      "stars": "302",
+      "lang": "JavaScript",
+      "desc": "Open-Source AI Presentation Generator and API (Gamma, Beautiful AI, Decktopus Al"
+    },
+    {
+      "repo": "multica-ai/multica",
+      "stars": "879",
+      "lang": "TypeScript",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates "
+    },
+    {
+      "repo": "trimstray/the-book-of-secret-knowledge",
+      "stars": "969",
+      "lang": "",
+      "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,"
+    },
+    {
+      "repo": "odoo/odoo",
+      "stars": "79",
+      "lang": "Python",
+      "desc": "Odoo. Open Source Apps To Grow Your Business."
+    },
+    {
+      "repo": "NVlabs/LongLive",
+      "stars": "79",
+      "lang": "Python",
+      "desc": "LongLive 2.0: Infra - Long Video Gen"
+    },
+    {
+      "repo": "yt-dlp/yt-dlp",
+      "stars": "444",
+      "lang": "Python",
+      "desc": "A feature-rich command-line audio/video downloader"
+    },
+    {
+      "repo": "janestreet/magic-trace",
+      "stars": "70",
+      "lang": "OCaml",
+      "desc": "magic-trace collects and displays high-resolution traces of what a process is do"
+    }
+  ],
   "weekly": [
     {
       "repo": "colbymchenry/codegraph",
