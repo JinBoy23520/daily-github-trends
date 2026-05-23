@@ -1,0 +1,218 @@
+{
+  "date": "2026-05-23",
+  "daily": [],
+  "weekly": [
+    {
+      "repo": "colbymchenry/codegraph",
+      "stars": "14,072",
+      "lang": "TypeScript",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H"
+    },
+    {
+      "repo": "tinyhumansai/openhuman",
+      "stars": "17,124",
+      "lang": "Rust",
+      "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful."
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "stars": "11,550",
+      "lang": "Python",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → f"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "stars": "6,773",
+      "lang": "Rust",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital"
+    },
+    {
+      "repo": "rohitg00/agentmemory",
+      "stars": "6,891",
+      "lang": "TypeScript",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "repo": "supertone-inc/supertonic",
+      "stars": "3,621",
+      "lang": "Swift",
+      "desc": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX."
+    },
+    {
+      "repo": "CloakHQ/CloakBrowser",
+      "stars": "7,042",
+      "lang": "Python",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replac"
+    },
+    {
+      "repo": "HKUDS/ViMax",
+      "stars": "2,685",
+      "lang": "Python",
+      "desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Ge"
+    },
+    {
+      "repo": "humanlayer/12-factor-agents",
+      "stars": "1,907",
+      "lang": "TypeScript",
+      "desc": "What are the principles we can use to build LLM-powered software that is actuall"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "stars": "3,715",
+      "lang": "Python",
+      "desc": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "repo": "datawhalechina/easy-vibe",
+      "stars": "2,942",
+      "lang": "JavaScript",
+      "desc": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste"
+    },
+    {
+      "repo": "Lum1104/Understand-Anything",
+      "stars": "4,680",
+      "lang": "TypeScript",
+      "desc": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive kn"
+    },
+    {
+      "repo": "obra/superpowers",
+      "stars": "10,497",
+      "lang": "Shell",
+      "desc": "An agentic skills framework &amp; software development methodology that works."
+    },
+    {
+      "repo": "can1357/oh-my-pi",
+      "stars": "1,762",
+      "lang": "TypeScript",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness"
+    },
+    {
+      "repo": "K-Dense-AI/scientific-agent-skills",
+      "stars": "2,977",
+      "lang": "Python",
+      "desc": "A set of ready to use Agent Skills for research, science, engineering, analysis,"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "mattpocock/skills",
+      "stars": "83,850",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "colbymchenry/codegraph",
+      "stars": "15,112",
+      "lang": "TypeScript",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H"
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "stars": "19,054",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "CloakHQ/CloakBrowser",
+      "stars": "17,246",
+      "lang": "Python",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replac"
+    },
+    {
+      "repo": "rohitg00/agentmemory",
+      "stars": "14,360",
+      "lang": "TypeScript",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "stars": "25,874",
+      "lang": "Python",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenC"
+    },
+    {
+      "repo": "ComposioHQ/awesome-codex-skills",
+      "stars": "10,312",
+      "lang": "Python",
+      "desc": "A curated list of practical Codex skills for automating workflows across the Cod"
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "stars": "15,541",
+      "lang": "Python",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → f"
+    },
+    {
+      "repo": "multica-ai/andrej-karpathy-skills",
+      "stars": "71,455",
+      "lang": "",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Kar"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "stars": "10,448",
+      "lang": "Python",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "stars": "26,605",
+      "lang": "Python",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework"
+    },
+    {
+      "repo": "AIDC-AI/Pixelle-Video",
+      "stars": "14,067",
+      "lang": "Python",
+      "desc": "🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine"
+    },
+    {
+      "repo": "decolua/9router",
+      "stars": "10,617",
+      "lang": "JavaScript",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An"
+    },
+    {
+      "repo": "refactoringhq/tolaria",
+      "stars": "11,204",
+      "lang": "TypeScript",
+      "desc": "Desktop app to manage markdown knowledge bases"
+    },
+    {
+      "repo": "ruvnet/ruflo",
+      "stars": "21,765",
+      "lang": "TypeScript",
+      "desc": "🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-"
+    },
+    {
+      "repo": "bytedance/UI-TARS-desktop",
+      "stars": "5,606",
+      "lang": "TypeScript",
+      "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and"
+    },
+    {
+      "repo": "Z4nzu/hackingtool",
+      "stars": "17,403",
+      "lang": "Python",
+      "desc": "ALL IN ONE Hacking Tool For Hackers"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "stars": "24,389",
+      "lang": "Shell",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "HKUDS/ViMax",
+      "stars": "3,983",
+      "lang": "Python",
+      "desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Ge"
+    },
+    {
+      "repo": "mattpocock/sandcastle",
+      "stars": "3,899",
+      "lang": "TypeScript",
+      "desc": "Orchestrate sandboxed coding agents in TypeScript with sandcastle.run()"
+    }
+  ]
+}
