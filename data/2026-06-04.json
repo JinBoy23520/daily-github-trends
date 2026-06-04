@@ -1,0 +1,339 @@
+{
+  "date": "2026-06-04",
+  "daily": [
+    {
+      "repo": "chopratejas/headroom",
+      "stars": "3,530",
+      "lang": "Python",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "stars": "2,141",
+      "lang": "JavaScript",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se"
+    },
+    {
+      "repo": "aquasecurity/trivy",
+      "stars": "24",
+      "lang": "Go",
+      "desc": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes"
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "stars": "1,735",
+      "lang": "Python",
+      "desc": "The agent that grows with you"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "1,984",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "repo": "nesquena/hermes-webui",
+      "stars": "719",
+      "lang": "Python",
+      "desc": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!"
+    },
+    {
+      "repo": "D4Vinci/Scrapling",
+      "stars": "1,067",
+      "lang": "Python",
+      "desc": "🕷️ An adaptive Web Scraping framework that handles everything from a single requ"
+    },
+    {
+      "repo": "opendataloader-project/opendataloader-pdf",
+      "stars": "570",
+      "lang": "Java",
+      "desc": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source."
+    },
+    {
+      "repo": "odoo/odoo",
+      "stars": "29",
+      "lang": "Python",
+      "desc": "Odoo. Open Source Apps To Grow Your Business."
+    },
+    {
+      "repo": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "stars": "693",
+      "lang": "Python",
+      "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2"
+    },
+    {
+      "repo": "jwasham/coding-interview-university",
+      "stars": "330",
+      "lang": "",
+      "desc": "A complete computer science study plan to become a software engineer."
+    },
+    {
+      "repo": "lyogavin/airllm",
+      "stars": "208",
+      "lang": "Jupyter Notebook",
+      "desc": "AirLLM 70B inference with single 4GB GPU"
+    },
+    {
+      "repo": "supermemoryai/supermemory",
+      "stars": "600",
+      "lang": "TypeScript",
+      "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the A"
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "stars": "197",
+      "lang": "Python",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "stars": "18,553",
+      "lang": "Python",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "repo": "chopratejas/headroom",
+      "stars": "6,245",
+      "lang": "Python",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "17,108",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "repo": "Lum1104/Understand-Anything",
+      "stars": "12,726",
+      "lang": "TypeScript",
+      "desc": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive kn"
+    },
+    {
+      "repo": "revfactory/harness",
+      "stars": "2,005",
+      "lang": "HTML",
+      "desc": "A meta-skill that designs domain-specific agent teams, defines specialized agent"
+    },
+    {
+      "repo": "hardikpandya/stop-slop",
+      "stars": "3,103",
+      "lang": "",
+      "desc": "A skill file for removing AI tells from prose"
+    },
+    {
+      "repo": "EveryInc/compound-engineering-plugin",
+      "stars": "2,116",
+      "lang": "TypeScript",
+      "desc": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more"
+    },
+    {
+      "repo": "Leonxlnx/taste-skill",
+      "stars": "9,084",
+      "lang": "Shell",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen"
+    },
+    {
+      "repo": "supermemoryai/supermemory",
+      "stars": "2,260",
+      "lang": "TypeScript",
+      "desc": "Memory engine and app that is extremely fast, scalable. The Memory API for the A"
+    },
+    {
+      "repo": "colbymchenry/codegraph",
+      "stars": "9,796",
+      "lang": "TypeScript",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCod"
+    },
+    {
+      "repo": "affaan-m/ECC",
+      "stars": "10,008",
+      "lang": "JavaScript",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, se"
+    },
+    {
+      "repo": "OpenMOSS/MOSS-TTS",
+      "stars": "974",
+      "lang": "Python",
+      "desc": "MOSS‑TTS Family is an open‑source speech and sound generation model family from "
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "stars": "3,247",
+      "lang": "Python",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITR"
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "stars": "6,161",
+      "lang": "Python",
+      "desc": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "repo": "cursor/plugins",
+      "stars": "820",
+      "lang": "TypeScript",
+      "desc": "Cursor plugin specification and official plugins"
+    },
+    {
+      "repo": "can1357/oh-my-pi",
+      "stars": "2,521",
+      "lang": "TypeScript",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "stars": "1,000",
+      "lang": "Python",
+      "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution"
+    },
+    {
+      "repo": "ogulcancelik/herdr",
+      "stars": "1,410",
+      "lang": "Rust",
+      "desc": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "repo": "p-e-w/heretic",
+      "stars": "1,595",
+      "lang": "Python",
+      "desc": "Fully automatic censorship removal for language models"
+    },
+    {
+      "repo": "OpenBMB/VoxCPM",
+      "stars": "5,640",
+      "lang": "Python",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice D"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": "3,009",
+      "lang": "Python",
+      "desc": "Claude Code is an agentic coding tool that lives in your terminal, understands y"
+    },
+    {
+      "repo": "iii-hq/iii",
+      "stars": "1,054",
+      "lang": "Rust",
+      "desc": "Effortlessly compose, extend, and observe every service in real-time for the fir"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "colbymchenry/codegraph",
+      "stars": "38,467",
+      "lang": "TypeScript",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCod"
+    },
+    {
+      "repo": "anthropics/financial-services",
+      "stars": "21,999",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "CloakHQ/CloakBrowser",
+      "stars": "22,190",
+      "lang": "Python",
+      "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replac"
+    },
+    {
+      "repo": "Hmbown/CodeWhale",
+      "stars": "35,225",
+      "lang": "Rust",
+      "desc": "DeepSeek + MiMo coding agent in terminal"
+    },
+    {
+      "repo": "rohitg00/agentmemory",
+      "stars": "18,882",
+      "lang": "TypeScript",
+      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks"
+    },
+    {
+      "repo": "Lum1104/Understand-Anything",
+      "stars": "40,416",
+      "lang": "TypeScript",
+      "desc": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive kn"
+    },
+    {
+      "repo": "HKUDS/ViMax",
+      "stars": "5,930",
+      "lang": "Python",
+      "desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Ge"
+    },
+    {
+      "repo": "Imbad0202/academic-research-skills",
+      "stars": "22,608",
+      "lang": "Python",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → f"
+    },
+    {
+      "repo": "fathah/hermes-desktop",
+      "stars": "8,951",
+      "lang": "TypeScript",
+      "desc": "Desktop Companion for Hermes Agent"
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "stars": "22,441",
+      "lang": "Python",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "repo": "rohitg00/ai-engineering-from-scratch",
+      "stars": "21,631",
+      "lang": "Python",
+      "desc": "Learn it. Build it. Ship it for others."
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "60,443",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "yikart/AiToEarn",
+      "stars": "8,794",
+      "lang": "TypeScript",
+      "desc": "Let's use AI to Earn!"
+    },
+    {
+      "repo": "decolua/9router",
+      "stars": "12,585",
+      "lang": "JavaScript",
+      "desc": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, An"
+    },
+    {
+      "repo": "bytedance/UI-TARS-desktop",
+      "stars": "6,551",
+      "lang": "TypeScript",
+      "desc": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "stars": "19,584",
+      "lang": "Rust",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital"
+    },
+    {
+      "repo": "chopratejas/headroom",
+      "stars": "7,349",
+      "lang": "Python",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60"
+    },
+    {
+      "repo": "can1357/oh-my-pi",
+      "stars": "6,443",
+      "lang": "TypeScript",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness"
+    },
+    {
+      "repo": "datawhalechina/easy-vibe",
+      "stars": "8,411",
+      "lang": "JavaScript",
+      "desc": "💻 vibe coding 2026 | Your first modern Coding course for beginners to master ste"
+    }
+  ]
+}
