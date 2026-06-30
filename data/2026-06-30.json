@@ -92,6 +92,254 @@
       "desc": "Disk encryption with strong security based on TrueCrypt"
     }
   ],
-  "weekly": [],
-  "monthly": []
+  "weekly": [
+    {
+      "repo": "calesthio/OpenMontage",
+      "stars": "17,483",
+      "lang": "Python",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 too"
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "stars": "9,899",
+      "lang": "C",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persiste"
+    },
+    {
+      "repo": "google-labs-code/design.md",
+      "stars": "7,104",
+      "lang": "TypeScript",
+      "desc": "A format specification for describing a visual identity to coding agents. DESIGN"
+    },
+    {
+      "repo": "simplex-chat/simplex-chat",
+      "stars": "4,847",
+      "lang": "Haskell",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any "
+    },
+    {
+      "repo": "kunchenguid/no-mistakes",
+      "stars": "2,677",
+      "lang": "Go",
+      "desc": "git push no-mistakes"
+    },
+    {
+      "repo": "JCodesMore/ai-website-cloner-template",
+      "stars": "5,937",
+      "lang": "TypeScript",
+      "desc": "Clone any website with one command using AI coding agents"
+    },
+    {
+      "repo": "interviewstreet/hiring-agent",
+      "stars": "2,233",
+      "lang": "Python",
+      "desc": "AI agent to evaluate and score resumes."
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "stars": "6,297",
+      "lang": "Python",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock"
+    },
+    {
+      "repo": "stablyai/orca",
+      "stars": "3,047",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agen"
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "stars": "7,928",
+      "lang": "Python",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, R"
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "stars": "1,858",
+      "lang": "TypeScript",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "stars": "4,735",
+      "lang": "Python",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR"
+    },
+    {
+      "repo": "palmier-io/palmier-pro",
+      "stars": "2,797",
+      "lang": "Swift",
+      "desc": "macOS video editor built for AI"
+    },
+    {
+      "repo": "BuilderIO/agent-native",
+      "stars": "1,679",
+      "lang": "TypeScript",
+      "desc": "A framework for building agent-native applications."
+    },
+    {
+      "repo": "aws/agent-toolkit-for-aws",
+      "stars": "648",
+      "lang": "Python",
+      "desc": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build"
+    },
+    {
+      "repo": "topoteretes/cognee",
+      "stars": "6,335",
+      "lang": "Python",
+      "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents per"
+    },
+    {
+      "repo": "NanmiCoder/MediaCrawler",
+      "stars": "2,642",
+      "lang": "Python",
+      "desc": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬"
+    },
+    {
+      "repo": "Stirling-Tools/Stirling-PDF",
+      "stars": "2,717",
+      "lang": "Java",
+      "desc": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere"
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "stars": "2,397",
+      "lang": "TypeScript",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitic"
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "stars": "3,884",
+      "lang": "TypeScript",
+      "desc": "The open-source AI voice studio. Clone, dictate, create."
+    },
+    {
+      "repo": "penpot/penpot",
+      "stars": "1,950",
+      "lang": "Clojure",
+      "desc": "Penpot: The open-source design tool for design and code collaboration"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "apple/container",
+      "stars": "18,123",
+      "lang": "Swift",
+      "desc": "A tool for creating and running Linux containers using lightweight virtual machi"
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "stars": "18,196",
+      "lang": "C",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persiste"
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "stars": "24,187",
+      "lang": "Python",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 too"
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "stars": "25,059",
+      "lang": "Python",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, R"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "stars": "21,128",
+      "lang": "Python",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymark"
+    },
+    {
+      "repo": "iptv-org/iptv",
+      "stars": "13,028",
+      "lang": "TypeScript",
+      "desc": "Collection of publicly available IPTV channels from all over the world"
+    },
+    {
+      "repo": "phuryn/pm-skills",
+      "stars": "10,053",
+      "lang": "",
+      "desc": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discove"
+    },
+    {
+      "repo": "lfnovo/open-notebook",
+      "stars": "10,212",
+      "lang": "TypeScript",
+      "desc": "An Open Source implementation of Notebook LM with more flexibility and features"
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "stars": "26,117",
+      "lang": "Python",
+      "desc": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM."
+    },
+    {
+      "repo": "Leonxlnx/taste-skill",
+      "stars": "25,764",
+      "lang": "JavaScript",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen"
+    },
+    {
+      "repo": "simplex-chat/simplex-chat",
+      "stars": "5,025",
+      "lang": "Haskell",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any "
+    },
+    {
+      "repo": "openai/plugins",
+      "stars": "2,496",
+      "lang": "JavaScript",
+      "desc": "OpenAI Plugins"
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "stars": "6,293",
+      "lang": "JavaScript",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "stars": "32,813",
+      "lang": "Python",
+      "desc": "Python tool for converting files and office documents to Markdown."
+    },
+    {
+      "repo": "stablyai/orca",
+      "stars": "5,358",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agen"
+    },
+    {
+      "repo": "ogulcancelik/herdr",
+      "stars": "5,416",
+      "lang": "Rust",
+      "desc": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "repo": "mukul975/Anthropic-Cybersecurity-Skills",
+      "stars": "11,231",
+      "lang": "Python",
+      "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITR"
+    },
+    {
+      "repo": "tashfeenahmed/freellmapi",
+      "stars": "7,821",
+      "lang": "TypeScript",
+      "desc": "OpenAI-compatible proxy that stacks the free tiers of 16 LLM providers (~1.7B to"
+    },
+    {
+      "repo": "can1357/oh-my-pi",
+      "stars": "6,867",
+      "lang": "TypeScript",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness"
+    },
+    {
+      "repo": "Open-LLM-VTuber/Open-LLM-VTuber",
+      "stars": "4,291",
+      "lang": "Python",
+      "desc": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2"
+    }
+  ]
 }
