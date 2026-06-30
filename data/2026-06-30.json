@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-30",
+  "daily": [
+    {
+      "repo": "simplex-chat/simplex-chat",
+      "stars": "1,607",
+      "lang": "Haskell",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any "
+    },
+    {
+      "repo": "msitarzewski/agency-agents",
+      "stars": "1,425",
+      "lang": "Shell",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit commun"
+    },
+    {
+      "repo": "cupy/cupy",
+      "stars": "352",
+      "lang": "Python",
+      "desc": "NumPy &amp; SciPy for GPU"
+    },
+    {
+      "repo": "altic-dev/FluidVoice",
+      "stars": "830",
+      "lang": "Swift",
+      "desc": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. On"
+    },
+    {
+      "repo": "soxoj/maigret",
+      "stars": "224",
+      "lang": "Python",
+      "desc": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites"
+    },
+    {
+      "repo": "commaai/openpilot",
+      "stars": "458",
+      "lang": "Python",
+      "desc": "openpilot is an operating system for robotics. Currently, it upgrades the driver"
+    },
+    {
+      "repo": "ripienaar/free-for-dev",
+      "stars": "1,935",
+      "lang": "HTML",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devo"
+    },
+    {
+      "repo": "logto-io/logto",
+      "stars": "158",
+      "lang": "TypeScript",
+      "desc": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built "
+    },
+    {
+      "repo": "xbtlin/ai-berkshire",
+      "stars": "1,386",
+      "lang": "Python",
+      "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| A"
+    },
+    {
+      "repo": "browser-use/video-use",
+      "stars": "967",
+      "lang": "Python",
+      "desc": "Edit videos with coding agents"
+    },
+    {
+      "repo": "Unclecheng-li/VulnClaw",
+      "stars": "129",
+      "lang": "Python",
+      "desc": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 →"
+    },
+    {
+      "repo": "0xNyk/council-of-high-intelligence",
+      "stars": "331",
+      "lang": "Shell",
+      "desc": "18 AI personas deliberate your hardest decisions across multiple LLM providers. "
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "stars": "839",
+      "lang": "Python",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "repo": "refactoringhq/tolaria",
+      "stars": "280",
+      "lang": "TypeScript",
+      "desc": "Desktop app to manage markdown knowledge bases"
+    },
+    {
+      "repo": "veracrypt/VeraCrypt",
+      "stars": "186",
+      "lang": "C",
+      "desc": "Disk encryption with strong security based on TrueCrypt"
+    }
+  ],
+  "weekly": [],
+  "monthly": []
+}
