@@ -1,0 +1,363 @@
+{
+  "date": "2026-07-12",
+  "daily": [
+    {
+      "repo": "Dicklesworthstone/destructive_command_guard",
+      "stars": "444",
+      "lang": "Rust",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm"
+    },
+    {
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "stars": "207",
+      "lang": "TypeScript",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search"
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "stars": "776",
+      "lang": "Python",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "repo": "PrefectHQ/prefect",
+      "stars": "55",
+      "lang": "Python",
+      "desc": "Prefect is a workflow orchestration framework for building resilient data pipeli"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "549",
+      "lang": "Python",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "stars": "464",
+      "lang": "Jupyter Notebook",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of usin"
+    },
+    {
+      "repo": "home-assistant/core",
+      "stars": "404",
+      "lang": "Python",
+      "desc": "🏡 Open source home automation that puts local control and privacy first."
+    },
+    {
+      "repo": "Crosstalk-Solutions/project-nomad",
+      "stars": "122",
+      "lang": "TypeScript",
+      "desc": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with cr"
+    },
+    {
+      "repo": "ColeMurray/background-agents",
+      "stars": "9",
+      "lang": "TypeScript",
+      "desc": "An open-source background agents coding system"
+    },
+    {
+      "repo": "k1tbyte/Wand-Enhancer",
+      "stars": "661",
+      "lang": "C#",
+      "desc": "Advanced UX and interoperability extension for Wand (WeMod) app"
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "stars": "79",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "virattt/ai-hedge-fund",
+      "stars": "109",
+      "lang": "Python",
+      "desc": "An AI Hedge Fund Team"
+    },
+    {
+      "repo": "chen08209/FlClash",
+      "stars": "151",
+      "lang": "Dart",
+      "desc": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-so"
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "stars": "274",
+      "lang": "Python",
+      "desc": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "repo": "par274/sharpemu",
+      "stars": "436",
+      "lang": "C#",
+      "desc": "An experimental PlayStation 5 emulator project."
+    },
+    {
+      "repo": "malisper/pgrust",
+      "stars": "518",
+      "lang": "Rust",
+      "desc": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "stars": "210",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "Zackriya-Solutions/meetily",
+      "stars": "8,579",
+      "lang": "Rust",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr"
+    },
+    {
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "stars": "1,451",
+      "lang": "TypeScript",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search"
+    },
+    {
+      "repo": "openai/codex-plugin-cc",
+      "stars": "4,030",
+      "lang": "JavaScript",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks."
+    },
+    {
+      "repo": "TencentCloud/CubeSandbox",
+      "stars": "2,416",
+      "lang": "Rust",
+      "desc": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents."
+    },
+    {
+      "repo": "abseil/abseil-cpp",
+      "stars": "229",
+      "lang": "C++",
+      "desc": "Abseil Common Libraries (C++)"
+    },
+    {
+      "repo": "ogulcancelik/herdr",
+      "stars": "4,349",
+      "lang": "Rust",
+      "desc": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "stars": "7,731",
+      "lang": "JavaScript",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,"
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "stars": "4,375",
+      "lang": "TypeScript",
+      "desc": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con"
+    },
+    {
+      "repo": "stablyai/orca",
+      "stars": "4,368",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agen"
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "stars": "4,399",
+      "lang": "Python",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, t"
+    },
+    {
+      "repo": "facebook/astryx",
+      "stars": "2,779",
+      "lang": "TypeScript",
+      "desc": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "stars": "6,549",
+      "lang": "C#",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read"
+    },
+    {
+      "repo": "usestrix/strix",
+      "stars": "4,987",
+      "lang": "Python",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti"
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "stars": "1,036",
+      "lang": "JavaScript",
+      "desc": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme "
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "stars": "3,317",
+      "lang": "TypeScript",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "repo": "alirezarezvani/claude-skills",
+      "stars": "2,261",
+      "lang": "Python",
+      "desc": "345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom "
+    },
+    {
+      "repo": "ChromeDevTools/chrome-devtools-mcp",
+      "stars": "1,097",
+      "lang": "TypeScript",
+      "desc": "Chrome DevTools for coding agents"
+    },
+    {
+      "repo": "vxcontrol/pentagi",
+      "stars": "1,766",
+      "lang": "Go",
+      "desc": "Fully autonomous AI Agents system capable of performing complex penetration test"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "stars": "3,720",
+      "lang": "Rust",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital"
+    },
+    {
+      "repo": "JuliusBrussee/caveman",
+      "stars": "4,696",
+      "lang": "JavaScript",
+      "desc": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% o"
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "stars": "2,255",
+      "lang": "JavaScript",
+      "desc": "The design language that makes your AI harness better at design."
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "stars": "26,790",
+      "lang": "C",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persiste"
+    },
+    {
+      "repo": "calesthio/OpenMontage",
+      "stars": "32,538",
+      "lang": "Python",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 too"
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "stars": "28,880",
+      "lang": "Python",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, R"
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "stars": "14,671",
+      "lang": "JavaScript",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,"
+    },
+    {
+      "repo": "kunchenguid/no-mistakes",
+      "stars": "4,652",
+      "lang": "Go",
+      "desc": "git push no-mistakes"
+    },
+    {
+      "repo": "usestrix/strix",
+      "stars": "14,657",
+      "lang": "Python",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti"
+    },
+    {
+      "repo": "ogulcancelik/herdr",
+      "stars": "10,125",
+      "lang": "Rust",
+      "desc": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "repo": "stablyai/orca",
+      "stars": "11,693",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agen"
+    },
+    {
+      "repo": "Zackriya-Solutions/meetily",
+      "stars": "10,434",
+      "lang": "Rust",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr"
+    },
+    {
+      "repo": "interviewstreet/hiring-agent",
+      "stars": "4,473",
+      "lang": "Python",
+      "desc": "AI agent to evaluate and score resumes."
+    },
+    {
+      "repo": "alibaba/zvec",
+      "stars": "5,021",
+      "lang": "C++",
+      "desc": "A lightweight, lightning-fast, in-process vector database"
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "stars": "9,525",
+      "lang": "TypeScript",
+      "desc": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con"
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "stars": "7,630",
+      "lang": "TypeScript",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "repo": "simplex-chat/simplex-chat",
+      "stars": "7,317",
+      "lang": "Haskell",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any "
+    },
+    {
+      "repo": "iptv-org/iptv",
+      "stars": "15,068",
+      "lang": "TypeScript",
+      "desc": "Collection of publicly available IPTV channels from all over the world"
+    },
+    {
+      "repo": "gabime/spdlog",
+      "stars": "297",
+      "lang": "C++",
+      "desc": "Fast C++ logging library."
+    },
+    {
+      "repo": "n0-computer/iroh",
+      "stars": "2,815",
+      "lang": "Rust",
+      "desc": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal "
+    },
+    {
+      "repo": "NVIDIA/SkillSpector",
+      "stars": "10,589",
+      "lang": "Python",
+      "desc": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns"
+    },
+    {
+      "repo": "mauriceboe/TREK",
+      "stars": "4,517",
+      "lang": "TypeScript",
+      "desc": "A self-hosted travel/trip planner with real-time collaboration, interactive maps"
+    },
+    {
+      "repo": "ocornut/imgui",
+      "stars": "840",
+      "lang": "C++",
+      "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencie"
+    },
+    {
+      "repo": "topoteretes/cognee",
+      "stars": "9,870",
+      "lang": "Python",
+      "desc": "Cognee is the open-source AI memory platform for agents. Give your AI agents per"
+    }
+  ]
+}
