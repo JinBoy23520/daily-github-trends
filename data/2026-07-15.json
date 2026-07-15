@@ -1,0 +1,351 @@
+{
+  "date": "2026-07-15",
+  "daily": [
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "stars": "1,505",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "stars": "1,119",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "mattpocock/skills",
+      "stars": "2,160",
+      "lang": "Shell",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory."
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "stars": "537",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l"
+    },
+    {
+      "repo": "Dicklesworthstone/destructive_command_guard",
+      "stars": "497",
+      "lang": "Rust",
+      "desc": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell comm"
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "stars": "924",
+      "lang": "Python",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "repo": "openinterpreter/openinterpreter",
+      "stars": "607",
+      "lang": "Rust",
+      "desc": "A coding agent for low-cost models"
+    },
+    {
+      "repo": "1c7/chinese-independent-developer",
+      "stars": "1,196",
+      "lang": "Python",
+      "desc": "👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "stars": "128",
+      "lang": "Python",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+    },
+    {
+      "repo": "HenryNdubuaku/maths-cs-ai-compendium",
+      "stars": "729",
+      "lang": "TypeScript",
+      "desc": "Become a cracked AI/ML Research Engineer"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "1,278",
+      "lang": "Python",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "repo": "coreyhaines31/marketingskills",
+      "stars": "869",
+      "lang": "JavaScript",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics"
+    },
+    {
+      "repo": "YimMenu/YimMenuV2",
+      "stars": "21",
+      "lang": "C++",
+      "desc": "Experimental menu for GTA 5: Enhanced"
+    },
+    {
+      "repo": "hasaneyldrm/exercises-dataset",
+      "stars": "951",
+      "lang": "HTML",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-grou"
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "stars": "2,009",
+      "lang": "TypeScript",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search"
+    },
+    {
+      "repo": "google-labs-code/stitch-skills",
+      "stars": "975",
+      "lang": "TypeScript",
+      "desc": "A library of Agent Skills designed to work with the Stitch MCP server. Each skil"
+    },
+    {
+      "repo": "abseil/abseil-cpp",
+      "stars": "637",
+      "lang": "C++",
+      "desc": "Abseil Common Libraries (C++)"
+    },
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "stars": "13,195",
+      "lang": "TypeScript",
+      "desc": "The job search that runs on your machine. AI job application framework built on "
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "stars": "7,129",
+      "lang": "C#",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read"
+    },
+    {
+      "repo": "stablyai/orca",
+      "stars": "5,724",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agen"
+    },
+    {
+      "repo": "chriskohlhoff/asio",
+      "stars": "245",
+      "lang": "C++",
+      "desc": "Asio C++ Library"
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "stars": "4,252",
+      "lang": "Python",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "stars": "2,274",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "oven-sh/bun",
+      "stars": "1,257",
+      "lang": "Rust",
+      "desc": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – "
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "stars": "1,519",
+      "lang": "JavaScript",
+      "desc": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme "
+    },
+    {
+      "repo": "openai/codex-plugin-cc",
+      "stars": "2,063",
+      "lang": "JavaScript",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks."
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "stars": "4,297",
+      "lang": "TypeScript",
+      "desc": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con"
+    },
+    {
+      "repo": "ogulcancelik/herdr",
+      "stars": "3,115",
+      "lang": "Rust",
+      "desc": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "repo": "TencentCloud/CubeSandbox",
+      "stars": "1,944",
+      "lang": "Rust",
+      "desc": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents."
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "stars": "3,827",
+      "lang": "Python",
+      "desc": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "stars": "2,494",
+      "lang": "JavaScript",
+      "desc": "The design language that makes your AI harness better at design."
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "stars": "7,247",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    },
+    {
+      "repo": "davila7/claude-code-templates",
+      "stars": "1,027",
+      "lang": "Python",
+      "desc": "CLI tool for configuring and monitoring Claude Code"
+    },
+    {
+      "repo": "anthropics/claude-cookbooks",
+      "stars": "2,305",
+      "lang": "Jupyter Notebook",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of usin"
+    },
+    {
+      "repo": "Zackriya-Solutions/meetily",
+      "stars": "4,389",
+      "lang": "Rust",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr"
+    },
+    {
+      "repo": "actions/checkout",
+      "stars": "184",
+      "lang": "TypeScript",
+      "desc": "Action for checking out a repo"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "calesthio/OpenMontage",
+      "stars": "33,860",
+      "lang": "Python",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 too"
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "stars": "28,030",
+      "lang": "C",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persiste"
+    },
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "stars": "19,140",
+      "lang": "TypeScript",
+      "desc": "The job search that runs on your machine. AI job application framework built on "
+    },
+    {
+      "repo": "catchorg/Catch2",
+      "stars": "905",
+      "lang": "C++",
+      "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, "
+    },
+    {
+      "repo": "asgeirtj/system_prompts_leaks",
+      "stars": "15,784",
+      "lang": "JavaScript",
+      "desc": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code,"
+    },
+    {
+      "repo": "kunchenguid/no-mistakes",
+      "stars": "4,887",
+      "lang": "Go",
+      "desc": "git push no-mistakes"
+    },
+    {
+      "repo": "usestrix/strix",
+      "stars": "15,625",
+      "lang": "Python",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabiliti"
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "stars": "28,179",
+      "lang": "Python",
+      "desc": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, R"
+    },
+    {
+      "repo": "stablyai/orca",
+      "stars": "14,163",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agen"
+    },
+    {
+      "repo": "ogulcancelik/herdr",
+      "stars": "10,805",
+      "lang": "Rust",
+      "desc": "agent multiplexer that lives in your terminal."
+    },
+    {
+      "repo": "Zackriya-Solutions/meetily",
+      "stars": "11,875",
+      "lang": "Rust",
+      "desc": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcr"
+    },
+    {
+      "repo": "diegosouzapw/OmniRoute",
+      "stars": "11,137",
+      "lang": "TypeScript",
+      "desc": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), con"
+    },
+    {
+      "repo": "gabime/spdlog",
+      "stars": "338",
+      "lang": "C++",
+      "desc": "Fast C++ logging library."
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "stars": "8,181",
+      "lang": "TypeScript",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "repo": "GoogleCloudPlatform/knowledge-catalog",
+      "stars": "5,893",
+      "lang": "HTML",
+      "desc": "Google Cloud Knowledge Catalog Tools and Samples"
+    },
+    {
+      "repo": "interviewstreet/hiring-agent",
+      "stars": "4,711",
+      "lang": "Python",
+      "desc": "AI agent to evaluate and score resumes."
+    },
+    {
+      "repo": "simplex-chat/simplex-chat",
+      "stars": "7,515",
+      "lang": "Haskell",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any "
+    },
+    {
+      "repo": "ocornut/imgui",
+      "stars": "917",
+      "lang": "C++",
+      "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencie"
+    },
+    {
+      "repo": "wonderwhy-er/DesktopCommanderMCP",
+      "stars": "2,112",
+      "lang": "TypeScript",
+      "desc": "This is MCP server for Claude that gives it terminal control, file system search"
+    },
+    {
+      "repo": "n0-computer/iroh",
+      "stars": "3,034",
+      "lang": "Rust",
+      "desc": "IP addresses break, dial keys instead. A library that adds QUIC + NAT Traversal "
+    },
+    {
+      "repo": "OpenCut-app/OpenCut",
+      "stars": "13,461",
+      "lang": "TypeScript",
+      "desc": "The open-source CapCut alternative"
+    }
+  ]
+}
