@@ -1,0 +1,319 @@
+{
+  "date": "2026-07-19",
+  "daily": [
+    {
+      "repo": "Robbyant/lingbot-map",
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "stars": "13,288",
+      "forks": "1,378",
+      "lang": "Python",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+    },
+    {
+      "repo": "apache/ossie",
+      "owner": "apache",
+      "name": "ossie",
+      "url": "https://github.com/apache/ossie",
+      "stars": "1,349",
+      "forks": "158",
+      "lang": "Python",
+      "desc": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic…"
+    },
+    {
+      "repo": "PostHog/posthog",
+      "owner": "PostHog",
+      "name": "posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "stars": "36,744",
+      "forks": "3,039",
+      "lang": "Python",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tool…"
+    },
+    {
+      "repo": "elder-plinius/G0DM0D3",
+      "owner": "elder-plinius",
+      "name": "G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "stars": "9,614",
+      "forks": "2,263",
+      "lang": "TypeScript",
+      "desc": "LIBERATED AI CHAT"
+    },
+    {
+      "repo": "KnockOutEZ/wigolo",
+      "owner": "KnockOutEZ",
+      "name": "wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "stars": "1,469",
+      "forks": "93",
+      "lang": "TypeScript",
+      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research ove…"
+    },
+    {
+      "repo": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "stars": "528,541",
+      "forks": "50,013",
+      "lang": "Markdown",
+      "desc": "Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "repo": "MoonshotAI/kimi-cli",
+      "owner": "MoonshotAI",
+      "name": "kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "stars": "9,647",
+      "forks": "1,169",
+      "lang": "Python",
+      "desc": "Kimi Code CLI is your next CLI agent."
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": "13,023",
+      "forks": "657",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": "124,212",
+      "forks": "18,335",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars": "25,109",
+      "forks": "4,138",
+      "lang": "Python",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "stars": "27,777",
+      "forks": "3,691",
+      "lang": "Python",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars": "19,444",
+      "forks": "1,310",
+      "lang": "C#",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, …"
+    },
+    {
+      "repo": "kangarooking/cangjie-skill",
+      "owner": "kangarooking",
+      "name": "cangjie-skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "stars": "3,731",
+      "forks": "531",
+      "lang": "Python",
+      "desc": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
+    },
+    {
+      "repo": "openai/codex",
+      "owner": "openai",
+      "name": "codex",
+      "url": "https://github.com/openai/codex",
+      "stars": "99,522",
+      "forks": "14,900",
+      "lang": "Rust",
+      "desc": "Lightweight coding agent that runs in your terminal"
+    },
+    {
+      "repo": "openinterpreter/openinterpreter",
+      "owner": "openinterpreter",
+      "name": "openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "stars": "66,743",
+      "forks": "5,736",
+      "lang": "Rust",
+      "desc": "A coding agent for open models like Kimi K3"
+    },
+    {
+      "repo": "abseil/abseil-cpp",
+      "owner": "abseil",
+      "name": "abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "stars": "17,983",
+      "forks": "3,141",
+      "lang": "C++",
+      "desc": "Abseil Common Libraries (C++)"
+    },
+    {
+      "repo": "stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "22,032",
+      "forks": "1,585",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with y…"
+    },
+    {
+      "repo": "Graphify-Labs/graphify",
+      "owner": "Graphify-Labs",
+      "name": "graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "stars": "91,224",
+      "forks": "8,893",
+      "lang": "Python",
+      "desc": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). …"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "stars": "23,877",
+      "forks": "7,690",
+      "lang": "TypeScript",
+      "desc": "The job search that runs on your machine. AI job application framework built on Claude C…"
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "stars": "32,812",
+      "forks": "2,504",
+      "lang": "C",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowl…"
+    },
+    {
+      "repo": "kunchenguid/no-mistakes",
+      "owner": "kunchenguid",
+      "name": "no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "stars": "6,561",
+      "forks": "487",
+      "lang": "Go",
+      "desc": "git push no-mistakes"
+    },
+    {
+      "repo": "usestrix/strix",
+      "owner": "usestrix",
+      "name": "strix",
+      "url": "https://github.com/usestrix/strix",
+      "stars": "42,529",
+      "forks": "4,384",
+      "lang": "Python",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "repo": "stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "22,032",
+      "forks": "1,585",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with y…"
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "owner": "alibaba",
+      "name": "page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "stars": "27,091",
+      "forks": "2,373",
+      "lang": "TypeScript",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "repo": "interviewstreet/hiring-agent",
+      "owner": "interviewstreet",
+      "name": "hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "stars": "6,136",
+      "forks": "1,087",
+      "lang": "Python",
+      "desc": "AI agent to evaluate and score resumes."
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": "57,892",
+      "forks": "4,640",
+      "lang": "Python",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTu…"
+    },
+    {
+      "repo": "ocornut/imgui",
+      "owner": "ocornut",
+      "name": "imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "stars": "74,794",
+      "forks": "11,916",
+      "lang": "C++",
+      "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies"
+    },
+    {
+      "repo": "gabime/spdlog",
+      "owner": "gabime",
+      "name": "spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "stars": "29,191",
+      "forks": "5,246",
+      "lang": "C++",
+      "desc": "Fast C++ logging library."
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars": "19,444",
+      "forks": "1,310",
+      "lang": "C#",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, …"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": "13,023",
+      "forks": "657",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "stars": "9,189",
+      "forks": "985",
+      "lang": "Python",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcrib…"
+    }
+  ]
+}
