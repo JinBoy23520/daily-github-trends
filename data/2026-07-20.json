@@ -1,0 +1,389 @@
+{
+  "date": "2026-07-20",
+  "daily": [
+    {
+      "repo": "bojieli/ai-agent-book",
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "stars": "6,561",
+      "forks": "602",
+      "lang": "Python",
+      "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "repo": "kvcache-ai/ktransformers",
+      "owner": "kvcache-ai",
+      "name": "ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "stars": "18,438",
+      "forks": "1,456",
+      "lang": "Python",
+      "desc": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations"
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "stars": "43,483",
+      "forks": "5,307",
+      "lang": "TypeScript",
+      "desc": "The open-source AI voice studio. Clone, dictate, create."
+    },
+    {
+      "repo": "KnockOutEZ/wigolo",
+      "owner": "KnockOutEZ",
+      "name": "wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "stars": "1,950",
+      "forks": "122",
+      "lang": "TypeScript",
+      "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research ove…"
+    },
+    {
+      "repo": "andrewrabert/jellium-desktop",
+      "owner": "andrewrabert",
+      "name": "jellium-desktop",
+      "url": "https://github.com/andrewrabert/jellium-desktop",
+      "stars": "1,314",
+      "forks": "110",
+      "lang": "Rust",
+      "desc": "An unofficial desktop client for Jellyfin"
+    },
+    {
+      "repo": "github/copilot-sdk",
+      "owner": "github",
+      "name": "copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "stars": "9,978",
+      "forks": "1,351",
+      "lang": "Java",
+      "desc": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services"
+    },
+    {
+      "repo": "PostHog/posthog",
+      "owner": "PostHog",
+      "name": "posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "stars": "36,980",
+      "forks": "3,055",
+      "lang": "Python",
+      "desc": "🦔 PostHog is the leading platform for building self-driving products. Our developer tool…"
+    },
+    {
+      "repo": "microsoft/terminal",
+      "owner": "microsoft",
+      "name": "terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "stars": "104,210",
+      "forks": "9,440",
+      "lang": "C++",
+      "desc": "The new Windows Terminal and the original Windows console host, all in the same place!"
+    },
+    {
+      "repo": "AstrBotDevs/AstrBot",
+      "owner": "AstrBotDevs",
+      "name": "AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "stars": "36,735",
+      "forks": "2,547",
+      "lang": "Python",
+      "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, p…"
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "stars": "8,981",
+      "forks": "1,040",
+      "lang": "Rust",
+      "desc": "Coding Agent Harness"
+    },
+    {
+      "repo": "MoonshotAI/kimi-cli",
+      "owner": "MoonshotAI",
+      "name": "kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "stars": "9,938",
+      "forks": "1,197",
+      "lang": "Python",
+      "desc": "Kimi Code CLI is your next CLI agent."
+    },
+    {
+      "repo": "Flowseal/zapret-discord-youtube",
+      "owner": "Flowseal",
+      "name": "zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "stars": "31,040",
+      "forks": "2,375",
+      "lang": "Batchfile",
+      "desc": ""
+    },
+    {
+      "repo": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "stars": "529,009",
+      "forks": "50,046",
+      "lang": "Markdown",
+      "desc": "Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "repo": "Canner/WrenAI",
+      "owner": "Canner",
+      "name": "WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "stars": "16,256",
+      "forks": "1,844",
+      "lang": "Python",
+      "desc": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an ope…"
+    },
+    {
+      "repo": "PKUFlyingPig/cs-self-learning",
+      "owner": "PKUFlyingPig",
+      "name": "cs-self-learning",
+      "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+      "stars": "74,233",
+      "forks": "7,943",
+      "lang": "HTML",
+      "desc": "计算机自学指南"
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": "13,475",
+      "forks": "679",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": "124,627",
+      "forks": "18,405",
+      "lang": "Python",
+      "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars": "25,355",
+      "forks": "4,175",
+      "lang": "Python",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "stars": "28,010",
+      "forks": "3,709",
+      "lang": "Python",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+    },
+    {
+      "repo": "kangarooking/cangjie-skill",
+      "owner": "kangarooking",
+      "name": "cangjie-skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "stars": "3,876",
+      "forks": "541",
+      "lang": "Python",
+      "desc": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars": "19,733",
+      "forks": "1,326",
+      "lang": "C#",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, …"
+    },
+    {
+      "repo": "openai/codex",
+      "owner": "openai",
+      "name": "codex",
+      "url": "https://github.com/openai/codex",
+      "stars": "99,752",
+      "forks": "14,932",
+      "lang": "Rust",
+      "desc": "Lightweight coding agent that runs in your terminal"
+    },
+    {
+      "repo": "openinterpreter/openinterpreter",
+      "owner": "openinterpreter",
+      "name": "openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "stars": "66,855",
+      "forks": "5,740",
+      "lang": "Rust",
+      "desc": "A coding agent for open models like Kimi K3"
+    },
+    {
+      "repo": "earendil-works/pi",
+      "owner": "earendil-works",
+      "name": "pi",
+      "url": "https://github.com/earendil-works/pi",
+      "stars": "72,861",
+      "forks": "9,000",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+    },
+    {
+      "repo": "anthropics/cwc-workshops",
+      "owner": "anthropics",
+      "name": "cwc-workshops",
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "stars": "1,779",
+      "forks": "498",
+      "lang": "TypeScript",
+      "desc": ""
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "stars": "33,007",
+      "forks": "2,521",
+      "lang": "C",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowl…"
+    },
+    {
+      "repo": "usestrix/strix",
+      "owner": "usestrix",
+      "name": "strix",
+      "url": "https://github.com/usestrix/strix",
+      "stars": "42,688",
+      "forks": "4,407",
+      "lang": "Python",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "repo": "kunchenguid/no-mistakes",
+      "owner": "kunchenguid",
+      "name": "no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "stars": "6,646",
+      "forks": "494",
+      "lang": "Go",
+      "desc": "git push no-mistakes"
+    },
+    {
+      "repo": "catchorg/Catch2",
+      "owner": "catchorg",
+      "name": "Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "stars": "21,236",
+      "forks": "3,345",
+      "lang": "C++",
+      "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 an…"
+    },
+    {
+      "repo": "stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "22,526",
+      "forks": "1,620",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with y…"
+    },
+    {
+      "repo": "alibaba/page-agent",
+      "owner": "alibaba",
+      "name": "page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "stars": "27,199",
+      "forks": "2,381",
+      "lang": "TypeScript",
+      "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language."
+    },
+    {
+      "repo": "interviewstreet/hiring-agent",
+      "owner": "interviewstreet",
+      "name": "hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "stars": "6,197",
+      "forks": "1,092",
+      "lang": "Python",
+      "desc": "AI agent to evaluate and score resumes."
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": "58,297",
+      "forks": "4,678",
+      "lang": "Python",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTu…"
+    },
+    {
+      "repo": "ocornut/imgui",
+      "owner": "ocornut",
+      "name": "imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "stars": "74,831",
+      "forks": "11,921",
+      "lang": "C++",
+      "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies"
+    },
+    {
+      "repo": "palmier-io/palmier-pro",
+      "owner": "palmier-io",
+      "name": "palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "stars": "10,830",
+      "forks": "812",
+      "lang": "Swift",
+      "desc": "macOS video editor built for AI"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": "13,475",
+      "forks": "679",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "gabime/spdlog",
+      "owner": "gabime",
+      "name": "spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "stars": "29,201",
+      "forks": "5,249",
+      "lang": "C++",
+      "desc": "Fast C++ logging library."
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars": "19,733",
+      "forks": "1,326",
+      "lang": "C#",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, …"
+    }
+  ]
+}
