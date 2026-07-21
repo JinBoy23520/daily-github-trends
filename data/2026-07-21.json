@@ -6,7 +6,7 @@
       "owner": "1jehuang",
       "name": "jcode",
       "url": "https://github.com/1jehuang/jcode",
-      "stars": "9,633",
+      "stars": "9,649",
       "forks": "1,084",
       "lang": "Rust",
       "desc": "The most intelligent agent harness for code"
@@ -16,7 +16,7 @@
       "owner": "kvcache-ai",
       "name": "ktransformers",
       "url": "https://github.com/kvcache-ai/ktransformers",
-      "stars": "18,734",
+      "stars": "18,742",
       "forks": "1,463",
       "lang": "Python",
       "desc": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations"
@@ -26,7 +26,7 @@
       "owner": "jamiepine",
       "name": "voicebox",
       "url": "https://github.com/jamiepine/voicebox",
-      "stars": "44,173",
+      "stars": "44,191",
       "forks": "5,370",
       "lang": "TypeScript",
       "desc": "The open-source AI voice studio. Clone, dictate, create."
@@ -36,7 +36,7 @@
       "owner": "Robbyant",
       "name": "lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
-      "stars": "14,232",
+      "stars": "14,249",
       "forks": "1,483",
       "lang": "Python",
       "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
@@ -46,8 +46,8 @@
       "owner": "every-app",
       "name": "open-seo",
       "url": "https://github.com/every-app/open-seo",
-      "stars": "5,857",
-      "forks": "649",
+      "stars": "5,871",
+      "forks": "650",
       "lang": "TypeScript",
       "desc": "Open source alternative to Semrush and Ahrefs"
     },
@@ -56,8 +56,8 @@
       "owner": "MoonshotAI",
       "name": "kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
-      "stars": "10,240",
-      "forks": "1,218",
+      "stars": "10,248",
+      "forks": "1,219",
       "lang": "Python",
       "desc": "Kimi Code CLI is your next CLI agent."
     },
@@ -66,7 +66,7 @@
       "owner": "AstrBotDevs",
       "name": "AstrBot",
       "url": "https://github.com/AstrBotDevs/AstrBot",
-      "stars": "37,096",
+      "stars": "37,106",
       "forks": "2,581",
       "lang": "Python",
       "desc": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, p…"
@@ -76,7 +76,7 @@
       "owner": "PrefectHQ",
       "name": "fastmcp",
       "url": "https://github.com/PrefectHQ/fastmcp",
-      "stars": "26,531",
+      "stars": "26,541",
       "forks": "2,164",
       "lang": "Python",
       "desc": "🚀 The fast, Pythonic way to build MCP servers and clients."
@@ -86,8 +86,8 @@
       "owner": "KnockOutEZ",
       "name": "wigolo",
       "url": "https://github.com/KnockOutEZ/wigolo",
-      "stars": "2,551",
-      "forks": "152",
+      "stars": "2,565",
+      "forks": "153",
       "lang": "TypeScript",
       "desc": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research ove…"
     },
@@ -96,8 +96,8 @@
       "owner": "iptv-org",
       "name": "iptv",
       "url": "https://github.com/iptv-org/iptv",
-      "stars": "133,777",
-      "forks": "7,562",
+      "stars": "133,782",
+      "forks": "7,563",
       "lang": "TypeScript",
       "desc": "Collection of publicly available IPTV channels from all over the world"
     },
@@ -106,8 +106,8 @@
       "owner": "oblien",
       "name": "openship",
       "url": "https://github.com/oblien/openship",
-      "stars": "4,809",
-      "forks": "334",
+      "stars": "4,835",
+      "forks": "336",
       "lang": "TypeScript",
       "desc": "Self-hosted deployment platform"
     },
@@ -116,8 +116,8 @@
       "owner": "microsoft",
       "name": "Ontology-Playground",
       "url": "https://github.com/microsoft/Ontology-Playground",
-      "stars": "1,728",
-      "forks": "233",
+      "stars": "1,741",
+      "forks": "234",
       "lang": "TypeScript",
       "desc": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore…"
     },
@@ -126,7 +126,7 @@
       "owner": "handy-computer",
       "name": "transcribe.cpp",
       "url": "https://github.com/handy-computer/transcribe.cpp",
-      "stars": "1,256",
+      "stars": "1,271",
       "forks": "31",
       "lang": "C++",
       "desc": "ggml speech-to-text inference for 16+ model families"
@@ -136,7 +136,7 @@
       "owner": "moonshine-ai",
       "name": "moonshine",
       "url": "https://github.com/moonshine-ai/moonshine",
-      "stars": "9,841",
+      "stars": "9,861",
       "forks": "518",
       "lang": "C++",
       "desc": "Very low latency speech to text, intent recognition, and text to speech, for building vo…"
@@ -148,8 +148,8 @@
       "owner": "Nutlope",
       "name": "hallmark",
       "url": "https://github.com/Nutlope/hallmark",
-      "stars": "14,210",
-      "forks": "706",
+      "stars": "14,235",
+      "forks": "707",
       "lang": "CSS",
       "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
@@ -158,8 +158,8 @@
       "owner": "Shubhamsaboo",
       "name": "awesome-llm-apps",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "stars": "125,168",
-      "forks": "18,468",
+      "stars": "125,180",
+      "forks": "18,469",
       "lang": "Python",
       "desc": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship."
     },
@@ -168,7 +168,7 @@
       "owner": "HKUDS",
       "name": "DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
-      "stars": "28,382",
+      "stars": "28,400",
       "forks": "3,745",
       "lang": "Python",
       "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
@@ -178,8 +178,8 @@
       "owner": "HKUDS",
       "name": "Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "stars": "25,707",
-      "forks": "4,218",
+      "stars": "25,717",
+      "forks": "4,221",
       "lang": "Python",
       "desc": "\"Vibe-Trading: Your Personal Trading Agent\""
     },
@@ -188,7 +188,7 @@
       "owner": "kangarooking",
       "name": "cangjie-skill",
       "url": "https://github.com/kangarooking/cangjie-skill",
-      "stars": "4,087",
+      "stars": "4,089",
       "forks": "551",
       "lang": "Python",
       "desc": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
@@ -198,7 +198,7 @@
       "owner": "iOfficeAI",
       "name": "OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "stars": "20,173",
+      "stars": "20,179",
       "forks": "1,351",
       "lang": "C#",
       "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, …"
@@ -208,8 +208,8 @@
       "owner": "openai",
       "name": "codex",
       "url": "https://github.com/openai/codex",
-      "stars": "100,052",
-      "forks": "14,973",
+      "stars": "100,059",
+      "forks": "14,974",
       "lang": "Rust",
       "desc": "Lightweight coding agent that runs in your terminal"
     },
@@ -218,8 +218,8 @@
       "owner": "MoonshotAI",
       "name": "kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
-      "stars": "10,240",
-      "forks": "1,218",
+      "stars": "10,248",
+      "forks": "1,219",
       "lang": "Python",
       "desc": "Kimi Code CLI is your next CLI agent."
     },
@@ -228,7 +228,7 @@
       "owner": "openinterpreter",
       "name": "openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
-      "stars": "66,954",
+      "stars": "66,957",
       "forks": "5,750",
       "lang": "Rust",
       "desc": "A coding agent for open models like Kimi K3"
@@ -238,7 +238,7 @@
       "owner": "tt-a1i",
       "name": "archify",
       "url": "https://github.com/tt-a1i/archify",
-      "stars": "6,245",
+      "stars": "6,253",
       "forks": "417",
       "lang": "JavaScript",
       "desc": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle a…"
@@ -248,8 +248,8 @@
       "owner": "earendil-works",
       "name": "pi",
       "url": "https://github.com/earendil-works/pi",
-      "stars": "73,536",
-      "forks": "9,069",
+      "stars": "73,576",
+      "forks": "9,073",
       "lang": "TypeScript",
       "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
     },
@@ -258,8 +258,8 @@
       "owner": "codecrafters-io",
       "name": "build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
-      "stars": "529,462",
-      "forks": "50,085",
+      "stars": "529,470",
+      "forks": "50,087",
       "lang": "Markdown",
       "desc": "Master programming by recreating your favorite technologies from scratch."
     },
@@ -268,7 +268,7 @@
       "owner": "anthropics",
       "name": "cwc-workshops",
       "url": "https://github.com/anthropics/cwc-workshops",
-      "stars": "1,829",
+      "stars": "1,830",
       "forks": "501",
       "lang": "TypeScript",
       "desc": ""
@@ -280,8 +280,8 @@
       "owner": "MadsLorentzen",
       "name": "ai-job-search",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "stars": "24,421",
-      "forks": "7,929",
+      "stars": "24,428",
+      "forks": "7,931",
       "lang": "TypeScript",
       "desc": "The job search that runs on your machine. AI job application framework built on Claude C…"
     },
@@ -290,8 +290,8 @@
       "owner": "DeusData",
       "name": "codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "stars": "33,261",
-      "forks": "2,536",
+      "stars": "33,267",
+      "forks": "2,535",
       "lang": "C",
       "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowl…"
     },
@@ -300,7 +300,7 @@
       "owner": "usestrix",
       "name": "strix",
       "url": "https://github.com/usestrix/strix",
-      "stars": "42,917",
+      "stars": "42,921",
       "forks": "4,431",
       "lang": "Python",
       "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
@@ -310,7 +310,7 @@
       "owner": "kunchenguid",
       "name": "no-mistakes",
       "url": "https://github.com/kunchenguid/no-mistakes",
-      "stars": "6,717",
+      "stars": "6,718",
       "forks": "503",
       "lang": "Go",
       "desc": "git push no-mistakes"
@@ -320,7 +320,7 @@
       "owner": "catchorg",
       "name": "Catch2",
       "url": "https://github.com/catchorg/Catch2",
-      "stars": "21,251",
+      "stars": "21,252",
       "forks": "3,346",
       "lang": "C++",
       "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 an…"
@@ -330,8 +330,8 @@
       "owner": "stablyai",
       "name": "orca",
       "url": "https://github.com/stablyai/orca",
-      "stars": "23,574",
-      "forks": "1,703",
+      "stars": "23,613",
+      "forks": "1,708",
       "lang": "TypeScript",
       "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with y…"
     },
@@ -340,7 +340,7 @@
       "owner": "alibaba",
       "name": "page-agent",
       "url": "https://github.com/alibaba/page-agent",
-      "stars": "27,292",
+      "stars": "27,295",
       "forks": "2,396",
       "lang": "TypeScript",
       "desc": "JavaScript in-page GUI agent. Control web interfaces with natural language."
@@ -350,8 +350,8 @@
       "owner": "interviewstreet",
       "name": "hiring-agent",
       "url": "https://github.com/interviewstreet/hiring-agent",
-      "stars": "6,266",
-      "forks": "1,101",
+      "stars": "6,269",
+      "forks": "1,102",
       "lang": "Python",
       "desc": "AI agent to evaluate and score resumes."
     },
@@ -360,8 +360,8 @@
       "owner": "Panniantong",
       "name": "Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "stars": "58,733",
-      "forks": "4,707",
+      "stars": "58,741",
+      "forks": "4,708",
       "lang": "Python",
       "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTu…"
     },
@@ -370,8 +370,8 @@
       "owner": "Nutlope",
       "name": "hallmark",
       "url": "https://github.com/Nutlope/hallmark",
-      "stars": "14,211",
-      "forks": "706",
+      "stars": "14,235",
+      "forks": "707",
       "lang": "CSS",
       "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
     },
@@ -380,7 +380,7 @@
       "owner": "ocornut",
       "name": "imgui",
       "url": "https://github.com/ocornut/imgui",
-      "stars": "74,871",
+      "stars": "74,873",
       "forks": "11,922",
       "lang": "C++",
       "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies"
@@ -390,7 +390,7 @@
       "owner": "iOfficeAI",
       "name": "OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "stars": "20,173",
+      "stars": "20,179",
       "forks": "1,351",
       "lang": "C#",
       "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, …"
@@ -410,7 +410,7 @@
       "owner": "Robbyant",
       "name": "lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
-      "stars": "14,232",
+      "stars": "14,249",
       "forks": "1,483",
       "lang": "Python",
       "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
