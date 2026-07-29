@@ -1,0 +1,409 @@
+{
+  "date": "2026-07-29",
+  "daily": [
+    {
+      "repo": "pascalorg/editor",
+      "owner": "pascalorg",
+      "name": "editor",
+      "url": "https://github.com/pascalorg/editor",
+      "stars": "18,853",
+      "forks": "2,535",
+      "lang": "TypeScript",
+      "desc": "Create and share 3D architectural projects."
+    },
+    {
+      "repo": "jenkinsci/jenkins",
+      "owner": "jenkinsci",
+      "name": "jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "stars": "26,102",
+      "forks": "9,688",
+      "lang": "Java",
+      "desc": "Jenkins automation server"
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "owner": "moeru-ai",
+      "name": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "stars": "44,865",
+      "forks": "4,453",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings t…"
+    },
+    {
+      "repo": "andrewyng/aisuite",
+      "owner": "andrewyng",
+      "name": "aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "stars": "15,717",
+      "forks": "1,657",
+      "lang": "Python",
+      "desc": "Simple, unified interface to multiple Generative AI providers"
+    },
+    {
+      "repo": "hello245m/free-stockdb",
+      "owner": "hello245m",
+      "name": "free-stockdb",
+      "url": "https://github.com/hello245m/free-stockdb",
+      "stars": "1,403",
+      "forks": "214",
+      "lang": "HTML",
+      "desc": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。"
+    },
+    {
+      "repo": "huggingface/speech-to-speech",
+      "owner": "huggingface",
+      "name": "speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "stars": "7,342",
+      "forks": "960",
+      "lang": "Python",
+      "desc": "Build local voice agents with open-source models"
+    },
+    {
+      "repo": "paperswithbacktest/awesome-systematic-trading",
+      "owner": "paperswithbacktest",
+      "name": "awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "stars": "9,746",
+      "forks": "1,302",
+      "lang": "Python",
+      "desc": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for s…"
+    },
+    {
+      "repo": "microsoft/agent-governance-toolkit",
+      "owner": "microsoft",
+      "name": "agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "stars": "5,266",
+      "forks": "837",
+      "lang": "Python",
+      "desc": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandbox…"
+    },
+    {
+      "repo": "yorukot/superfile",
+      "owner": "yorukot",
+      "name": "superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "stars": "21,541",
+      "forks": "698",
+      "lang": "Go",
+      "desc": "Pretty fancy and modern terminal file manager"
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "stars": "12,216",
+      "forks": "1,223",
+      "lang": "Python",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcrib…"
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "koala73/worldmonitor",
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "stars": "76,021",
+      "forks": "11,368",
+      "lang": "TypeScript",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monit…"
+    },
+    {
+      "repo": "ayghri/i-have-adhd",
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars": "12,891",
+      "forks": "671",
+      "lang": "Python",
+      "desc": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output."
+    },
+    {
+      "repo": "bojieli/ai-agent-book",
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "stars": "24,871",
+      "forks": "2,566",
+      "lang": "Python",
+      "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "repo": "oblien/openship",
+      "owner": "oblien",
+      "name": "openship",
+      "url": "https://github.com/oblien/openship",
+      "stars": "9,471",
+      "forks": "757",
+      "lang": "TypeScript",
+      "desc": "Self-hosted deployment platform"
+    },
+    {
+      "repo": "UditAkhourii/adhd",
+      "owner": "UditAkhourii",
+      "name": "adhd",
+      "url": "https://github.com/UditAkhourii/adhd",
+      "stars": "2,593",
+      "forks": "207",
+      "lang": "TypeScript",
+      "desc": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Co…"
+    },
+    {
+      "repo": "agegr/pi-web",
+      "owner": "agegr",
+      "name": "pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "stars": "3,130",
+      "forks": "411",
+      "lang": "TypeScript",
+      "desc": "Web UI for the pi coding agent"
+    },
+    {
+      "repo": "ruvnet/RuView",
+      "owner": "ruvnet",
+      "name": "RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "stars": "87,325",
+      "forks": "11,606",
+      "lang": "Rust",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign mo…"
+    },
+    {
+      "repo": "earendil-works/pi",
+      "owner": "earendil-works",
+      "name": "pi",
+      "url": "https://github.com/earendil-works/pi",
+      "stars": "79,798",
+      "forks": "9,821",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "stars": "34,849",
+      "forks": "5,818",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "Pumpkin-MC/Pumpkin",
+      "owner": "Pumpkin-MC",
+      "name": "Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "stars": "10,309",
+      "forks": "690",
+      "lang": "Rust",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers."
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "stars": "12,893",
+      "forks": "1,425",
+      "lang": "Rust",
+      "desc": "The most RAM effiecent harness"
+    },
+    {
+      "repo": "every-app/open-seo",
+      "owner": "every-app",
+      "name": "open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars": "9,062",
+      "forks": "1,023",
+      "lang": "TypeScript",
+      "desc": "Open source alternative to Semrush and Ahrefs"
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "stars": "15,480",
+      "forks": "3,386",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "stars": "30,952",
+      "forks": "4,054",
+      "lang": "Python",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+    },
+    {
+      "repo": "hyprwm/Hyprland",
+      "owner": "hyprwm",
+      "name": "Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "stars": "37,616",
+      "forks": "1,899",
+      "lang": "C++",
+      "desc": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that …"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "permissionlesstech/bitchat",
+      "owner": "permissionlesstech",
+      "name": "bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "stars": "33,064",
+      "forks": "5,218",
+      "lang": "Swift",
+      "desc": "bluetooth mesh chat, IRC vibes"
+    },
+    {
+      "repo": "usestrix/strix",
+      "owner": "usestrix",
+      "name": "strix",
+      "url": "https://github.com/usestrix/strix",
+      "stars": "45,390",
+      "forks": "4,741",
+      "lang": "Python",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "repo": "stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "31,917",
+      "forks": "2,247",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with y…"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": "19,397",
+      "forks": "964",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "hasaneyldrm/exercises-dataset",
+      "owner": "hasaneyldrm",
+      "name": "exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "stars": "17,678",
+      "forks": "2,155",
+      "lang": "HTML",
+      "desc": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equi…"
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "stars": "76,021",
+      "forks": "11,368",
+      "lang": "TypeScript",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monit…"
+    },
+    {
+      "repo": "catchorg/Catch2",
+      "owner": "catchorg",
+      "name": "Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "stars": "21,377",
+      "forks": "3,392",
+      "lang": "C++",
+      "desc": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 an…"
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars": "22,943",
+      "forks": "1,549",
+      "lang": "C#",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, …"
+    },
+    {
+      "repo": "Robbyant/lingbot-map",
+      "owner": "Robbyant",
+      "name": "lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "stars": "15,786",
+      "forks": "1,668",
+      "lang": "Python",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data"
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "stars": "12,217",
+      "forks": "1,223",
+      "lang": "Python",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcrib…"
+    },
+    {
+      "repo": "xbtlin/ai-berkshire",
+      "owner": "xbtlin",
+      "name": "ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "stars": "14,620",
+      "forks": "2,059",
+      "lang": "Python",
+      "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Be…"
+    },
+    {
+      "repo": "openai/codex-plugin-cc",
+      "owner": "openai",
+      "name": "codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "stars": "30,264",
+      "forks": "1,982",
+      "lang": "JavaScript",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks."
+    },
+    {
+      "repo": "ocornut/imgui",
+      "owner": "ocornut",
+      "name": "imgui",
+      "url": "https://github.com/ocornut/imgui",
+      "stars": "75,333",
+      "forks": "11,972",
+      "lang": "C++",
+      "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies"
+    },
+    {
+      "repo": "HKUDS/Vibe-Trading",
+      "owner": "HKUDS",
+      "name": "Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars": "28,377",
+      "forks": "4,593",
+      "lang": "Python",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\""
+    },
+    {
+      "repo": "DeusData/codebase-memory-mcp",
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "stars": "36,260",
+      "forks": "2,833",
+      "lang": "C",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowl…"
+    }
+  ]
+}
