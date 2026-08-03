@@ -1,0 +1,449 @@
+{
+  "date": "2026-08-03",
+  "daily": [
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "stars": "59,128",
+      "forks": "11,619",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Weeks, 24 Lessons, AI for All!"
+    },
+    {
+      "repo": "iv-org/invidious",
+      "owner": "iv-org",
+      "name": "invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "stars": "21,989",
+      "forks": "2,456",
+      "lang": "Crystal",
+      "desc": "Invidious is an alternative front-end to YouTube"
+    },
+    {
+      "repo": "codecrafters-io/build-your-own-x",
+      "owner": "codecrafters-io",
+      "name": "build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "stars": "534,916",
+      "forks": "50,565",
+      "lang": "Markdown",
+      "desc": "Master programming by recreating your favorite technologies from scratch."
+    },
+    {
+      "repo": "zhaoxuya520/reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": "13,597",
+      "forks": "2,020",
+      "lang": "PowerShell",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pa…"
+    },
+    {
+      "repo": "different-ai/openwork",
+      "owner": "different-ai",
+      "name": "openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "stars": "20,345",
+      "forks": "2,091",
+      "lang": "TypeScript",
+      "desc": "The open-source alternative to Claude Cowork (powered by opencode)"
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "owner": "microsoft",
+      "name": "generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "stars": "114,813",
+      "forks": "61,296",
+      "lang": "Jupyter Notebook",
+      "desc": "21 Lessons, Get Started Building with Generative AI"
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": "64,751",
+      "forks": "5,351",
+      "lang": "Python",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTu…"
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": "11,107",
+      "forks": "1,057",
+      "lang": "TypeScript",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations,…"
+    },
+    {
+      "repo": "mvanhorn/last30days-skill",
+      "owner": "mvanhorn",
+      "name": "last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "stars": "56,893",
+      "forks": "4,978",
+      "lang": "Python",
+      "desc": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and …"
+    },
+    {
+      "repo": "NomaDamas/k-skill",
+      "owner": "NomaDamas",
+      "name": "k-skill",
+      "url": "https://github.com/NomaDamas/k-skill",
+      "stars": "6,899",
+      "forks": "810",
+      "lang": "JavaScript",
+      "desc": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로"
+    },
+    {
+      "repo": "HarbourMasters/Lighthouse",
+      "owner": "HarbourMasters",
+      "name": "Lighthouse",
+      "url": "https://github.com/HarbourMasters/Lighthouse",
+      "stars": "223",
+      "forks": "18",
+      "lang": "C",
+      "desc": ""
+    },
+    {
+      "repo": "esengine/DeepSeek-Reasonix",
+      "owner": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "stars": "29,101",
+      "forks": "1,872",
+      "lang": "Go",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stabil…"
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "block/buzz",
+      "owner": "block",
+      "name": "buzz",
+      "url": "https://github.com/block/buzz",
+      "stars": "21,128",
+      "forks": "2,261",
+      "lang": "Rust",
+      "desc": "A hive mind communication platform"
+    },
+    {
+      "repo": "ayghri/i-have-adhd",
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars": "15,712",
+      "forks": "879",
+      "lang": "Python",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "stars": "59,128",
+      "forks": "11,619",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Weeks, 24 Lessons, AI for All!"
+    },
+    {
+      "repo": "bojieli/ai-agent-book",
+      "owner": "bojieli",
+      "name": "ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "stars": "29,987",
+      "forks": "3,201",
+      "lang": "Python",
+      "desc": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码"
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "stars": "15,282",
+      "forks": "1,693",
+      "lang": "Rust",
+      "desc": "The most RAM efficient harness"
+    },
+    {
+      "repo": "pascalorg/editor",
+      "owner": "pascalorg",
+      "name": "editor",
+      "url": "https://github.com/pascalorg/editor",
+      "stars": "20,752",
+      "forks": "2,664",
+      "lang": "TypeScript",
+      "desc": "Create and share 3D architectural projects."
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars": "17,918",
+      "forks": "1,207",
+      "lang": "Go",
+      "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review t…"
+    },
+    {
+      "repo": "permissionlesstech/bitchat",
+      "owner": "permissionlesstech",
+      "name": "bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "stars": "34,161",
+      "forks": "5,456",
+      "lang": "Swift",
+      "desc": "bluetooth mesh chat, IRC vibes"
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "owner": "moeru-ai",
+      "name": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "stars": "46,553",
+      "forks": "4,592",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings t…"
+    },
+    {
+      "repo": "andrewyng/aisuite",
+      "owner": "andrewyng",
+      "name": "aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "stars": "15,903",
+      "forks": "1,685",
+      "lang": "Python",
+      "desc": "Simple, unified interface to multiple Generative AI providers"
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars": "7,686",
+      "forks": "381",
+      "lang": "JavaScript",
+      "desc": "The fastest browser for AI agents to run browser automation, built for sharing your logg…"
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "stars": "16,350",
+      "forks": "3,643",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "owner": "earthtojake",
+      "name": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "stars": "12,532",
+      "forks": "1,328",
+      "lang": "JavaScript",
+      "desc": "A library of agent skills for CAD, CAE and CAM"
+    },
+    {
+      "repo": "microsoft/TRELLIS.2",
+      "owner": "microsoft",
+      "name": "TRELLIS.2",
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "stars": "10,169",
+      "forks": "1,221",
+      "lang": "Python",
+      "desc": "Native and Compact Structured Latents for 3D Generation"
+    },
+    {
+      "repo": "different-ai/openwork",
+      "owner": "different-ai",
+      "name": "openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "stars": "20,345",
+      "forks": "2,091",
+      "lang": "TypeScript",
+      "desc": "The open-source alternative to Claude Cowork (powered by opencode)"
+    },
+    {
+      "repo": "permissionlesstech/bitchat-android",
+      "owner": "permissionlesstech",
+      "name": "bitchat-android",
+      "url": "https://github.com/permissionlesstech/bitchat-android",
+      "stars": "7,260",
+      "forks": "1,789",
+      "lang": "Kotlin",
+      "desc": "decentralized mesh chat"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "permissionlesstech/bitchat",
+      "owner": "permissionlesstech",
+      "name": "bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "stars": "34,161",
+      "forks": "5,456",
+      "lang": "Swift",
+      "desc": "bluetooth mesh chat, IRC vibes"
+    },
+    {
+      "repo": "stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "35,831",
+      "forks": "2,523",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with y…"
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "name": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": "8,541",
+      "forks": "665",
+      "lang": "HTML",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and l…"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": "20,869",
+      "forks": "1,046",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "stars": "78,168",
+      "forks": "11,683",
+      "lang": "TypeScript",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monit…"
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "stars": "13,474",
+      "forks": "1,314",
+      "lang": "Python",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcrib…"
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars": "24,327",
+      "forks": "1,644",
+      "lang": "C#",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, …"
+    },
+    {
+      "repo": "openai/codex-plugin-cc",
+      "owner": "openai",
+      "name": "codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "stars": "30,987",
+      "forks": "2,052",
+      "lang": "JavaScript",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks."
+    },
+    {
+      "repo": "facebook/astryx",
+      "owner": "facebook",
+      "name": "astryx",
+      "url": "https://github.com/facebook/astryx",
+      "stars": "11,308",
+      "forks": "933",
+      "lang": "TypeScript",
+      "desc": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "repo": "huggingface/speech-to-speech",
+      "owner": "huggingface",
+      "name": "speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "stars": "10,475",
+      "forks": "1,280",
+      "lang": "Python",
+      "desc": "Build local voice agents with open-source models"
+    },
+    {
+      "repo": "usestrix/strix",
+      "owner": "usestrix",
+      "name": "strix",
+      "url": "https://github.com/usestrix/strix",
+      "stars": "46,676",
+      "forks": "4,911",
+      "lang": "Python",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "stars": "15,282",
+      "forks": "1,693",
+      "lang": "Rust",
+      "desc": "The most RAM efficient harness"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": "129,860",
+      "forks": "19,161",
+      "lang": "Python",
+      "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source."
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars": "54,105",
+      "forks": "3,213",
+      "lang": "JavaScript",
+      "desc": "The design language that makes your AI harness better at design."
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "stars": "32,022",
+      "forks": "4,185",
+      "lang": "Python",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+    },
+    {
+      "repo": "Emily2040/seedance-2.0",
+      "owner": "Emily2040",
+      "name": "seedance-2.0",
+      "url": "https://github.com/Emily2040/seedance-2.0",
+      "stars": "5,919",
+      "forks": "893",
+      "lang": "Python",
+      "desc": "Comprehensive production pipeline for quad-modal AI filmmaking with Seedance 2.0"
+    }
+  ]
+}
