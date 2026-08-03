@@ -1,0 +1,439 @@
+{
+  "date": "2026-08-04",
+  "daily": [
+    {
+      "repo": "zhaoxuya520/reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": "15,681",
+      "forks": "2,215",
+      "lang": "PowerShell",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pa…"
+    },
+    {
+      "repo": "firecrawl/pdf-inspector",
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "stars": "8,118",
+      "forks": "539",
+      "lang": "Rust",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently…"
+    },
+    {
+      "repo": "esengine/DeepSeek-Reasonix",
+      "owner": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "stars": "29,892",
+      "forks": "1,918",
+      "lang": "Go",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stabil…"
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": "12,049",
+      "forks": "1,140",
+      "lang": "TypeScript",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations,…"
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "stars": "60,686",
+      "forks": "11,830",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Weeks, 24 Lessons, AI for All!"
+    },
+    {
+      "repo": "microsoft/generative-ai-for-beginners",
+      "owner": "microsoft",
+      "name": "generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "stars": "115,519",
+      "forks": "61,434",
+      "lang": "Jupyter Notebook",
+      "desc": "21 Lessons, Get Started Building with Generative AI"
+    },
+    {
+      "repo": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "stars": "360,494",
+      "forks": "57,525",
+      "lang": "Python",
+      "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes …"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "stars": "35,813",
+      "forks": "5,961",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "Panniantong/Agent-Reach",
+      "owner": "Panniantong",
+      "name": "Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "stars": "65,681",
+      "forks": "5,456",
+      "lang": "Python",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTu…"
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "owner": "Alishahryar1",
+      "name": "free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "stars": "44,027",
+      "forks": "7,268",
+      "lang": "Python",
+      "desc": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenC…"
+    },
+    {
+      "repo": "iv-org/invidious",
+      "owner": "iv-org",
+      "name": "invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "stars": "22,260",
+      "forks": "2,479",
+      "lang": "Crystal",
+      "desc": "Invidious is an alternative front-end to YouTube"
+    },
+    {
+      "repo": "livekit/agents",
+      "owner": "livekit",
+      "name": "agents",
+      "url": "https://github.com/livekit/agents",
+      "stars": "11,964",
+      "forks": "3,456",
+      "lang": "Python",
+      "desc": "A framework for building realtime voice AI agents 🤖🎙️📹"
+    },
+    {
+      "repo": "jamiepine/voicebox",
+      "owner": "jamiepine",
+      "name": "voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "stars": "48,648",
+      "forks": "5,990",
+      "lang": "TypeScript",
+      "desc": "The open-source AI voice studio. Clone, dictate, create."
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "block/buzz",
+      "owner": "block",
+      "name": "buzz",
+      "url": "https://github.com/block/buzz",
+      "stars": "21,820",
+      "forks": "2,383",
+      "lang": "Rust",
+      "desc": "A hive mind communication platform"
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "stars": "60,686",
+      "forks": "11,830",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Weeks, 24 Lessons, AI for All!"
+    },
+    {
+      "repo": "zhaoxuya520/reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": "15,681",
+      "forks": "2,215",
+      "lang": "PowerShell",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pa…"
+    },
+    {
+      "repo": "ayghri/i-have-adhd",
+      "owner": "ayghri",
+      "name": "i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "stars": "16,279",
+      "forks": "917",
+      "lang": "Python",
+      "desc": "A skill to stop your coding agent from burying the answer. ADHD-friendly output."
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "stars": "15,570",
+      "forks": "1,719",
+      "lang": "Rust",
+      "desc": "The most RAM efficient harness"
+    },
+    {
+      "repo": "moeru-ai/airi",
+      "owner": "moeru-ai",
+      "name": "airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "stars": "46,710",
+      "forks": "4,608",
+      "lang": "TypeScript",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings t…"
+    },
+    {
+      "repo": "pascalorg/editor",
+      "owner": "pascalorg",
+      "name": "editor",
+      "url": "https://github.com/pascalorg/editor",
+      "stars": "20,931",
+      "forks": "2,677",
+      "lang": "TypeScript",
+      "desc": "Create and share 3D architectural projects."
+    },
+    {
+      "repo": "different-ai/openwork",
+      "owner": "different-ai",
+      "name": "openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "stars": "20,671",
+      "forks": "2,033",
+      "lang": "TypeScript",
+      "desc": "The open-source alternative to Claude Cowork (powered by opencode)"
+    },
+    {
+      "repo": "andrewyng/aisuite",
+      "owner": "andrewyng",
+      "name": "aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "stars": "15,958",
+      "forks": "1,684",
+      "lang": "Python",
+      "desc": "Simple, unified interface to multiple Generative AI providers"
+    },
+    {
+      "repo": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "stars": "18,410",
+      "forks": "1,242",
+      "lang": "Go",
+      "desc": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool:…"
+    },
+    {
+      "repo": "citrolabs/ego-lite",
+      "owner": "citrolabs",
+      "name": "ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars": "8,019",
+      "forks": "395",
+      "lang": "JavaScript",
+      "desc": "The fastest browser for AI agents to run browser automation, built for sharing your logg…"
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "stars": "16,496",
+      "forks": "3,691",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "microsoft/TRELLIS.2",
+      "owner": "microsoft",
+      "name": "TRELLIS.2",
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "stars": "10,309",
+      "forks": "1,235",
+      "lang": "Python",
+      "desc": "Native and Compact Structured Latents for 3D Generation"
+    },
+    {
+      "repo": "earthtojake/text-to-cad",
+      "owner": "earthtojake",
+      "name": "text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "stars": "12,682",
+      "forks": "1,341",
+      "lang": "JavaScript",
+      "desc": "A library of agent skills for CAD, CAE and CAM"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "permissionlesstech/bitchat",
+      "owner": "permissionlesstech",
+      "name": "bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "stars": "34,312",
+      "forks": "5,477",
+      "lang": "Swift",
+      "desc": "bluetooth mesh chat, IRC vibes"
+    },
+    {
+      "repo": "stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "36,606",
+      "forks": "2,603",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with y…"
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "name": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": "8,849",
+      "forks": "720",
+      "lang": "HTML",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and l…"
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "stars": "78,477",
+      "forks": "11,724",
+      "lang": "TypeScript",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monit…"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": "21,218",
+      "forks": "1,071",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars": "24,791",
+      "forks": "1,672",
+      "lang": "C#",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, …"
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "stars": "13,672",
+      "forks": "1,329",
+      "lang": "Python",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcrib…"
+    },
+    {
+      "repo": "huggingface/speech-to-speech",
+      "owner": "huggingface",
+      "name": "speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "stars": "10,702",
+      "forks": "1,311",
+      "lang": "Python",
+      "desc": "Build local voice agents with open-source models"
+    },
+    {
+      "repo": "facebook/astryx",
+      "owner": "facebook",
+      "name": "astryx",
+      "url": "https://github.com/facebook/astryx",
+      "stars": "11,435",
+      "forks": "974",
+      "lang": "TypeScript",
+      "desc": "An open source design system that's fully customizable and agent ready"
+    },
+    {
+      "repo": "openai/codex-plugin-cc",
+      "owner": "openai",
+      "name": "codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "stars": "31,140",
+      "forks": "2,097",
+      "lang": "JavaScript",
+      "desc": "Use Codex from Claude Code to review code or delegate tasks."
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "stars": "15,570",
+      "forks": "1,719",
+      "lang": "Rust",
+      "desc": "The most RAM efficient harness"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": "130,218",
+      "forks": "19,222",
+      "lang": "Python",
+      "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source."
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "stars": "32,222",
+      "forks": "4,212",
+      "lang": "Python",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+    },
+    {
+      "repo": "pbakaus/impeccable",
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "stars": "54,485",
+      "forks": "3,279",
+      "lang": "JavaScript",
+      "desc": "The design language that makes your AI harness better at design."
+    },
+    {
+      "repo": "usestrix/strix",
+      "owner": "usestrix",
+      "name": "strix",
+      "url": "https://github.com/usestrix/strix",
+      "stars": "47,184",
+      "forks": "4,995",
+      "lang": "Python",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities."
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "stars": "16,496",
+      "forks": "3,691",
+      "lang": "TypeScript",
+      "desc": ""
+    }
+  ]
+}
