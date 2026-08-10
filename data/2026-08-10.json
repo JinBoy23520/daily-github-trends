@@ -1,0 +1,389 @@
+{
+  "date": "2026-08-10",
+  "daily": [
+    {
+      "repo": "PrimeIntellect-ai/prime-agent",
+      "owner": "PrimeIntellect-ai",
+      "name": "prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "stars": "11,329",
+      "forks": "1,164",
+      "lang": "TypeScript",
+      "desc": "A self-improving RLM agent for coding workflows and long-running autonomous tasks."
+    },
+    {
+      "repo": "google-deepmind/weathernext",
+      "owner": "google-deepmind",
+      "name": "weathernext",
+      "url": "https://github.com/google-deepmind/weathernext",
+      "stars": "7,109",
+      "forks": "939",
+      "lang": "Python",
+      "desc": ""
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars": "85,194",
+      "forks": "9,169",
+      "lang": "JavaScript",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    },
+    {
+      "repo": "ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars": "61,275",
+      "forks": "52,024",
+      "lang": "Python",
+      "desc": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysi…"
+    },
+    {
+      "repo": "google/skills",
+      "owner": "google",
+      "name": "skills",
+      "url": "https://github.com/google/skills",
+      "stars": "17,276",
+      "forks": "1,394",
+      "lang": "Python",
+      "desc": "Agent Skills for Google products and technologies"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "stars": "125,606",
+      "forks": "14,846",
+      "lang": "Python",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes in…"
+    },
+    {
+      "repo": "harveyai/harvey-labs",
+      "owner": "harveyai",
+      "name": "harvey-labs",
+      "url": "https://github.com/harveyai/harvey-labs",
+      "stars": "846",
+      "forks": "178",
+      "lang": "Python",
+      "desc": "A benchmark built to evaluate and improve agent capabilities for supporting legal work."
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "stars": "17,687",
+      "forks": "4,015",
+      "lang": "TypeScript",
+      "desc": ""
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "firecrawl/pdf-inspector",
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "stars": "13,926",
+      "forks": "951",
+      "lang": "Rust",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently…"
+    },
+    {
+      "repo": "zhaoxuya520/reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": "22,592",
+      "forks": "3,078",
+      "lang": "PowerShell",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pa…"
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": "18,829",
+      "forks": "1,696",
+      "lang": "TypeScript",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations,…"
+    },
+    {
+      "repo": "esengine/DeepSeek-Reasonix",
+      "owner": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "stars": "33,484",
+      "forks": "2,168",
+      "lang": "Go",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stabil…"
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "stars": "64,077",
+      "forks": "12,395",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Weeks, 24 Lessons, AI for All!"
+    },
+    {
+      "repo": "google/skills",
+      "owner": "google",
+      "name": "skills",
+      "url": "https://github.com/google/skills",
+      "stars": "17,276",
+      "forks": "1,394",
+      "lang": "Python",
+      "desc": "Agent Skills for Google products and technologies"
+    },
+    {
+      "repo": "unclebob/swarm-forge",
+      "owner": "unclebob",
+      "name": "swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "stars": "2,060",
+      "forks": "218",
+      "lang": "Clojure",
+      "desc": "A simple tool for coordinating several AI agents."
+    },
+    {
+      "repo": "iv-org/invidious",
+      "owner": "iv-org",
+      "name": "invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "stars": "22,548",
+      "forks": "2,515",
+      "lang": "Crystal",
+      "desc": "Invidious is an alternative front-end to YouTube"
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "stars": "125,606",
+      "forks": "14,846",
+      "lang": "Python",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes in…"
+    },
+    {
+      "repo": "drawdb-io/drawdb",
+      "owner": "drawdb-io",
+      "name": "drawdb",
+      "url": "https://github.com/drawdb-io/drawdb",
+      "stars": "38,653",
+      "forks": "3,160",
+      "lang": "JavaScript",
+      "desc": "Free, simple, and intuitive online database diagram editor and SQL generator."
+    },
+    {
+      "repo": "livekit/agents",
+      "owner": "livekit",
+      "name": "agents",
+      "url": "https://github.com/livekit/agents",
+      "stars": "12,836",
+      "forks": "3,528",
+      "lang": "Python",
+      "desc": "A framework for building realtime voice AI agents 🤖🎙️📹"
+    },
+    {
+      "repo": "embabel/embabel-agent",
+      "owner": "embabel",
+      "name": "embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "stars": "4,064",
+      "forks": "401",
+      "lang": "Kotlin",
+      "desc": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/"
+    },
+    {
+      "repo": "donnemartin/system-design-primer",
+      "owner": "donnemartin",
+      "name": "system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "stars": "362,731",
+      "forks": "57,751",
+      "lang": "Python",
+      "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes …"
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": "23,088",
+      "forks": "1,182",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "koala73/worldmonitor",
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "stars": "80,223",
+      "forks": "11,985",
+      "lang": "TypeScript",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monit…"
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "stars": "16,642",
+      "forks": "1,876",
+      "lang": "Rust",
+      "desc": "The most RAM efficient harness"
+    },
+    {
+      "repo": "stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "40,903",
+      "forks": "2,868",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with y…"
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "stars": "17,687",
+      "forks": "4,015",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "stars": "33,392",
+      "forks": "4,317",
+      "lang": "Python",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+    },
+    {
+      "repo": "zhaoxuya520/reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": "22,592",
+      "forks": "3,078",
+      "lang": "PowerShell",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pa…"
+    },
+    {
+      "repo": "microsoft/AI-For-Beginners",
+      "owner": "microsoft",
+      "name": "AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "stars": "64,077",
+      "forks": "12,395",
+      "lang": "Jupyter Notebook",
+      "desc": "12 Weeks, 24 Lessons, AI for All!"
+    },
+    {
+      "repo": "every-app/open-seo",
+      "owner": "every-app",
+      "name": "open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars": "11,120",
+      "forks": "1,280",
+      "lang": "TypeScript",
+      "desc": "Open source alternative to Semrush and Ahrefs"
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "name": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": "10,950",
+      "forks": "843",
+      "lang": "HTML",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and l…"
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": "18,829",
+      "forks": "1,696",
+      "lang": "TypeScript",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations,…"
+    },
+    {
+      "repo": "Shubhamsaboo/awesome-llm-apps",
+      "owner": "Shubhamsaboo",
+      "name": "awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": "131,780",
+      "forks": "19,409",
+      "lang": "Python",
+      "desc": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source."
+    },
+    {
+      "repo": "earendil-works/pi",
+      "owner": "earendil-works",
+      "name": "pi",
+      "url": "https://github.com/earendil-works/pi",
+      "stars": "86,069",
+      "forks": "10,695",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+    },
+    {
+      "repo": "huggingface/speech-to-speech",
+      "owner": "huggingface",
+      "name": "speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "stars": "11,903",
+      "forks": "1,463",
+      "lang": "Python",
+      "desc": "Build local voice agents with open-source models"
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars": "27,127",
+      "forks": "1,844",
+      "lang": "C#",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, …"
+    },
+    {
+      "repo": "agegr/pi-web",
+      "owner": "agegr",
+      "name": "pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "stars": "3,865",
+      "forks": "535",
+      "lang": "TypeScript",
+      "desc": "Web UI for the pi coding agent"
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "stars": "14,768",
+      "forks": "1,414",
+      "lang": "Python",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcrib…"
+    }
+  ]
+}
