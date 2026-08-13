@@ -1,0 +1,439 @@
+{
+  "date": "2026-08-13",
+  "daily": [
+    {
+      "repo": "cathrynlavery/diagram-design",
+      "owner": "cathrynlavery",
+      "name": "diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "stars": "11,932",
+      "forks": "745",
+      "lang": "HTML",
+      "desc": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Me…"
+    },
+    {
+      "repo": "macro-inc/macro",
+      "owner": "macro-inc",
+      "name": "macro",
+      "url": "https://github.com/macro-inc/macro",
+      "stars": "2,197",
+      "forks": "249",
+      "lang": "Rust",
+      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM…"
+    },
+    {
+      "repo": "stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "44,327",
+      "forks": "3,087",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with y…"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "owner": "shiyu-coder",
+      "name": "Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "stars": "37,014",
+      "forks": "6,155",
+      "lang": "Python",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets"
+    },
+    {
+      "repo": "hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "stars": "46,096",
+      "forks": "3,746",
+      "lang": "Python",
+      "desc": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, tran…"
+    },
+    {
+      "repo": "infiniflow/ragflow",
+      "owner": "infiniflow",
+      "name": "ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "stars": "87,714",
+      "forks": "10,329",
+      "lang": "Go",
+      "desc": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses …"
+    },
+    {
+      "repo": "paperclipai/paperclip",
+      "owner": "paperclipai",
+      "name": "paperclip",
+      "url": "https://github.com/paperclipai/paperclip",
+      "stars": "77,898",
+      "forks": "14,303",
+      "lang": "TypeScript",
+      "desc": "The open-source app everyone uses to manage agents at work"
+    },
+    {
+      "repo": "NVIDIA-NeMo/Switchyard",
+      "owner": "NVIDIA-NeMo",
+      "name": "Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "stars": "962",
+      "forks": "97",
+      "lang": "Rust",
+      "desc": ""
+    },
+    {
+      "repo": "ZuodaoTech/everyone-can-use-english",
+      "owner": "ZuodaoTech",
+      "name": "everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "stars": "36,307",
+      "forks": "5,037",
+      "lang": "TypeScript",
+      "desc": "人人都能用英语"
+    },
+    {
+      "repo": "smicallef/spiderfoot",
+      "owner": "smicallef",
+      "name": "spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "stars": "20,440",
+      "forks": "3,307",
+      "lang": "Python",
+      "desc": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface."
+    },
+    {
+      "repo": "localsend/localsend",
+      "owner": "localsend",
+      "name": "localsend",
+      "url": "https://github.com/localsend/localsend",
+      "stars": "88,035",
+      "forks": "4,884",
+      "lang": "Dart",
+      "desc": "An open-source cross-platform alternative to AirDrop"
+    },
+    {
+      "repo": "Lightricks/LTX-2",
+      "owner": "Lightricks",
+      "name": "LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "stars": "8,781",
+      "forks": "1,400",
+      "lang": "Python",
+      "desc": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative …"
+    },
+    {
+      "repo": "embabel/embabel-agent",
+      "owner": "embabel",
+      "name": "embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "stars": "4,263",
+      "forks": "413",
+      "lang": "Kotlin",
+      "desc": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/"
+    },
+    {
+      "repo": "cactus-compute/needle",
+      "owner": "cactus-compute",
+      "name": "needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "stars": "4,490",
+      "forks": "317",
+      "lang": "Python",
+      "desc": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots."
+    }
+  ],
+  "weekly": [
+    {
+      "repo": "cloudflare/computer",
+      "owner": "cloudflare",
+      "name": "computer",
+      "url": "https://github.com/cloudflare/computer",
+      "stars": "7,875",
+      "forks": "434",
+      "lang": "TypeScript",
+      "desc": "Give your agent a computer 👾"
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": "20,862",
+      "forks": "1,892",
+      "lang": "TypeScript",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations,…"
+    },
+    {
+      "repo": "huangruiteng/loopx",
+      "owner": "huangruiteng",
+      "name": "loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "stars": "4,496",
+      "forks": "383",
+      "lang": "Python",
+      "desc": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop ag…"
+    },
+    {
+      "repo": "firecrawl/pdf-inspector",
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "stars": "15,132",
+      "forks": "1,042",
+      "lang": "Rust",
+      "desc": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently…"
+    },
+    {
+      "repo": "google/skills",
+      "owner": "google",
+      "name": "skills",
+      "url": "https://github.com/google/skills",
+      "stars": "17,954",
+      "forks": "1,426",
+      "lang": "Python",
+      "desc": "Agent Skills for Google products and technologies"
+    },
+    {
+      "repo": "zhaoxuya520/reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": "24,622",
+      "forks": "3,341",
+      "lang": "PowerShell",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pa…"
+    },
+    {
+      "repo": "esengine/DeepSeek-Reasonix",
+      "owner": "esengine",
+      "name": "DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "stars": "34,318",
+      "forks": "2,264",
+      "lang": "Go",
+      "desc": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stabil…"
+    },
+    {
+      "repo": "drawdb-io/drawdb",
+      "owner": "drawdb-io",
+      "name": "drawdb",
+      "url": "https://github.com/drawdb-io/drawdb",
+      "stars": "38,967",
+      "forks": "3,176",
+      "lang": "JavaScript",
+      "desc": "Free, simple, and intuitive online database diagram editor and SQL generator."
+    },
+    {
+      "repo": "Comfy-Org/ComfyUI",
+      "owner": "Comfy-Org",
+      "name": "ComfyUI",
+      "url": "https://github.com/Comfy-Org/ComfyUI",
+      "stars": "127,176",
+      "forks": "14,980",
+      "lang": "Python",
+      "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes in…"
+    },
+    {
+      "repo": "LadybirdBrowser/ladybird",
+      "owner": "LadybirdBrowser",
+      "name": "ladybird",
+      "url": "https://github.com/LadybirdBrowser/ladybird",
+      "stars": "65,501",
+      "forks": "3,130",
+      "lang": "C++",
+      "desc": "Truly independent web browser"
+    },
+    {
+      "repo": "addyosmani/agent-skills",
+      "owner": "addyosmani",
+      "name": "agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "stars": "86,701",
+      "forks": "9,313",
+      "lang": "JavaScript",
+      "desc": "Production-grade engineering skills for AI coding agents."
+    }
+  ],
+  "monthly": [
+    {
+      "repo": "koala73/worldmonitor",
+      "owner": "koala73",
+      "name": "worldmonitor",
+      "url": "https://github.com/koala73/worldmonitor",
+      "stars": "81,380",
+      "forks": "12,158",
+      "lang": "TypeScript",
+      "desc": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monit…"
+    },
+    {
+      "repo": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "stars": "24,491",
+      "forks": "1,229",
+      "lang": "CSS",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex."
+    },
+    {
+      "repo": "1jehuang/jcode",
+      "owner": "1jehuang",
+      "name": "jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "stars": "17,378",
+      "forks": "1,949",
+      "lang": "Rust",
+      "desc": "The most RAM efficient harness"
+    },
+    {
+      "repo": "zhaoxuya520/reverse-skill",
+      "owner": "zhaoxuya520",
+      "name": "reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "stars": "24,622",
+      "forks": "3,341",
+      "lang": "PowerShell",
+      "desc": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pa…"
+    },
+    {
+      "repo": "TencentCloud/TencentDB-Agent-Memory",
+      "owner": "TencentCloud",
+      "name": "TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": "20,862",
+      "forks": "1,892",
+      "lang": "TypeScript",
+      "desc": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations,…"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "owner": "HKUDS",
+      "name": "DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "stars": "35,317",
+      "forks": "4,475",
+      "lang": "Python",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/."
+    },
+    {
+      "repo": "pingdotgg/t3code",
+      "owner": "pingdotgg",
+      "name": "t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "stars": "18,497",
+      "forks": "4,226",
+      "lang": "TypeScript",
+      "desc": ""
+    },
+    {
+      "repo": "stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "url": "https://github.com/stablyai/orca",
+      "stars": "44,327",
+      "forks": "3,087",
+      "lang": "TypeScript",
+      "desc": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with y…"
+    },
+    {
+      "repo": "every-app/open-seo",
+      "owner": "every-app",
+      "name": "open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "stars": "11,615",
+      "forks": "1,327",
+      "lang": "TypeScript",
+      "desc": "Open source alternative to Semrush and Ahrefs"
+    },
+    {
+      "repo": "earendil-works/pi",
+      "owner": "earendil-works",
+      "name": "pi",
+      "url": "https://github.com/earendil-works/pi",
+      "stars": "88,997",
+      "forks": "11,062",
+      "lang": "TypeScript",
+      "desc": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI"
+    },
+    {
+      "repo": "kangarooking/cangjie-skill",
+      "owner": "kangarooking",
+      "name": "cangjie-skill",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "stars": "7,551",
+      "forks": "932",
+      "lang": "Python",
+      "desc": "把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills"
+    },
+    {
+      "repo": "agegr/pi-web",
+      "owner": "agegr",
+      "name": "pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "stars": "4,123",
+      "forks": "576",
+      "lang": "TypeScript",
+      "desc": "Web UI for the pi coding agent"
+    },
+    {
+      "repo": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "name": "archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": "11,872",
+      "forks": "903",
+      "lang": "HTML",
+      "desc": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and l…"
+    },
+    {
+      "repo": "MoonshotAI/kimi-code",
+      "owner": "MoonshotAI",
+      "name": "kimi-code",
+      "url": "https://github.com/MoonshotAI/kimi-code",
+      "stars": "6,488",
+      "forks": "1,030",
+      "lang": "TypeScript",
+      "desc": "Kimi Code CLI — The Starting Point for Next-Gen Agents"
+    },
+    {
+      "repo": "different-ai/openwork",
+      "owner": "different-ai",
+      "name": "openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "stars": "21,987",
+      "forks": "2,174",
+      "lang": "TypeScript",
+      "desc": "The open-source alternative to Claude Cowork (powered by opencode)"
+    },
+    {
+      "repo": "iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "stars": "28,038",
+      "forks": "1,896",
+      "lang": "C#",
+      "desc": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, …"
+    },
+    {
+      "repo": "bradautomates/claude-video",
+      "owner": "bradautomates",
+      "name": "claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "stars": "15,224",
+      "forks": "1,456",
+      "lang": "Python",
+      "desc": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcrib…"
+    },
+    {
+      "repo": "kunchenguid/firstmate",
+      "owner": "kunchenguid",
+      "name": "firstmate",
+      "url": "https://github.com/kunchenguid/firstmate",
+      "stars": "3,438",
+      "forks": "1,109",
+      "lang": "Shell",
+      "desc": "Talk to one agent. Ship with a crew."
+    }
+  ]
+}
